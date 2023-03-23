@@ -1,0 +1,4425 @@
+# Fudge
+
+## Freeform Universal Donated Gaming Engine
+
+### by Steffan O' Sullivan
+
+> 1992, 1993, 1995
+
+
+
+### Versione Italiana a cura di Massimiliano Lambertini
+
+> Agosto - Ottobre 1995
+
+
+# Prefazione
+
+Fudge è una base per la creazione di Giochi di Ruolo. Questo significa che
+le regole sono solo delle linee guida, non delle leggi fisse ed immutabili.
+Ogni Master deve lavorare un poco per adattare le regole ai propri gusti,
+fornendo le parti mancanti per la creazione di un gioco completo. Questo è
+inevitabile in un GdR "libero" come può esserlo Fudge, dal momento che esso
+deve soddisfare le esigenze di una grande varietà di giocatori.
+Fortunatamente questo significa anche che tutti i supplementi prodotti per
+qualsiasi gioco da qualsiasi casa editrice sono compatibili con Fudge!
+
+Fudge è destinato per quelle persone che vogliono una buona base per
+costruire il proprio sistema di gioco. Se ogni GdR commerciale tratta certe
+cose in una maniera che non vi soddisfa, forse Fudge fa per voi. Se avete
+creato un'ambientazione spettacolare, o ne avete tradotta una da un romanzo
+o altro, ma non esiste alcun sistema di gioco capace di rappresentarla in
+pieno, allora, forse Fudge fa per voi.
+
+Se, d'altra parte, quello che cercate è un insieme dettagliato di regole
+con una ambientazione descritta nei minimi dettagli da un game designer,
+allora potreste non avere più voglia di leggere....
+
+
+
+In questa edizione, Fudge è destinato principalmente a Master esperti,
+ovvero non ci sono sezioni introduttive del tipo: "che cos'è il Gioco di
+Ruolo", e sezioni che dicono come gestire una data situazione. Tuttavia, un
+glossario dei termini usati nel gioco è fornito all'inizio di ogni
+capitolo. Il gioco può funzionare anche con dei giocatori novellini, basta
+solo che il Master sia esperto.
+
+
+# Note Legali
+
+Versione: Traduzione italiana della versione del 7 Dicembre 1993, tradotta
+tra Agosto e Ottobre 1995.
+
+Tutti i diritti su Fudge appartengono a Steffan O' Sullivan (C) 1992, 1993,
+1995. Fudge può essere copiato liberamente e distribuito con ogni mezzo
+desiderato. Nessun compenso superiore a 6$  per distribuzione
+e materiali, può essere richiesto per la distribuzione di Fudge, senza una
+autorizzazione scritta da parte dell'Autore. Si noti che il permesso di
+copia è limitato solo alle regole di Fudge: ogni supplemento o materiale
+incluso con le regole non può essere copiato in alcun modo a meno che non
+sia specificato altrimenti.
+
+Una casa editrice che desidera includere Fudge in un libro contenente materiale coperto da
+copyright può farlo, a patto che soddisfi le seguenti condizioni:
+
+1. Il materiale coperto da Copyright deve essere più lungo delle regole di Fudge incluse in esso.
+2. Queste note legali e (almeno) il capitolo 1 devono essere incluse. 
+3. Le parole in questa nota non devono essere modificate in nessun modo.
+4. Non vi deve essere alcun sovrapprezzo per l'inclusione delle regole di Fudge nel libro.
+
+Fudge è stato pubblicato per la prima volta nel 1992, su Internet, ed è
+stato scritto da Steffan O' Sullivan (sos@oz.plymouth.edu). Andy Skinner ha
+contribuito alla sua creazione con una grossa quantita di materiale di
+qualità. Altri che hanno contribuito sono: Martin Bergendhal, Thomas
+Brettinger, Robert Bridson, Travis Casey, Paul Jason Clegg, Peter F.
+Delaney, Jay Doane, Ann Dupuis, Paul Dupuis, Brian Edmonds, Shawn Gaebett,
+Ed Heil, Richard Hough, Bernard Hsiung, John H. Kim, Pete Lindsay, Bruce
+Onder, Christian Otkjaer, Bill Seurer, Larry Smith, Stephan Szabo, John
+Troyer, Corran Webster e altre persone che scrivono nella rec.games.design
+in Internet.
+
+
+
+### Note del traduttore
+
+Fudge è stato tradotto da Massimiliano Lambertini nel periodo che va
+dall'Agosto 1995 fino alla fine di Ottobre 1995. La distinzione di genere
+introdotta dall'Autore per distinguere il Master dal giocatore non è stata
+rispettata, e si è preferito indicare, per pura convenienza, sia il Master
+che il giocatore al maschile.
+
+All'inizio del 3^ Capitolo, il riferimento alla Resistenza Francese
+presente nell'edizione americana è stato sostituito da un più patriottico
+riferimento alla Resistenza Italiana.
+
+Massimiliano Lambertini, il traduttore di quest'opera, declina ogni
+responsabilità per la qualità di questa traduzione, non essendo un
+traduttore professionista e avendo redatto questa versione italiana
+principalmente per piacere personale.
+
+####  Nota Molto Importante!
+
+Mentre il sottoscritto traduceva questa edizione di Fudge, Steffan O'
+Sullivan ha rilasciato l'edizione 1995 del suo gioco di ruolo, e siete
+vivamente invitati dall'autore (Steffan O'Sullivan) e dal traduttore
+(Massimiliano Lambertini) a procurarvene una copia al più presto. Le regole
+quivi tradotte, tuttavia, non sono da considerarsi in alcun modo obsolete,
+dal momento che l'edizione 1995 è da considerarsi "evolutiva", più che
+"rivoluzionaria".
+
+Massimiliano Lambertini può essere contattato a questo indirizzo email:
+
+max@lambertini.org
+
+
+
+# Fudge - Sguardo d'insieme
+
+Fudge (Freeform, Universal, Donated Gaming Engine - Sistema di Gioco
+universale, Regalato e Libero) è un gioco di ruolo. Le regole di base di
+Fudge non contengono alcun tipo di ambientazione. Queste regole possono
+essere usate con qualunque tipo di genere, e alcuni suggerimenti per
+adattare le regole a determinate situazioni sono qui inclusi. Tuttavia, i
+Master che usano le regole di base di Fudge devono fare un lavoro
+preliminare per adattare le regole al loro universo di gioco.
+
+La libertà di scelta è la premessa che sta dietro a Fudge. Ogni Master che
+desidera usare Fudge ha il diritto di aggiungere o ignorare ogni Attributo,
+Abilità o tratto caratteriale. Di qui, le regole di Fudge sono facilmente
+adattabili a mondi di propria creazione, a scenari derivati da racconti di
+vario genere, o a moduli commerciali già esistenti.
+
+E' perfino possibile integrare Fudge con altre regole preesistenti. Se un
+sistema di gioco ha una meccanica di gioco intelligente che contrasta con
+un insieme di regole poco ben fatte, è possibile importare la parte
+positiva dentro Fudge lasciando fuori tutta la mediocrità. Vi piace il modo
+nel quale il gioco X gestisce i poteri psionici, il gioco Y i combattimenti
+e il gioco Z la sanità mentale? Usate tranquillamente tutte queste regole
+all'interno di Fudge.
+
+La versione completa di Fudge include esempi di creazione del personaggio,
+con ognuno di essi che usa un insieme di tratti caratteriali diverso da
+quello di un altro personaggio. In aggiunta a tutti i suggerimenti sul come
+costruire il proprio insieme di tratti caratteriali, il Capitolo 2 fornisce
+anche un Sistema Obiettivo e un Sistema Soggettivo di creazione del
+personaggio. Il Capitolo 3 fornisce le linee guida per la gestione delle
+Abilità soprannaturali se si desidera includere personaggi dotati di poteri
+sovrumani, come maghi, supereroi, psionici, mutanti....
+
+Il sistema di risoluzione delle azioni (Capitolo 4) è semplice e coerente.
+In breve, un giocatore tira due dadi e modifica il Tratto Caratteriale del
+suo personaggio con un bonus o una penalità a seconda del risultato una
+determinata caratteristica del personaggio e determina se questo riesce o
+meno nella sua azione. quando due o più personaggi possono influenzare
+l'esito di una azione, tutti questi tirano i dadi e comparano i risultati.
+Il combattimento è solo un'estensione di questo sistema. Fudge offre anche
+qui un sistema obiettivo e uno soggettivo per tenere conto dei danni
+inflitti ai personaggi.
+
+Il Capitolo 5 parla dello sviluppo di un personaggio nel corso del gioco
+(esperienza). Il Capitolo 6 è una collezione di personaggi già fatti e di
+suggerimenti, utili per vedere come gestire e sviluppare un personaggio.
+
+Con Fudge il Master ha uno strumento che lo aiuterà nell'orientare la
+propria campagna sia verso un mondo realistico che verso un mondo epico e
+leggendario. Ogni genere può essere giocato in mezzo a questi due estremi
+che si oppongono.
+
+Fudge può essere usato come una base di partenza per gli altri disegnatori
+di giochi. Le descrizioni puramente verbali dei livelli di Fudge possono
+essere facilmente tradotte in qualsiasi altro sistema di gioco. Ogni
+editore che ha un buon background da pubblicare è il benvenuto se desidera
+adattare Fudge a quella determinata ambientazione e se vuole pubblicare
+tutte o solo una parte delle regole assieme al background. Le regole di
+Fudge possono essere adattate per qualsiasi caso specifico da un qualsiasi
+editore. Se state leggendo queste regole in un libro, questo può includere
+o non includere tutto l'insieme delle regole di Fudge In questi casi, il
+capitolo 1 vi dirà che cosa non è presente, cosicchè voi possiate giudicare
+se vale la pena cercare le regole complete di Fudge.
+
+Per coloro che godono di un accesso a Internet, il set completo delle
+regole di Fudge può essere ottenuto mediante FTP all' indirizzo
+ftp.csua.berkeley.edu (internet) nella directory /pub/fudge/rules. Molte
+altre opzioni e aggiunte (ad esempio i supplementi riguardanti la magia e i
+potrei psionici) si possono trovare nella directory /pub/fudge/directories
+(Queste aggiunte spesso portano il nome di Addenda)
+
+La versione corrente di Fudge (in inglese!) può essere ottenuta dalla Wild
+Mule Games, PO Box 838, Randolph, MA 02368 USA. Fudge è disponibile presso
+la Wild Mule sia in forma cartacea che in forma elettronica (dischetto mac
+o dos). Per ricevere il materiale, occorre spedire una busta preaffrancata
+e includere un International Reply Coupon, una cartolina di risposta
+internazionale
+
+
+2 - Generazione del personaggio
+
+Questo capitolo contiene tutte le informazioni necessarie per creare
+personaggi umani, inclusi i Tratti Caratteriali e i loro livelli di
+descrizione, e due sistemi di distribuzione di "punti personaggio".
+
+## Glossario
+
+Tratto Caratteriale : Qualsiasi termine che descriva un personaggio. Un
+tratto può essere un Attributo, un'abilità, un "dono degli dei", un
+difetto, un Potere Supernormale o qualsiasi altra cosa che serva per
+descrivere un personaggio. Il Master ha sempre l'ultima parola nella
+definizione degli Attributi, delle Abilità, ecc..
+
+Livello: la maggior parte dei Tratti Caratteriali è descritta da uno di
+sette aggettivi. Queste sette parole descrittive rappresentano il
+"livello" al quale si trova il Tratto Caratteriale. In aggiunta, il
+sistema di creazione Obiettivo, assegna al giocatore dei "livelli" da
+distribuire durante la creazione del personaggio, e impone che il
+giocatore tenga traccia della distribuzione dei vari livelli, In questo
+caso, un livello è richiesto per aumentare di uno scalino un tratto
+caratteriale, portandolo da un aggettivo a quello immediatamente
+migliorativo.
+
+Attributo: Qualsiasi tratto presente in ogni personaggio, sia pure in
+gradi diversi. Si veda la sezione 2.31 per una lista di Attributi. In
+una scala Superbo..Disastroso, l'essere umano medio avrà Discreto come
+livello di partenza.
+
+Abilità: Ogni Tratto Caratteriale che non sia un Attributo, ma che può
+essere migliorato attraverso la pratica. Il valore base per ogni
+Abilità fuori dalla lista di quelle che il personaggio conosce è
+generalmente Scarso, sebbene questo possa variare in più o in meno a
+seconda dell'abilità specifica.
+
+Dono: Qualsiasi Tratto Caratteriale che non sia nè Attributo nè
+Abilità, ma rappresenti qualcosa di positivo per il personaggio. Alcuni
+Master definiranno un certo Tratto Caratteriale come un Dono, mentre
+altri lo tratteranno come un Attributo. In generale, se il Tratto
+Caratteriale in questione non rientra nella scala
+Superbo...Discreto...Disastroso allora è probabilmente un dono.
+
+Difetto: Qualsiasi Tratto Caratteriale che limiti le azioni di un
+personaggio, o che peggiori le reazioni delle altre persone di fronte
+allo stesso personaggio.
+
+Potere Supernormale: Sebbene tecnicamente i Poteri Supernormali non
+siano altro che Doni, essi vengono trattati separatamente nel Capitolo
+3.
+
+## I "Livelli" di Fudge
+
+In Fudge, vengono usate delle parole normali per descrivere i Tratti
+Caratteriali di un personaggio. La seguente sequenza di sette livelli viene
+suggerita qui in basso, dal migliore al peggiore.
+
+* Superbo
+* Ottimo
+* Buono
+* Discreto
+* Mediocre
+* Scarso
+* Disastroso
+
+Questi livelli dovrebbero essere scritti su ogni scheda del personaggio per
+facilitare eventuali consultazioni da parte dei giocatori.
+
+Un Master può alterare questa lista in qualsiasi maniera gli sembri più
+opportuno. Egli può anche espanderla o restringerla. Ad esempio, se Superbo
+non fa per voi, potreste usare "Mitico", "Troppo Giusto" oppure "Cioè, oh,
+che viaggio!". Se le parole Scarso e Discreto non vi piacciono, cambiatele
+a piacere. Tuttavia, questi sette livelli base verranno usati in queste
+regole, per maggiore chiarezza.
+
+Il miglior modo per ricordarsi l'ordine dei livelli è comparare le parole
+adiacenti. Se, come principiante, il vostro obiettivo finale è diventare un
+giocatore eccellente, chiedetevi se preferireste essere chiamati un
+giocatore Discreto o Mediocre.
+
+Esiste inoltre un livello aggiuntivo che può essere usato in Fudge, ma non
+si trova nella lista precedentemente introdotta: Leggendario, che è oltre
+Superbo. I personaggi che si trovano a livello Leggendario in qualcosa,
+hanno un livello di successo superiore al 99,9% e i loro nomi riempiono il
+Guinness dei Primati.
+
+Nota Importante! Non tutti i Master permetteranno ai giocatori di arrivare
+ad un livello Leggendario! Perfino in quelle sessioni di gioco dove il
+livello Leggendario è incluso e tollerato, si raccomanda che nessun
+giocatore inizi con un Tratto Caratteriale a livello Leggendario. Superbo
+rappresenta i valori probabilistici che vanno dal 98% al 99,9% , e questo
+dovrebbe essere abbastanza per qualsiasi personaggio alle prime armi.
+Ovviamente, se i personaggi arrivano ad avere una eccessiva fiducia in loro
+stessi, incontrare uno spadaccino Leggendario potrebbe riportarli sulla
+terra...
+
+Se qualcuno deve incominciare il gioco impersonificando uno spadaccino
+Leggendario o qualcosa di simile, lavare i panni del Master per un anno o
+circa (in anticipo) può essere un buon prezzo da pagare per iniziare a quel
+livello. Ovviamente, il migliorarsi fino ad arrivare al livello
+Leggendariocostituisce una ottima meta a lungo termine per i personaggi e
+così questi possono assurgere a tali mete, dato tempo a sufficienza e un
+Master generoso.
+
+## Tratti caratteriali
+
+I Tratti Caratteriali vengono divisi in Attributi, Abilità, Doni, Difetti e
+Potere Supernormali. Non tutti i Master avranno questi cinque tipi di
+Tratti Caratteriali nel proprio gioco. I Tratti Caratteriali vengono
+definiti nella sezione 2.1
+
+### Attributi
+
+I giocatori spesso si trovano in disaccordo su quanti Attributi un gioco
+debba contare. Alcuni ne preferiscono pochi, altri molti. Perfino quelli
+che si trovano d'accordo sul numero possono poi dividersi sulla scelta.
+Mentre le regole di Fudge citano alcuni di questi Attributi più avanti
+(Forza, Fatica, ecc....), nessuno di questi è obbligatorio. Il solo
+Attributo che si assume sempre presente è Danni Subiti, e perfino questo è
+necessario solo se si usa il Sistema di Calcolo Danni Obiettivo.
+
+I Danni Subiti possono essere chiamati Punti Ferita, se questo serve a
+chiarire le idee. Essi possono essere legati ad un Tratto Caratteriale come
+la Costituzione (o Resistenza, Allenamento, Salute, Corpo, ecc.) oppure
+possono costituire un Tratto Caratteriale separato (vedasi la sezione 6.3).
+In Fudge, i Danni Subiti determinano come le ferite influiscono sul
+personaggio, ed è un Attributo basato sulla scala Superbo...Disastroso. Si
+veda la sezione 4.72 per dettagli.
+
+Ecco una lista (parziale) di Attributi usati da altri sistemi di gioco;
+fate la scelta che più vi aggrada, oppure saltate a piè pari questa lista,
+se non vi soddisfa.
+
+**Corpo** : Agilità, Apparenza, Coordinazione, Costituzione, Destrezza,
+Destrezza Manuale, Equilibrio, Fatica, Ferite, Forma Fisica, Forza,
+Mira, Muscoli, Odorato, Punti Ferita, Resistenza, Riflessi, Salute,
+Taglia, Velocità, e così via.
+
+**Mente** : Cabeza, Conoscenza, Educazione, Forza, Mentale, Imparare,
+Intelligenza, Meccanica, Memoria, Mente, Percezione, Ragionamento,
+Testa e così via.
+
+**Anima** : Carisma, Charme, Faccia Tosta, Buon Senso, Freddezza, Disposizione,
+Empatia, Spinta, Ego, Destino, Onore, Intuito, Fortuna, Resistenza
+Magica, Potenziale Magico, Abilità Magica, Potere, Mana, Presenza,
+Psiche, Sanità, Autodisciplina, Stile, Volontà, Saggezza, e altro
+ancora!
+
+**Altro** : Benessere, Rango, Status sociale.
+
+
+Si noti che la maggior parte dei giochi in commercio combinano questi
+Attributi, mentre altri li considerano come Doni oppure come Abilità. In
+Fudge, se lo si desidera, s possono perfino spezzare gli Attributi in
+Attributi più piccoli. Ad esempio, Forza (Sollevamento), Forza (Carico),
+ecc....
+
+A questo punto, il Master può decidere quanti Attributi si ritengono
+necessari per lo svolgimento della campagna, oppure può delegare questa
+scelta ai singoli giocatori. Il numero di Attributi assegnato dai giochi
+commerciali varia da 2 a 20. Si veda la sezione 6.3 per esempi di
+Attributi.
+
+### Abilità
+
+In Fudge, le Abilità non sono imparentate con gli Attributi o coi loro
+livelli. I giocatori incoraggiati a sviluppare il loro personaggio in
+maniera logica: un personaggio con molte Abilità basate sulla forza fisica
+dovrà avere quantomeno una Forza superiore alla media. D'altro canto, Fudge
+permette la creazione di personaggi come Groo the Wanderer Ö, goffi eppure
+estremamente abili con la spada.
+
+Successivamente, il Master deve decidere quale profondità di definizione
+delle Abilità desidera. Deve decidere se queste sono definite da categorie
+generali (Abilità Sociali), più ristrette (Ispirare Persone, Parlantina,
+Mercanteggiare) oppure molto specifiche (Barattare, Sedurre, Spartire,
+Persuadere, Intortare, Intimidire, Fare Casino, Adulare, Corrompere).
+
+Si noti che un Attributo è, in qualche modo, una categoria molto generale
+di Abilità, e queste ultime possono essere tranquillamente ignorate se così
+si desidera.
+
+Le Abilità di combattimnto meritano una considerazione speciale. La
+categoria più vasta possibile è Abilità di Combattimento. Essa può essere
+suddivisa in categorie più ristrette tipo Armi da Corpo a Corpo, Armi da
+Taglio e Armi da Lancio. Restringendo ancora, potremmo dividere Armi da
+Corpo a Corpo in Armi da Combattimento Ravvicinato (Coltelli, bastoni,
+ecc..), Armi a Mano Singola (Spade, Ascie, Mazze) e Armi a Due Mani
+(Polearm, Lance, Ascie da Guerra, Spade a Due Mani).
+
+Oppure, per una lista molto precisa di Abilità, ogni gruppo tra parentesi
+potrebbe essere considerato come una Abilità separata; un personaggio che
+sa usare una spada larga potrebbe non saper nulla sull'uso delle sciabole,
+ad esempio.
+
+Ogni scelta ha i suoi meriti: delle Abilità di carattere generale
+favoriscono una rapida creazione del personaggio e una maggiore competenza
+di quest'ultimo, mentre una lista di Abilità molto specifiche permette una
+migliore definizione del personaggio a scapito però di una sua minore
+competenza generale. Si veda la sezione 6.3 per vedere con che risoluzione
+vengono definite le Abilità.
+
+La seguente lista di Abilità non si deve nè considerare completa nè
+ufficiale. Essa costituisce un esempio per aiutare coloro che non sono
+abituati ad un sistema basato sulle Abilità (Dungeons and Dragons** , tanto
+per fare un esempio). Anche qui vige il criterio della maggiore libertà
+possibile: se lo si desidera, si può cambiare la lista a proprio
+piacimento.
+
+E' utile stampare, sulle schede dei propri personaggi, un esempio della
+lista delle Abilità ammesse nel background corrente.
+
+#### Abilità Animali:
+
+Addestrare Animali, Apicultura, Cavalcare, Conoscenza Animali, Curare
+Animali. Pastorizia, Veterinaria, Ecc.
+
+#### Abilità Artigiane:
+
+Armatura, Fare Cesti, Costruire Archi, Carpenteria, Cuocere, Nodi,
+Lavorare la pelle, Costruzioni, Costruire pentole, Fabbro, Sarto,
+Tessere, e altre ancora.
+
+#### Abilità Artistiche:
+
+Cantastorie, Comporre, Composizione, Coreografia, Cosmetologia,
+Culinaria, Disegnare, Estetica, Giullare, Letteratura, Musica,
+Scolpire, Spettacolo Teatro, Ecc.
+
+####  Abilità Atletiche:
+
+Acrobatica, Barca a vela, Correre, Equilibrismo, Lanciare, Muoversi a
+Zero-G Nuotare, Saltare, Salto con l'asta, Scalare, Sport, Ecc.
+
+
+####  Abilità Da Agente Segreto:
+
+Avvelenare, Azione, Borseggiare, Confondersi, Contatti Loschi,
+Contraffarre, Disattivare Trappole, Entrare, Infiltrarsi, Intrigo,
+Manosvelta, Nascondersi, Scassinare, Scoprire Trappole, Segretezza,
+Ecc.
+
+#### Abilità da Vita All'Aperto:
+
+Cacciare, Campeggio, Camuffarsi, Conoscenza Erbe, Conoscenza Natura,
+Foraggiare, Imitare versi Animali, Lavorare Legno, Nascondere Tracce,
+Navigare, Pescare, Seguire Piste, Sopravvivenza.
+
+####  Abilità di Combattimento :
+
+Armi, Cecchino, Combattimento, Demolire, Estrarre Pistola, Evitare,
+Imboscata, Lanciare, Scudo, Tattica, Ecc.
+
+####  Abilità di Conoscenza:
+
+Alchimia, Conoscenza Arcana, Conoscere Episodi di Beautiful,
+Criminologia, Cultura, Fiction, Folklore, Geografia, Letteratura,
+Occulto, Politica, Psicologia, Scienze (Parecchie di queste) Storia,
+Usi Alieni,
+
+####  Abilità di Linguaggio:
+
+Ogni Lingua Conosciuta dal Personaggio, Imparare una Lingua.
+
+####  Abilità Manipolative:
+
+Adulare, Bluffare, Corrompere, Estorcere, Imbrogliare, Ingannare,
+Interrogare, Intimidare, Mentire, Oratoria, Parlantina, Persuadere,
+Sedurre, Vita da Strada,
+
+####  Abilità Mediche;
+
+Accudire, Anatomia, Antidoto, Chirurgia Diagnosi, Medicare, Medicina,
+Preparare Erbe, Pronto Soccorso.
+
+####  Abilità Mercantili:
+
+Barattare, Gestire albergo, Gestire bancarella, Mercanteggiare, Senso
+degli affari, Trattare, Valutare un bene, Vendere.
+
+####  Abilità Professionali:
+
+Gestione Economica, Burocrazia, Contadino, Legge, Fotografia,
+Navigazione, e altre ancora.
+
+#### Abilità Sociali (Formali):
+
+Diplomazia, Etichetta, Intervistare, Maniere Cortesi, Parlare bene,
+Rituali, Savoir Faire, ETratto Caratteriale.
+
+####  Abilità Sociali (In Compagnia):
+
+Cameratismo, Controllare Libido, Etichetta da Bar, Etichetta di
+Internet (Netiquette), Fare Casino, Fare Facce o Rumori Divertenti,
+Flirtare, Giocare, Insulti Creativi, Raccontare Storie, Reggere
+l'Alcool, Scegliere il regalo giusto, Tirare su il Morale, etc..
+
+#### Abilità Sotterranee:
+
+Combattere, Correre, Dire bugie credibili, Evitare trappole, Muoversi
+in silenzio, Scassinare, Trovare passaggi segreti, Ecc.
+
+#### Abilità Spirituali e Soprannaturali
+
+Ascoltare profondamente, Comunicare con la natura, Controllare la
+mente, Digiunare, Dire la Fortuna, Lanciare Incantesimi, Levitare,
+Meditare, Pazienza, Telecinesi, Teologia, ecc.
+
+####  Abilità Tecniche:
+
+Costruire Computers, Elettronica, Guidare Nave, Guidare, Ingegneria,
+Meccanica, Pilotare, Programmare, Ricerca, Riparare Computers, Usare
+Computers, ecc.
+
+####  Abilità Urbane:
+
+Conoscenza Bar, Etichetta di Strada, Sopravvivenza Urbana, ecc.
+
+### Doni
+
+Un Dono è un Tratto Caratteriale positivo che non rientra nella scala
+Superbo...Discreto...Disastroso già introdotta. Tuttavia, questa
+definizione può variare da Master a Master: un personaggio con una memoria
+fotografica potrebbe avere questa qualità considerata come un Dono secondo
+un Master, mentre per un altro una Memoria Fotografica può essere
+rappresentata semplicemente con l'Attributo Memoria a Superbo. Alcuni
+Master definiscono il Carisma come un Attributo, mentre altri potrebbero
+definirlo come un Dono. Un Master potrebbe concedere o meno Visione
+Notturna, mentre un altro potrebbe definire diversi livelli dell'Attributo
+Visione Notturna. Un Master potrebbe anche non includere per nulla i Doni
+nella propria Campagna.
+
+Alternativamente, i Doni potrebbero avere anch'essi dei livelli di
+definizione, ma questi non devono necessariamente coincidere con la scala
+Superbo...Disastroso. Ad esempio, lo Status Sociale potrebbe avere due o
+tre livelli di definizione, mentre Visione Notturna potrebbe essere
+definito da nove livelli.
+
+Un ultimo esempio è quello di considerare un Dono come un aspetto positivo
+di un Tratto Caratteriale, e considerare un Difetto come l'aspetto negativo
+dello stesso Tratto Caratteriale. Ad esempio, un Master potrebbe descrivere
+lo stato sociale di un Personaggio come un Dono di Benessere Superbo oppure
+un Difetto di Benessere Disastroso.
+
+Usando questo sistema, la maggior parte dei personaggi avrebbero Visione
+Notturna a livello Discreto, mentre quelli che hanno il Dono potrebbero
+averla a livello Superbo, e così via.
+
+I Poteri Supernormali sono dei Doni molto potenti, parlando in senso
+strettamente tecnico, ma sono considerati a parte nel Capitolo 3. Allo
+stesso modo, dei Tratti Caratteriali sopra la norma umana, sono considerato
+come dei Poteri Supernormali.
+
+In generale, se un Dono non è scritto sulla scheda del personaggio, questo
+personaggio non lo possiede. Si veda la sezione 6.3 per ulteriori esempi.
+
+### Difetti
+
+I Difetti sono tutte quelle cose che rendono la vita difficile ad un
+Personaggio. Quelli principali sono quelli che restringono le azioni di un
+Personaggio o che gli procurano una cattiva reputazione presso i
+Personaggio Non Giocante. Vari atteggiamenti, Nevrosi, Fobie sono dei
+difetti, così come handicap fisici o discriminazioni social/razziali. Ci
+sono anche dei difetti eroici, ad esempio un Codice d'Onore e l'incapacità
+di dire bugie restringono il campo d'azione di un personaggio, ma non sono
+in ogni caso segni di una personalità bacata. Per ulteriori spiegazioni si
+veda più avanti.
+
+Alcuni Difetti sono Superdifetti, ovvero l'altra faccia dei Poteri
+Supernormali. Essi sono dei Tratti Caratteriali situati molto sotto la
+media umana, e sono discussi nella Sezione 3.1.
+
+Si veda la sezione 6.3 per ulteriori esempi.
+
+### Personalità
+
+La personalità di un personaggio può essere rappresentata da uno o più
+Tratti Caratteriali, oppure può essere semplicemente scritta come parte
+della descrizione globale del personaggio.
+
+Come esempio del primo caso, il Coraggio potrebbe costituire un Attributo,
+un Dono oppure anche un Difetto. Come Attributo, un Coraggio Superbo e un
+Coraggio Disastroso sono autoesplicativi. Come Dono, Molto Coraggioso può
+pagare in termini di reazione con i Personaggi Non Giocanti, premesso che
+essi vedano il personaggio in azione o abbiano sentito parlare di lui.
+
+Tuttavia, sia Molto Coraggioso che Codardo possono essere dei Difetti
+perchè possono limitare le azioni del personaggio. Un personaggio Molto
+Coraggioso può non ritirarsi mai da un combattimento, neanche se questa
+prospettiva fosse l'unica possibile per la sua sopravvivenza, mentre un
+personaggio Codardo avrebbe serie difficoltà nel continuare il
+combattimento anche se fosse sul punto di vincere.
+
+Oppure ancora, il livello di Coraggio di un personaggio potrebbe non essere
+un Tratto Caratteriale, ma qualcosa di deciso dal giocatore. Egli potrebbe
+scrivere sulla sua scheda "Grok è Molto Coraggioso", e così è, e non deve
+essere contato come Attributo, Dono o Difetto.
+
+Un giocatore dovrebbe chiedere al Master come vuole gestire specifici
+tratti della Personalità di un giocatore. Un modo eccellente per risolvere
+questo problema è chiedere al giocatore di descrivere verbalmente il
+proprio personaggio in dettaglio, e lasciare decidere al Master quali parti
+della descrizione devono essere contate come Attributi, Doni o Difetti.
+Indipendentemente da tutto ciò, tuttavia, la maggior parte dei personaggi
+beneficerà dall'avere la propria personalità ben definita.
+
+### Punti Fudge
+
+I Punti Fudge sono punti particolari che possono essere usati per
+influenzare un risultato durante una sessione di gioco. Essi agiscono un
+po' come la Fortuna, e sono usati ad un livello Master-Giocatore, non ad un
+livello personaggio-personaggio. Non tutti i Master permetteranno l'uso dei
+Punti Fudge - quelli che desiderano un livello di realismo molto alto
+difficilmente ne permetteranno l'uso.
+
+Il Master stabilisce quanti Punti Fudge un personaggio ha a disposizione.
+Si raccomanda da un minimo di uno ad un massimo di cinque, ma nel caso di
+campagne molto "cinematiche" ne possono essere permessi di più. I Punti
+Fudge non utilizzati sono risparmiati per la sessione successiva. Inoltre,
+a discrezione del Master, ogni giocatore potrebbe riceverne altri
+all'inizio di una nuova sessione, oppure può permettere al giocatore di
+scambiare dei Punti Fudge con Punti Esperienza (tasso consigliato: 3 PE = 1
+PF)
+
+Esempio: in uno scenario spaziale ricco di azione, un Master decide che
+ogni personaggio inizia con 3 Punti Fudge, e ad ogni nuova sessione gli
+vengono assegnati altri 2 Punti Fudge. Se un personaggio non usa nessun
+Punto Fudge nella prima sessione, egli avrà 5 Punti Fudge da usare nella
+seconda sessione.
+
+I Punti Fudge possono essere usati in molti modi, a seconda del livello di
+realismo presente nella campagna in corso. Ecco alcuni suggerimenti su come
+usarli, suggerimenti che spaziano da scenari realistici a scenari
+epici-leggendari. Un Master può creare nuove opzioni per l'uso dei Punti
+Fudge, e può restringerne l'uso a sua discrezione - il giocatore dovrebbe
+sempre chiedere se può effettivamente fare qualcosa spendendo dei Punti
+Fudge.
+
+A. Un giocatore può spendere un Punto Fudge per compiere una Azione
+Semplice con un livello di difficoltà Buono o minore automaticamente e
+con anche un poco di boria - ad esempio fare colpo su un membro del
+sesso opposto - oppure per evitare danni gravi nel caso di una Scalata
+o di una Azione Acrobatica. Due Punti Fudge sono richiesti per una
+Azione a livello Ottimo, e tre per una azione a livello Superbo. Questa
+opzione non è valida per i Confronti.
+
+B. Un giocatore può spendere un Punto Fudge per alterare un tiro di dado un
+livello in più o in meno come desiderato. Il tiro di dado può essere
+quello fatto dal giocatore oppure quello dato dal Master che riguarda
+il personaggio. In una situazione abbastanza realistica, questo deve
+essere annunciato prima del tiro di dado; alternativamente, si può
+anche decidere anche dopo che il dado è stato tirato. Un massimo di 1
+Punti Fudge può essere speso durante una campagna realistica. In una
+situazione epica, il Master può permettere che più Punti Fudge possano
+essere spesi su un singolo tiro di dado.
+
+C. Un giocatore può spendere un Punto Fudge per dichiarare che le ferite
+subite non sono così brutte come sembravano: Ferito diventerebbe solo
+Di Striscio, Ferito Grave diventerebbe Ferito, Incapacitato
+diventerebbe Ferito e Vicino Alla Morte diventerebbe Incapacitato
+(quando uno è Morto è Morto, e poche storie!). Questo dovrebbe essere
+fatto solo fuori dai momenti di combattimento.
+
+D. Un giocatore può spendere tre Punti Fudge per dichiarare che tutte le
+ferite sono in realtà Di Striscio che lo hanno temporaneamente
+stordito. Tutte le ferite diventano Di Striscio eccetto Morte, che non
+può essere influenzata. Questo dovrebbe essere fatto solo fuori dai
+momenti di combattimento.
+
+E. Un giocatore può spendere tre Punti Fudge per avere un risultato
+automatico +3, senza stare a tirare il dado.
+
+F. Per situazioni di gioco Leggendarie o Epiche, un numero di Punti Fudge
+stabilito dal Master può essere speso perchè si verifichi una
+coincidenza fortuita (a discrezione del Master, ovviamente). Ad
+esempio, se i personaggi sono imprigionati in un carcere di massima
+sicurezza, forse una delle guardie potrebbe essere un cugino di un
+personaggio e aiutare lui e gli altri a scappare. Oppure un pezzo di
+carta nella strada potrebbe essere la descrizione di un piano segreto
+del Cattivo di turno, con indizi interessanti, oppure il capitano di
+una nave che raccoglie i personaggi naufraghi potrebbe essere una
+persona che deve un favore ad uno di questi, e così via....Questa
+opzione dovrebbe essere molto costosa in termini di Punti Fudge, a meno
+che in certe campagne simili bizzarre coincidenze non siano la norma.
+
+## Definizione dei Tratti Caratteriali
+
+Durante la fase della creazione dei personaggi, si assume che i giocatori
+"disegneranno" il loro personaggio, lasciando poco o nulla al caso. Il
+Master può permettere che alcuni (o tutti) i Tratti Caratteriali vengano
+determinati in maniera casuale (tirando dadi), se così desidera. Un metodo
+simile è suggerito nella sezione 2.8
+
+Non ci sono Tratti Caratteriali obbligatori in Fudge Il Master dovrebbe
+informare i giocatori su quali Tratti Caratteriali egli (o ella) ritiene
+più importanti, e i giocatori possono suggerirgliene altri. Il Master
+potrebbe anche - se lo desidera - creare una scheda con un elenco di Tratti
+Caratteriali ritenuti importanti ai fini del gioco (con spazio per
+eventuali modifiche) e lasciare ai giocatori la definizione dei livelli di
+ogni Tratto Caratteriale.
+
+Quando un personaggio è creato, il giocatore dovrebbe definire quanti più
+Tratti Caratteriali ritiene necessari - i quali possono o meno coincidere
+con una eventuale lista preparata dal Master. Se un giocatore aggiunge un
+Attributo ritenuto non necessario dal Master, quest'ultimo può ritenere
+questo Attributo come una descrizione del personaggio. Il Master può
+richiedere un tiro su un diverso Attributo da quello pensato dal giocatore,
+e ques'ultimo deve ubbidire alla decisione del Master.
+
+Come esempio, un Master decide che gli Attributi fisici presenti in una
+determinata campagna siano la Forza, la Destrezza e la Costituzione. Un
+giocatore mette Destrezza a livello Buono, ma vuole far vedere che il suo
+personaggio è più agile che svelto di mano. Così divide l'Attributo
+Destrezza in Agilità (Grande) e Destrezza di Mano (Discreto). Tuttavia, un
+Master può ignorare queste distinzioni, e richiedere un tiro sulla
+Destrezza, dal momento che questo è il Tratto Caratteriale che è stato
+scelto. Naturalmente, il Master può anche accettare le scelte del giocatore
+e permettere il tiro sugli Attributi da lui creati.
+
+In Fudge, un personaggio con un Tratto Caratteriale a livello Discreto,
+riuscirà il 61% delle volte - di solito non c'è bisogno di creare una
+superstar. Infatti, un livello di Ottimo equivale proprio a Ottimo! il
+livello Superbo dovrebbe essere riservato solo per il Tratto Caratteriale
+occasionale nel quale il vostro personaggio è il migliore mai incontrato.
+
+Ogni Tratto Caratteriale non definito dal personaggio durante la fase della
+creazione, avrà uno dei seguenti liveli di base.
+
+|||
+|------------------------| ----------|
+|Per gli Attributi       | Discreto |
+|Per le Abilità          | vedere la tabella qui sotto |
+
+
+|||
+|------------------------| ----------|
+|Facili              | Mediocre|
+|Maggior Parte       | Scarso |
+|Difficili           | Disastroso |
+|Molto Difficili     | Disastroso -1|
+
+
+
+Le Abilità si possono suddividere ulteriormente in Facili, Difficili e
+Molto Difficili. Per la maggior parte di esse, tuttavia, il personaggio
+avrà un valore base di Scarso.
+
+Per la maggior parte dei Doni, dei Poteri Supernormali, e di alcune Abilità
+definite dal Master: Non Esistenti. (Ovvero, il valore base è Non
+Esistente. Il dato Tratto Caratteriale esiste in qualche personaggio, da
+qualche parte nel mondo).
+
+Ogni giocatore dovrebbe aspettarsi che il Master modifichi il personaggio
+dopo la creazione - è nella natura del gioco. Il Master dovrebbe esaminare
+ogni personaggio prima del gioco. Sarebbe ancora meglio se i personaggio
+fossero creati in presenza del Master cosicchè egli possa rispondere ad
+eventuali domande.
+
+## Creazione Soggettiva del Personaggio.
+
+Un modo molto facile di creare personaggi in Fudge è quello di scrivere
+ogni cosa riguardante il personaggio che passa in quel momento per la mente
+del giocatore. Ogni Attributo o Abilità dovrebbe essere valutato usando un
+livello nella scala Disastroso...Superbo (Vedasi sezione 2.2)
+
+Può essere facile se il Master fornisce un esempio degli Attributi che
+verranno usati nel gioco. Vedasi come esempio la sezione 6.3.
+
+Il Master può dire al giocatore che si aspetta che il suo personaggio abbia
+un certo numero di Attributi a livello Superbo, un altro numero a livello
+Ottimo, e un altro numero Buono. Si prenda in esame la tabella sottostante
+come esempio per un sistema con 8 Attributi:
+
+
+
+| |Campagna  Realistica |Campagna Leggendaria|
+|-|-|-|
+|Superbo     |1            |1|
+|Ottimo      |1            |2|
+|Buono       |2            |3|
+
+
+Questo metodo si può applicare anche per le Abilità.
+
+
+
+| |Campagna  Realistica |Campagna Leggendaria|
+|-|-|-|
+|Superbo        |1|             2|
+|Ottimo         |2|             3|
+|Buono          |6|            10|
+
+
+Il Master può anche decidere di limitare il numero di Abilità che un
+personaggio può avere, fissandolo a 10, 15 o 20, come scelte possibili.
+
+I Doni e i Difetti sono anch'essi definiti in questa maniera. Ad esempio,
+un Master può decidere che un personaggio può avere due Doni ma deve anche
+avere tre Difetti. Un ulteriore difetto potrebbe portare un ulteriore Dono,
+oppure portare una ulteriore Abilità a Ottimo.
+
+Questi limiti aiutano il giocatore a definire il personaggio un poco
+meglio, nel senso: qual è la cosa che il mio personaggio sa fare meglio?
+
+Se il giocatore ha in mente un personaggio polivalente, la maggior parte
+dei suoi Tratti Caratteriali dovrebbero avere un valore compreso tra
+Mediocre e Buono. In questo caso uno scambio del tipo "abbasso uno per
+alzarne due" può essere effettuato, nei due sensi. Se il Master permette un
+Attributo a livello Superbo, egli può permettere due Attributi a Ottimo al
+posto di un solo Attributo a Superbo. Allo stesso modo, una Abilità a
+Ottimo può essere scambiata per due Abilità a Buono, e così via. Come
+esempio estremo, si consideri una campagna dove siano in vigore i limiti di
+una Abilità a Superbo, due a Ottimo e sei a Buono (caso realistico). Un
+giocatore decide che il suo personaggio deve essere bravo a fare un po' di
+tutto, così scambia la sua Abilità a Superbo con due Abilità a Ottimo.
+Successivamente, scambia le sue quattro Abilità a Ottimo con otto Abilità a
+Buono. Egli ora ha 14 Abilità a livello Buono!
+
+Nel Sistema di Creazione Soggettivo, è molto facile usare sia Abilità molto
+generiche che Abilità estremamente specifiche a seconda del ruolo del
+personaggio. In questi casi, si assume che una Abilità Generica contenga
+anche la frase "Se si eccettuano i seguenti casi ...".
+
+Ad esempio, un giocatore vuole impersonare l'ufficiale scientifico di una
+nave spaziale. Egli decide che il personaggio ha trascorso così tanto tempo
+a studiare che è Scarso nella maggior parte delle Abilità Fisiche. Così,
+sulla sua scheda personaggio, il giocatore potrebbe scrivere : Abilità
+Fisiche: Scarso.
+
+Egli decide anche che la professione del personaggio comporta anche
+l'uscire abbastanza spesso nello spazio esterno, per eventuali analisi.
+Così egli dovrà essere abbastanza capace di muoversi in condizioni di
+gravità zero. Di qui, sulla scheda personaggio il giocatore aggiungerà:
+Muoversi a Gravità Zero: Buono.
+
+Sebbene questa sia una Abilità fisica, non è classificata a Scarso perchè
+questa è elencata specificatamente come una "Eccezione alla Norma". Come
+altro esempio, potremmo avere un personaggio barbaro che ha "Abilità
+Sociali: Disastroso" e "Fare Casino: Ottimo". Sebbene Fare Casino sia
+un'Abilità Sociale, non vi sono contraddizioni, perchè "Abilità Sociali :
+Disastroso" significa: "Abilità sociali: Disastroso se si eccettuano i
+seguenti casi..."
+
+Successivamente, il giocatore e il Master si incontrano ed esaminano il
+personaggio. Se il Master ritiene che il personaggio in questione sia
+troppo potente per il tipo di campagna che ha in mente, egli chiederà al
+giocatore di limitare la potenza del personaggio, o caricare il personaggio
+di ulteriori Difetti per equilibrarne i troppi lati positivi. Si veda anche
+la sezione 2.9, "Minimizzare gli eccessi".
+
+Il Master può inoltre aver bisogno di suggerire nel caso vi siano delle
+aree dove vede il personaggio troppo debole - forse ha in mente una
+situazione di gioco che richiede un Tratto Caratteriale che il personaggio
+non ha. Suggerimenti discreti come "Ma il tuo personaggio ha delle Abilità
+Sociali?" possono aiutare il giocatore nella ricerca di eventuali punti
+deboli. Ovviamente, se vi sono molti giocatori, gli altri personaggi
+possono compensare le eventuali debolezze di un singolo personaggio. In
+questo caso la domanda da fare potrebbe essere: "C'è qualcuno che ha delle
+Abilità Sociali?"
+
+Anzichè descrivere il personaggio in termini di Tratti Caratteriali e
+livelli, il giocatore può descrivere una descrizione dettagliata di come
+vorrebbe il personaggio. Un simile procedimento richiede che sia il Master
+a tradurre il tutto in Tratti Caratteriali e livelli appropriati, ma questo
+compito non è molto difficile se la descrizione è estesa e esauriente.
+Questo metodo è quello che forse produce alcuni tra i migliori personaggi.
+
+("Bè, iniziamo a vedere in che cosa Capitano Wallop è il meglio del
+meglio. Vedo che tu valuti molto la sua capacità di sparare col blaster
+ma anche la sua capacità di pilotare una nave spaziale e di usare i suoi
+armamenti, ma al massimo posso concedere solo una Abilità a livello
+Superbo. Facciamo Usare Blaster a Superbo? Bene. Usare Blaster : Superbo.
+Ora, qui c'è scritto che è conosciuto in tutto l'Impero per le sue
+Abilità di Pilota e Cannoniere. Allora facciamo che ha Pilotare Nave :
+Ottimo e Cannoniere : Ottimo, OK? Ci sono ancora due Abilità che possono
+essere portate a Ottimo, dal momento che quattro Abilità a Ottimo è il
+limite di partenza. Qui leggo che è riuscito a penetrare nell'alveare
+principale dei Khothi ed è riuscito a salvare l'ambasciatore rapito. Ciò
+significa che la sua Abilità nel Muoversi in Silenzio è Ottima. Va bene
+così o vorresti descrivere questo in qualche altro modo? " e così via...)
+
+## Creazione Obiettiva del Personaggio.
+
+Per quelli a cui non secca fare qualche somma, il seguente metodo
+contribuisce a creare personaggi interessanti e equilibrati. Usando questo
+sistema, tutti i Tratti Caratteriali hanno il livello che parte dal loro
+valore base. Successivamente, Il Master concede un certo numero di livelli
+che possono essere usati dal giocatore per innalzare questo o quel livello
+di Tratto Caratteriale, a seconda del personaggio che ha in mente. I
+giocatori possono perfino abbassare il livello di alcuni Tratti
+Caratteriali per alzare il livello di altri Tratti Caratteriali ritenuti
+più importanti ai fini della definizione del personaggio.
+
+Alla fine di tutto ciò, il giocatore può anche scegliere di scambiare un
+certo numero di livelli di un dato tipo di Tratto Caratteriale (ad esempio
+degli Attributi) per un altro tipo (ad esempio per aumentarsi ulteriormente
+alcune Abilità).
+
+Questo meccanismo assicura che nessun personaggio dominerà ogni aspetto del
+gioco, e costringe il giocatore a specializzare il proprio giocatore molto
+più del Sistema di Creazione Soggettivo.
+
+### Attributi
+
+Un Master che usa il Sistema di Creazione Obiettivo deve decidere quanti
+Attributi si ritengono necessari per lo svolgimento del gioco. Egli può
+anche scegliere di lasciare questa scelta ai giocatori, se lo desidera. I
+giocatori hanno poi a disposizione un numero di livelli pari a metà del
+numero di Attributi a disposizione (arrotondare per eccesso nel caso di
+Campagne Leggendarie, per difetto nel caso si scelga di privilegiare il
+realismo). Ad esempio, se il numero di Attributi è 4, ogni giocatore
+inizierà con due Livelli che può usare per migliorare gli Attributi del
+proprio personaggio.
+
+NOTA: Per una campagna meno realistica e più eroica, il Master può
+concedere un numero di Livelli pari al numero degli Attributi del
+personaggio.
+
+Tutti gli Attributi hanno come valore base Discreto. Essi vengono
+modificati dal giocatore che spende i punti-livello che ha a disposizione
+secondo questo criterio:
+
+
+|||
+|-|-|
+|+3  |Superbo
+|+2  |Ottimo
+|+1  |Buono
+|0   |Discreto
+|1   |Mediocre
+|2   |Scarso
+|3   |Disastroso
+
+
+In questo modo, un giocatore può innalzare il Livello dell'Attributo Forza
+da Discreto a Buono spendendo un punto-livello. Spendendo un ulteriore
+punto-livello può portare il valore della Forza da Buono a Ottimo. Se egli
+avesse solo quattro Attributi, avrebbe già esaurito i suoi punti-livello a
+disposizione, ma se gli atrributi fossero otto i punti-livello a
+disposizione sarebbero in totale quattro, e nel caso di venti Attributi, il
+numero di Punti Livello ammonterebbe a dieci.
+
+Nel caso che tutti i Punti Livello vengano spesi, si può alzare
+ulteriormente il livello di un Attributo abbassando il livello di un
+secondo Attributo in egual misura. (vedasi sezione 2.64, Equivalenze tra i
+Tratti Caratteriali). Rifacendoci all'esempio precedente, possiamo alzare
+il valore della Forza da Ottimo a Superbo se il giocatore sceglie di
+abbassare un Attributo (ad esempio il Carisma) da Discreto a Mediocre per
+compensare la crescita di livello della Forza.
+
+Se il Master permette ai giocatori di scegliersi i propri Attributi, può
+semplicemente assegnare a loro un numero di Punti Livello pari alla metà
+del numero di Attributi che hanno scelto. Tuttavia, nel caso sia il Master
+a fornire una lista di base di Attributi, un giocatore non può aggiungere
+al suo personaggio una dozzina di Attributi tutti a Discreto solo per avere
+un bonus ulteriore di sei Punti Livello.
+
+### Abilità
+
+Nel Sistema di Generazione Obiettivo, ogni giocatore ha un numero di Punti
+Livello gratuiti con i quali può aumentare il livello delle sue Abilità. I
+limiti suggeriti sono:
+
+|||
+|-|-|
+|Abilità Molto Generiche         | 15 Punti Livello|
+|Abilità Generiche               | 30 Punti Livello|
+|Abilità Specifiche              | 40-60 Punti Livello|
+
+Il giocatore deve chiedere al Master a quanto ammonta il numero di Punti
+Livello da allocare, il che darà qualche indizio ai giocatori su come
+possono definire le loro Abilità. Ovviamente, il Master può scegliere di
+assegnare un numero qualsiasi di Punti Livello, come 23, 46, 74....(Si veda
+a riguardo la sezione 6.3). I Master possono impostare una loro lista di
+Abilità oppure possono scegliere dagli esempi della sezione 2.32.
+
+La maggior parte delle Abilità ha un valore base di Scarso a meno che il
+giocatore scelga di modificarlo spendendo dei Punti Livello. (Il Master può
+fare delle eccezioni, ad esempio Abilità molto facili possono avere un
+valore base di Mediocre, mentre quelle difficili possono avere Disastroso
+come base. In questi casi sarà compito del Master fornire una lista che
+definisca la difficoltà delle Abilità.)
+
+Certe Abilità hanno come valore base Non Esistente. Queste includono
+Lingue, Arti Marziali, Fisica Nucleare o Conoscenza dei Rituali Aztechi.
+Esse devono essere studiate per essere imparate. Quando un personaggio
+studia una Abilità di questo tipo (spendendo dei Punti Livello nella fase
+di creazione del personaggio) il livello a cui arriva dipende dalla
+difficoltà di questa Abilità. Spendere un Punti Livello in Conoscenza
+Spagnolo, potrebbe portare il livello di questa Abilità a Mediocre, dal
+momento che è una Abilità di media difficoltà. Nel caso di Fisica Nucleare,
+spendere un solo Punto Livello potrebbe portare questa Abilità a Scarso se
+non Disastroso. Per portarla a Discreto occorrerebbe spendere almeno 4
+Punti Livello.
+
+Si consulti la seguente tabella per facilitare la creazione del personaggio
+in questa fase:
+
+|            |Facile     |Normale    |Difficile   |Molto Difficile  |
+|------------|-----------|-----------|------------|-----------------|
+|Disastroso  |  -2       | -1        |   0        |     1           |
+|Scarso      |  -1       |  0        |   1        |     2           |
+|Mediocre    |   0       |  1        |   2        |     3           |
+|Discreto    |   1       |  2        |   3        |     4           |
+|Buono       |   2       |  3        |   4        |     5           |
+|Ottimo      |   3       |  4        |   5        |     6           |
+|Superbo     |   4       |  5        |   6        |     7           |
+
+
+|||
+|-|-|
+|Facile           | Costo delle Abilità ritenute Facili dal Master. |
+|Normale          | Costo della maggior parte delle Abilità |
+|Difficile        | Costo delle Abilità ritenute Difficili dal Master |
+|Molto Difficile  | Costo delle Abilità ritenute Molto Difficili dal Master|
+
+Come nel Sistema di Creazione Soggettivo, il Master può limitare il numero
+delle Abilità a livello Superbo e Ottimo che ogni personaggio può avere
+nella sua fase di creazione. Per una campagna ricca di personaggi potenti,
+nessun limite è necessario. Per un gioco più realistico, il Master potrebbe
+fissare un limite di una Abilità a livello Superbo, tre o quattro a Ottimo,
+e otto o circa a Buono (si veda la sezione 6.3). Ovviamente, questi limiti
+possono essere superati a mano a mano che il personaggio guadagna in
+esperienza e sviluppa le sue Abilità.
+
+Una volta che sono stati usati tutti i Punti Livello, è possibile calare il
+livello di una Abilità poco necessaria per alzare quello di un'altra che si
+ritiene più necessaria (vedasi la sezione 2.64). Ovviamente, tutte queste
+scelte possono essere vietate dal Master.
+
+E' possibile mescolare diversi gradi di generalizzazione per quanto
+riguarda le Abilità. Un Master poco interessato al combattimento in
+generale potrebbe scegliere Combattimento Senz'Armi, Armi da Taglio e Armi
+da Lancio come le sole tre Abilità di Combattimento. Ma questa scelta non
+esclude - ad esempio - la possibilità di definire le Abilità Sociali al
+massimo grado di specificità, prevedendo un grosso numero di Abilità
+Sociali da cui scegliere. Se si sceglie questa opzione, i gruppi di Abilità
+poco definiti hanno un costo in Punti Livello doppio rispetto a quelli più
+definiti.
+
+Mescolare diversi gradi di generalizzazione è poco pratico nel Sistema di
+Creazione Obiettivo. Mentre questa tecnica funziona nel Sistema di
+Creazione Soggettivo, non è raccomandata in questo Sistema. Ad esempio, è
+difficile avere una generica Abilità come Rubare e allo stesso tempo avere
+Scassinare, Borseggiare, Gioco Tre Carte, Superare Sistemi Di Sicurezza,
+ecc.. Se il Master desidera fare così, allora l'abilità con la minore
+definizione (in questo caso Rubare) può essere portata al massimo a Buono,
+e il costo per passare da un livello all'altro è triplo (o più, se il
+Master così desidera).
+
+Se il Master sta usando gruppi molto generici, un giocatore può scegliere
+di innalzare il livello di una Abilità molto specifica (ad esempio Poker,
+invece del più generico Gioco D'Azzardo). Questo viene giustificato se un
+giocatore desidera dare maggiore spessore ad un suo personaggio - non ci si
+aspetti che questo personaggio sia egualmente esperto in tutti gli altri
+rami del Gioco D'Azzardo. Questo è vero per Groo The Wanderer Ö, che
+migliorerebbe solo la sua Abilità di Spada, anche se il Master usa la
+definizione più ampia di Armi Da Taglio. Groo, difatti, avrebbe un livello
+di Scarso nell'uso delle altri Armi da Taglio, e questo rifletterebbe il
+personaggio come è realmente.
+
+### Doni e Difetti
+
+Se il Master prevede i Doni nei propri scenarii, può permettere ai
+giocatori di partire con un certo numero di Doni (Sono raccomandati due
+Doni per avventure di stile Realistico, più di due per avventure di stile
+Leggendario). Ogni Dono che il giocatore prende per il suo personaggio,
+dovrebbe essere equilibrato da un Difetto, oppure da una spesa appropriata
+di Punti Livello.
+
+### Equivalenze tra Tratti Caratteriali
+
+Durante la creazione del personaggio, i Punti Livello a disposizione
+possono essere usati secondo il seguente criterio:
+
+|||
+|-|-|
+|1 Livello Attributo  | 3 Livelli Abilità |
+|1 Dono               | 6 Livelli Abilità  |
+|1 Dono               | 2 Livelli Attributo |
+
+I punti-Fudge non possono essere usati in questo modo senza il permesso del
+Master. Se egli concede questa possibilità, allora un punto-Fudge equivale
+a uno o due Doni.
+
+In questo modo, un giocatore con 3 punti-Livello per gli Attributi e 30
+Punti-Livello per le Abilità può usare 3 Punti-Livello per le Abilità per
+avere un ulteriore Punto-Livello per gli Attributi oppure 6 per un
+ulteriore Dono.
+
+Un giocatore può accollarsi ulteriori Difetti (previa approvazione del
+Master) secondo la seguente tabella:
+
+|||
+|-|-|
+|1 Difetto           | 1 Dono              |
+|1 Difetto           | 6 Livelli Abilità   |
+|1 Difetto           | 2 Livelli Attributo |
+
+Tuttavia, il Master potrebbe dire che quel particolare difetto non è serio
+abbastanza per poter valere 2 Punti-Livello per gli Attributi, ma
+abbastanza per un solo Punto-Livello. D'altra parte, Difetti più gravi
+possono valere più di 2 Punti-Livello per gli Attributi.
+
+## Tratti Caratteriali Liberi
+
+Indipendentemente dal metodo di creazione del personaggio, esso ha a sua
+disposizione tre Tratti Caratteriali liberi (o più, se il Master è così
+orientato). Questo significa che se, in un certo punto del gioco, il
+giocatore si renderà conto che ha dimenticato qualcosa nella definizione
+del suo personaggio. Egli può richiedere di fermare il gioco, e definire un
+Tratto Caratteriale non definito in precedenza, da sottoporre
+all'approvazione del Master. Solo un Master molto (ma molto, NdT) buono
+permetterà questo tipo di scelta durante una fase di combattimento.
+
+Si noti inoltre che eventuali limiti alle Abilità (1 Superbo, 3 Ottimi,
+ecc..) sono sempre attivi: se il personaggio ha già una Abilità a Superbo
+non può portare un Tratto Caratteriale libero a Superbo.
+
+## Generazione casuale dei personaggi.
+
+Alcuni giocatori preferiscono lasciare al caso la generazione dei
+personaggi. Ecco un possibile metodo da usare in questi casi.
+
+Si tirino 2d6 per ogni Attributo e si consulti la seguente tabella:
+
+|||
+|-|-|
+|2       |Disastroso|
+|4       |Scarso|
+|3,5     |Mediocre|
+|6,7,8   |Discreto|
+|9,11    |Buono|
+|10      |Ottimo|
+|12      |Superbo|
+
+In questi casi il Master deve decidere se il giocatore riceve o meno il
+numero standard di Punti Livello per gli Attributi. Può anche decidere di
+limitare eventuali scambi di Punti- Livello tra diversi tipi di Tratti
+Caratteriali.
+
+Per le Abilità, i risultati si leggono così:
+
+|||
+|-|-|
+|2,3,4,5     |Disastroso|
+|6,7,8       |Scarso|
+|9,10        |Mediocre|
+|11,12       |Discreto|
+
+Il giocatore riceve il numero standard di Punti-Livello per le Abilità.
+Alternativamente, il Master può concederne solo la metà.
+
+Il Master può lasciare che i giocatori si scelgano i loro Doni e i loro
+Difetti, o potrebbe preparare tabelle con Doni e Difetti e far scegliere
+casualmente ai giocatori mediante un appropriato tiro di dato. Una tabella
+simile potrebbe avere questo aspetto:
+
+|Tiro|  Dono |                        Difetto| 
+|-|-|-|
+|1     |Bello                        |Brutto|
+|2     |Pelle Dura                   |Fragilino|
+|3     |Carismatico                  |Aura di inaffidabilità|
+|4     |Udito Fine                   |Duro D'Orecchi|
+|5     |Voce Melodiosa               |Stonato|
+|6     |Riconosce le Bugie           |Ingenuo|
+
+E così via....
+
+## Minimizzare gli eccessi
+
+Ovviamente, è possibile creare dei personaggi "eccessivi" in Fudge Ci sono
+molti modi per evitare questo.
+
+Il Master può richiedere che il personaggio prenda un altro Difetto
+per equilibrare i suoi poteri eccessivi. ("Ok, puoi tenere questo
+personaggio ma... hai bisogno di qualche sfida, ad esempio un vizio
+segreto, una incapacità di dire le bugie oppure un qualcosa che sì,
+rientri nell'idea del personaggio, ma che io - il Master - possa
+usare per metterti alla prova ogni tanto...")
+
+Il Master può semplicemente porre il suo veto su tutto ciò che
+ritiene eccessivo. Questo permette al Master di regolare il livello
+del gioco. Per partite Supereroiche è possibile permettere quasi
+tutto; per partite Realistiche occorrerà qualche controllo in più.
+
+Il Master può semplicemente notare una debolezza del personaggio e
+fare in modo che, almeno una volta per sessione di gioco, questa
+debolezza si riveli di importanza vitale per i fini dell'avventura.
+("Sarai mandato come emissario presso la Tribù Wanduzzi - essi, fra
+le altre cose, stimano molto coloro che sanno ricamare bene....")
+
+Il Master può usare la tecnica dell' "Interferenza nella Forza",
+facendo in modo che i personaggi più potenti attraggano su di loro
+i problemi più seri. ("Il capobanda entra nel bar con uno sguardo
+omicida nei suoi occhi. Osserva la situazione per un attimo, e poi
+inizia a fissarti minacciosamente....")
+
+
+# Poteri Supernormali
+
+Se la vostra campagna non prevede l'uso di alcun tipo di Poteri
+Supernormali, non c'è alcun bisogno di leggere il capitolo 3. Generi come
+lo Spionaggio, la Resistenza Italiana nella 2^ Guerra Mondiale, i Pistoleri
+del Vecchio West, i Moschettieri o i Pirati possono essere giocati senza
+che i personaggi debbano sentire il bisogni di Poteri Supernormali. Ergo,
+potete passare direttamente al capitolo 4, Risoluzione delle Azioni.
+
+D'altra parte, coloro che giocano o arbitrano scenari dove sono presenti
+altre razze, o dove la magia e i poteri PSI sono presenti, avranno bisogno
+di leggere questo capitolo.
+
+## Poteri Supernormali - Glossario
+
+Viene chiamata Potere Supernormale ogni Abilità che oltrepassa le capacità
+degli esseri umani così come li conosciamo. Un Potere Supernormale è, a
+grandi linee, un Dono molto potente. Alcuni Poteri Supernormali possono
+avere delle Abilità associate, le quali vengono apprese separatamente,
+usando le normali regole sulle Abilità.
+
+Potere: un Potere Supernormale.
+
+Superdifetto: Ogni Difetto che va oltre la norma umana. Questi sono
+spesso associati a razze aliene o fantastiche. Nel Sistema di Creazione
+Obiettivo, il Master deve definire il valore di ogni Superdifetto - può
+valere come un difetto ordinario oppure può valere molto di più.
+
+Mana: Energia magica. Il Mana è una sostanza invisibile la quale può
+essere individuata - se non addirittura creata - dai maghi, i quali
+possono, mediante questa sostanza, manipolare e alterare la materia, il
+tempo e lo spazio.
+
+Magia: L'arte di influenzare gli eventi attraverso la manipolazione del
+Mana, o aiutandosi con l'evocazione di altri esseri da dimensioni
+ultraterrene, oppure incanalando il potere derivante da una qualche
+fonte. La magià può essere studiata dagli esseri umani, ma è intrinseca
+in alcune razze, quali il Popolo delle Fate.
+
+Miracolo: Magia compiuta da una Divinità. I Miracoli sono spesso
+scarsamente visibili e quasi sempre indiretti. I Sacerdoti, o le persone
+che fanno da tramite tra i popoli terreni e la/le divinità possono
+tentare di compiere miracoli invocando la loro divinità. Si noti che
+alcune religioni per compiere i Miracoli richiamano esseri più grandi e
+più forti dell'essere umano, che vivono in un piano non materiale e sono
+considerati Dei. Altre religioni credono che esista una sola Divinità, e
+credono che questi esseri siano solo angeli, demoni, djinni, efreeti,
+ecc.. Nel primo caso eventuali risultati ottenuti da questi esseri
+vengono visti come miracoli; nel secondo caso vengono visti come una
+dimostrazione di un potere psichico più grande di quello dell'uomo.
+
+PSI: Ogni potere originato dalla mente che manipola la materia, il tempo
+e lo spazio.
+
+Superpotere: ogni Potere Supernormale che costituisce anche una Abilità
+intrinseca, causata da radiazioni, esposizione alle radiazioni, da un
+Dono di origine aliena o generata da un dispositivo, come una cintura di
+origine aliena. Esempi di superpoteri possono essere trovati in molti
+fumetti, e includono la superforza, la capacità di volare, vedere
+attraverso i muri, diventare invisibile, ecc..
+
+Miglioramento Cibernetico: Ogni congegno elettronico o meccanico che ,
+applicato ad un corpo normale, gli fornisce uno o più Poteri
+Supernormali.
+
+Razze Non Umane: Certe razze aliene o fantastiche (in realtà specie)
+hanno capacità che vanno oltre la norma umana, come una forza maggiore, o
+la capacità di volare, e così via. Gran parte di queste Abilità possono
+essere classificate come PSI o come Superpoteri, così da non essere
+considerate separatamente, eccetto che per Massa e Forza. Si noti che gli
+Androidi e i Robot vengono considerati come una Razza ai fini del gioco.
+
+Scala: I personaggi possono avere certi Attributi che sono ben oltre la
+norma umana, sia in un verso che nell'altro, ma che devono essere
+confrontati con la norma umana. Ad esempio, la Massa, la Forza, la
+Velocità. Tali Attributi sono classificati in Scala. La scala umana è 0
+(Zero). Una razza con una forza media maggiore di quella umana avrebbe
+Forza Scala 1 o più, mentre razze più deboli dell'uomo avrebbero Forza
+Scala -1 o meno. Un individuo di una determinata Razza può avere un
+Livello di Forza (sempre per fare un esempio) relativo ai suoi simili.
+
+Miglioramento Genetico: Un Miglioramento Genetico può dare o meno un
+Potere Supernormale al personaggio. Se così è, allora deve essere
+considerato come ogni altro Potere Supernormale già descritto.
+
+## I Poteri nella fase di Creazione
+
+I Poteri Supernormali possono essere disponibili o meno in una data
+campagna, dal momento che non si inseriscono bene con tutti i generi di
+gioco.
+
+Il modo migliore di definire un Potere Supernormale è attraverso una
+consultazione col Master. Un giocatore dovrebbe descrivere ciò che vorrebbe
+che il proprio personaggio sapesse fare, e il Master deciderà
+successivamente se il desiderio del giocatore rientra nei limiti che ha in
+mente per la propria campagna. Se così non è, allora il Master offrirà
+suggerimenti su come cambiare il personaggio per inserirlo nella campagna.
+
+I Poteri Supernormali sono trattati come Doni molto potenti, con la loro
+disponibilità regolata dal Master. Egli può decidere che ogni giocatore può
+avere due superpoteri gratuitamente, ad esempio, o cinque, o più. Il
+giocatore può desiderare ulteriori poteri, ma in questo caso deve
+accollarsi anche dei Difetti (o dei Superdifetti!) per equilibrare il loro
+influsso benefico.
+
+Alcuni Poteri Supernormali potrebbero essere così potenti da valere più di
+altri Poteri. Nel Sistema di Generazione Obbiettiva, il Master può imporre
+che il costo di alcuni Poteri Supernormali sia due o tre volte quello di
+altri Poteri meno...potenti! In alcuni casi il Master potrebbe porre il
+veto su alcuni suggerimenti dei giocatori: ad esempio, se questi ultimi se
+ne uscissero con Poteri quali Omniscienza e Onnipotenza.
+
+Il Master può decidere che un Potere Supernormale può essere scambiato con
+altri Tratti Caratteriali secondo lo schema visto in precedenza. In questo
+caso, un Potere Supernormale medio vale due Doni. Ad esempio, un giocatore
+che desidera impersonare un mago in una ambientazione fantasy, avrà bisogno
+di impegnare alcuni Tratti Caratteriali per Comprare un Potere Magico.
+
+I Poteri Non Definiti hanno un valore base di Non Esistente, cioè non hanno
+un valore di Discreto, come gli Attributi, o Scarso, come le Abilità. Se un
+Potere Supernormale non è definito per un dato personaggio, egli
+semplicemente non lo possiede.
+
+### Poteri Disponibili
+
+Il Master deve determinare il tipo, il numero ammesso, e gli svantaggi
+associati dei Poteri Supernormali in gioco. Ecco alcuni esempi:
+
+Tipo di Potere : Una data campagna può comprendere anche la Magia, poteri
+Psi, o i superpoteri, o una combinazione di questi tre. Il Master deve
+decidere riguardo al grado di definizione di un Potere Supernormale. Ad
+esempio: ESP va classificato come potere generico oppure va diviso in
+Telepatia, Telecinesi, Chiaroveggenza e Precognizione? La Magia va divisa
+in incantesimi, in gruppi di incantesimi o è semplicemente l'abilità di
+sfidare le leggi della natura a seconda del desiderio del momento? E così
+via.
+
+Numero di Poteri permessi: Il Master può fissare il numro di poteri
+permessi perpersonaggio. Questo numero può variare da 1 a 20 - e oltre.
+Più Poteri per personaggio sono molto probabili in una campagna stile
+Fantasy dove gli incantesimi sono visti come Poteri distinti.
+
+Svantaggi dei Poteri: In alcune campagne, l'uso di un Potere può
+implicare una penalità o uno svantaggio. Questi ultimi includono fatica
+fisica o mentale, tempi di attivazione lunghi, inaffidabilità o
+incontrollabilità dei risultati, ed effetti collaterali non desiderati
+(come rumori, cattivi odori e così via). Alcuni Poteri funzioneranno in
+certe condizioni o con certi materiali, mentre altri sono limitati a un
+certo numero di usi per giorno - o per mese. Altri possono comportare dei
+rischi per il personaggio, influendo sulla salute fisica o mentale di
+questo. Il Master può considerare questi svantaggi come Difetti: un
+numero di questi può influenzare il costo di un Potere nella fase di
+Creazione del Personaggio.
+
+### Abilità Associate
+
+Se un dato Potere richiede come conseguenza logica che anche una data
+Abilità deve essere presente, questa deve essere acquistata separatamente.
+Ad esempio, il Superpotere Volare permette al personaggio di volare, e
+nessun tiro sulle Abilità è richiesto. Ma la possibilità di eseguire
+intricate manore durante un combattimento senza andare a sbattere contro
+qualcosa richiede un tiro sull'Abilità di Volare. (A discrezione del
+Master, ovviamente, che può ritenere che il Superpotere Volare implichi
+anche la capacità di manovrare in volo).
+
+Un'altra Abilità comune è Lanciare, ovvero scagliare palle di fuoco o lampi
+di energia contro un nemico. Il Master può anche imporre che l'abilità di
+Lanciare è intrinseca al Potere che lo richiede - nessun tiro su Lanciare è
+richiesto, a meno che il nemico non faccia un tiro di Evitare a livello
+Buono. (si veda il Capitolo 4, Risoluzione delle Azioni).
+
+Questo può essere vero con la magia: l'abilità di lanciare incantesimi può
+essere un Potere Supernormale, ma farlo bene può essere una - o molte -
+Abilità distinte.
+
+### Poteri Da Combattimento
+
+Se un Potere Supernormale può essere usato per attaccare un nemico, il
+Master deve determinare la forza di questo Potere Supernormale riguardo ai
+danni che può causare - preferibilmente durante la creazione del
+personaggio. Un Potere offensiivo viene considerato alla stregua di un'arma
+a propulsione, come una pistola, oppure viene contato come una certa arma
+da corpo a corpo. Questo si può esprimere come Palla Di Fuoco, +6 al danno,
+oppure Grosse Zanne +3 (Si veda la sezione 4.7, Danni e Guarigione).
+
+Nel caso di un Attacco magico o da Superpoteri, più grande è la potenza
+dell'attacco, più elevato è il livello di potere richiesto, e forse più
+grande è il prezzo da pagare per il personaggio che usa questo Potere. Le
+penalità possono influenzare il livello del Potere usato, o possono
+consistere in una maggiore fatica e/o altri svantaggi.
+
+## Non Umani
+
+Alcune campagne avranno dei personaggi (o degli animali, dei mostri) dotati
+di Tratti Caratteriali valutabili oltre la norma umana. In particolare,
+personaggi con Forza e Velocità molto sopra o sotto la norma sono comuni
+nei giochi di ruolo. Ad esempio, Giganti, Folletti, Orchi, Alieni, ecc.
+
+In Fudge , la Forza, la Massa e la Velocitò sono classificate dal Master in
+termini di Scala per quanto riguarda razze diverse. ( Non tutti i Master si
+baseranno su questo, ma possono usare la Scala per evidenziare delle
+differenze razziali. La Forza influisce sul danno inflitto, sulla capacità
+di carico, e su altre cose ancora. La Massa influisce sui danni subiti dal
+personaggio, facendoglieli sentire in misura maggiore o minore. La Velocità
+è importante nel decidere chi riesce o a scappare o a raggiungere l'altro,
+oppure nel decidere chi agisce per primo.) La maggior parte dei Tratti
+Caratteriali che sono diversi rispetto a quelli umani sono considerati come
+un "Bonus o Penalità Razziale" piuttosto che essere situati in una Scala
+diversa - si veda la sezione 3.35. Ovviamente il Master può assegnare e
+definire ogni Tratto Caratteriale che desidera in termini di Scala.
+
+Gli Esseri umani sono definiti a Scala 0, a meno che il gioco si svolga in
+un universo dove altre razze siano la norma. In questi casi la razza dei
+Giocatori è a Scala 0, e gli Umani - se presenti - hanno una scala diversa,
+a seconda se sono più o meno forti, veloci e pesanti rispetto alla Razza di
+riferimento.
+
+### Forza e Massa
+
+Ogni Livello di Forza (da Disastroso a Superbo) è definito come 1.5 volte
+superiore rispetto al livello precedente. Un personaggio con Forza a Buono
+è 1.5 volte più forte di uno con Forza a Discreto. Si noti che questo grado
+di progressione può non essere vero per gli altri Attributi, dal momento
+che, in un campione di esseri umani, la forza varia molto di più della
+destrezza. Come esempio, un livello Superbo di Destrezza può equivalere
+soltanto a una destrezza doppia rispetto a quella espressa da Destrezza a
+Discreto.
+
+In termini di Scala, la Forza aumenta della stessa proporzione, ovvero 1.5
+volte. Un personaggio con forza Discreta a Scala 1 è 1.5 volte più forte di
+un personaggio con forza Discreta a Scala 0. Ciò vale per ogni livello
+della Scala: una creatura con una Forza a Superbo e Scala 10 è 1.5 volte
+più forte di un'altra con Forza a Superbo e Scala 9.
+
+A questo punto, vi è la tentazione di dire che una Forza Discreta a Scala 1
+è equivalente a una Forza Buona a Scala 0. Questo è vero per la Forza, ma
+non per la Massa. La Scala in realtà misura la Massa, o la Densità di una
+creatura, e la Forza viene ricavata a seguire. La parola Scala, usata da
+sola significa (in Fudge) Scala rispetto al rapporto Forza/Massa. Ogni
+altra Scala, come la Scala per la Velocità, oppure la Scala della Forza
+senza la Massa verrà specificata successivamente.
+
+In Fudge, la Massa ha un significato molto specifico: essa descrive quanto
+e come le ferite hanno effetto su un personaggio. (Questa definizione è
+specifica per il gioco e non ha alcuna pretesa scientifica). Ad esempio, ci
+vogliono molti colpi scagliati con forza umana per indebolire un gigante.
+Questo può non essere particolarmente in salute, ma la sua massa, la sua
+stazza sottointendono il fatto che una spada normale non infligge molto
+danno ai giganti come invece lo infliggerebbe a dei normali umani - a meno
+che non si colpisca un punto vitale, ovviamente. Allo stesso modo, un pixie
+potrebbe essere forte e robusto, ma forse non sopravviverebbe un singolo
+calcio assestato da un comune umano. La differenza è la Massa, e la Forza
+ad essa collegata.
+
+Un personaggio con Forza Discreta e Scala 1 ha un vantaggio rispetto a un
+altro che ha Forza Buona e Scala 0, sebbene che la Forza pura e semplice
+sia uguale per tutti e due. Il personaggio con Scala 1 subisce meno danni
+rispetto a quello a scala 0, e tutto questo grazie alla sua massa. Di qui,
+non si eguagli troppo alla leggera Scala 1- Discreto con Scala 0 - Buono.
+In particolare, si eviti che personaggi umani con Forza Superba vadano in
+giro a dire di essere Guerrieri di Scala 3! Se lo fossero effettivamente,
+sarebbero capaci di sopravvivere alla maggior parte dei colpi di spada.
+Questo è spiegato nella sezione 4.75, Scala Non Umana nel Combattimento.
+
+Ovviamente, il Master può immaginare una razza meno pesante ma più dura da
+uccidere rispetto ai comuni umani. Questo tipo caratteristica viene
+descritto meglio da un Bonus Razziale (vedi 3.35), descritto come una sorta
+di Pelle Dura (Dono).
+
+Il Master può anche decidere che una massa superiore alla media umana non
+specifica necessariamente una creatura di dimensioni maggiori di quelle
+umane - forse la razza in questione è più densa dell'uomo medio. Le
+leggende Nordeuropee dicono che i Nani erano fatti di pietra, e quindi più
+duri da ferire dei comuni umani. Questa caratteristica potrebbe essere
+rappresentata da un Scala 1, sebbene un nano sia più basso di un umano.
+Nella sezione 4.72, Sistema di Danni Obbiettivo, viene mostrato un esempio
+di nano: Jeb, Nano con Forza e Massa a scala 1, anche se è più piccolo dei
+normali umani. Egli è più denso, di qui egli colpisce più duramente e
+subisce meno danni dei normali umani. Ovviamente il Master può definire gli
+Attributi dei Nani e le Scale appropriate come meglio ritiene.
+
+Di solito, la forza e la massa sono condividono lo stesso valore di Scala.
+Cioè, se una creatura è a Scala 7, questo vuol dire che la Forza è a Scala
+7 e la Massa a Scala 7. La Forza può variare entro qualsiasi intervallo
+nella scala Superbo...Disastroso (come per gli umani). Si possono avere
+giganti con Forza Superba e Scala 10 e giganti con Forza Disastrosa e Scala
+10. A differenza della Forza, la Massa non dovrebbe variare così tanto
+all'interno di una stessa razza. Se questo è permesso, non dovrebbe mai
+uscire dall'intervallo Mediocre...Buono. Difatti, è meglio considerare
+Massa a Buono come un Dono e Massa a Mediocre come un difetto, piùttosto
+che considerarla come un Attributo.
+
+Il Master può scegliere di separare la Scala della Forza da quella della
+Massa. Ciò permetterebbe la creazione di creature tipo un pixie con Scala
+di Forza -6 e Scala di Massa - 4. Tuttavia, il combattimento tra due Pixies
+sarebbe una cosa diversa rispetto al combattimento tra un Pixie e un umano.
+In questo caso, farebberi molta più fatica a farsi del male tra di loro di
+quanta ne farebbero gli umani, dal momento che la Scala della loro forza
+(Abilità nel fare danno) è minore della Scala della loro Massa (capacità di
+incassare i danni subiti). Questo può essere proprio quello che il Master
+desidera: un supereroe molto, molto forte che può picchiare chi vuole ma
+non può subire molto danno potrebbe essere rappresentato da un personaggio
+con Forza a Scala 10 e Massa a Scala 2, tanto per fare un esempio.
+
+### Velocità
+
+Ogni livello di velocità, da Disastroso a Superbo, è definito come 1.2
+volte più veloce del livello precedente. Un personaggio con Velocità Buona
+è 1.2 volte più veloce di un personaggio con Velocità Discreta. Questa non
+è la stessa progressione della Forza.
+
+La Scala della Velocità aumenta in maniera diversa: un individuo con
+Velocità Discreta a Scala 1 è 1.5 volte più veloce di un individuo con
+Velocità Discreta a Scala 0. Questo vale per ogni livello di accrescimento
+della Scala: una creatura con Velocità Superba a Scala 10 è 1.5 volte più
+veloce di una con Velocità Superba a Scala 9. Questa è la stessa
+progressione usata per la Forza. Dal momento che la velocità non viene mai
+usata per determinare eventuali danni - eccetto per valori di Scala molto
+alti - le discrepanze non dovrebbero essere problematiche.
+
+La Velocità può non essere un Attributo necessario, e può essere
+tranquillamente ignorata, se il Master lo desidera. La Velocità è inclusa
+principalmente per quelle creature - e veicoli -che sono significativamente
+più veloci degli esseri umani. A scopo di comparazione, si può assumere che
+un umano medio con Velocità Discreta può correre a circa 16 km/h per un
+certo periodo, assumendo che egli sia buona forma fisica. Una corsa su una
+breve distanza (100, 200 m) può essere fatta ad una velocità leggermente
+maggiore. Questo implica uno spostamento di 15 metri in un turno di
+combattimento di tre secondi, tanto per fare un esempio.
+
+Si noti che nelle gare brevi non c'è bisogno di tirare il dado per vedere
+se qualcuno con Velocità Superba batte un altro con Velocità Discreta. Il
+primo batterà il secondo molto più spesso di quanto un tiro di dado possa
+rivelare.
+
+### Correlazioni di Scala.
+
+Il Master dovrebbe fare riferimento a questa tabella quando decide quale
+Scala assegnare ad una particolare razza. Questo compito deve essere fatto
+una volta sola, durante la fase di creazione della razza.
+
+Per prima cosa, il Master deve decidere quanto più forte (o piuù debole,o
+più veloce, etc.) è il membro medio della razza da creare rispetto
+all'umano medio. Per esempio, egli potrebbe decidere che gli Orchi sono 3
+volte più forti degli esseri umani, e i pixies sono 8 volti più deboli
+degli esseri umani. Dopo aver fatto questo occorre guardare a quale numero
+ci si avvicina di più sulla seguente tabella e guardare la corrispondente
+scala per trovare il corretto rapporto Forza/Massa. In questo esempio, gli
+Orchi sono a Scala 3, mentre i pixies sono a Scala -6. (E' possibile che il
+Master possa avere in mente delle caratteristiche differenti per gli Orchi
+e i Pixies, ovviamente...)
+
+|Scala |  Moltiplicatore | Scala | Moltiplicatore|
+|------|-----------------|-------|---------------|
+|-11   |     0,01        |   5   |      7,5      |
+|-10   |     0,02        |   6   |     10        |
+|-9    |     0,03        |   7   |     15        |
+|-8    |     0,04        |   8   |     25        |
+|-7    |     0,06        |   9   |     40        |
+|-6    |     0,1         |  10   |     60        |
+|-5    |     0,15        |  11   |     90        |
+|-4    |     0,2         |  12   |    130        |
+|-3    |     0,3         |  13   |    200        |
+|-2    |     0,5         |  14   |    300        |
+|-1    |     0,7         |  15   |    450        |
+| 0    |     1           |  16   |    650        |
+| 1    |     1,5         |  17   |   1000        |
+| 2    |     2,3         |  18   |   1500        |
+| 3    |     3,5         |  19   |   2500        |
+| 4    |     5           |  20   |   4000        |
+
+
+Il rapporto Forza/Massa è usato per determinare un danno in combattimento,
+e tutte le armi e le armature devono essere della stessa scala di chi le
+porta. (NB. I numeri della tabella sono stati arrotondati per facilitare il
+compito del Master).
+
+Ecco un altro esempio: un Master legge in un testo di leggende medievali
+che "un drago era forte come 20 guerrieri." Guardando sulla tabella, 20
+volte la norma umana equivale a scala 8. Considerando tuttavia che la
+norma, per i guerrieri è Forza a Buono, la scelta della scala per il drago
+cade su 9. Ovviamente, un singolo drago potrebbe avere Forza a Scarso se
+viene confrontato coi suoi simili. Questo fatto viene semplicemente segnato
+come Forza: Scarsa (- 2), Scala 9.
+
+Lo stesso Master desidera anche che sia possibile creare dei Personaggi
+Leprechauns*. Anche se sono molto piccoli, la loro natura magica li rende
+un poco più forti di quello che dovrebbero essere, e la loro scala viene
+indicata a -4. In questo modo, un Leprechaun con forza a Buono è forte come
+un umano con forza a Disastroso.
+
+Il Master può anche usare questa tabella per determinare quanto un dato
+essere può sollevare, tenendo conto della sua forza e della sua scala. In
+questo modo è anche possibile determinare la capacità di carico delle
+bestie da soma.
+
+Il Master può richiedere un tiro sulla Forza per vedere se un Personaggio
+riesce o meno a sollevare un dato oggetto. Questo dipenderà dalla scala del
+personaggio, ovviamente. In questo modo, un Leprechaun potrebbe aver
+bisogno di fare Buono o meglio per sollevare una roccia che un umano
+potrebbe sollevare senza sforzo (leggi senza tirare dado alcuno)
+
+### Costi della Scala
+
+Se si sta usando il Sistema di Creazione Obiettivo, ogni livello di Scala
+extra per un dato personaggio ha come costo un livello di Attributo e un
+Dono. Questo perchè un ulteriore livello di Scala comporta un bonus alla
+Forza di +1, e un ammontare extra di massa corporea, che equivale al dono
+di Pelle Dura. Tuttavia, un Master generoso potrebbe diminuire il costo di
+questa opzione.
+
+In una ambientazione supereroistica questo sistema comporta dei costi molto
+elevati nella fase di creazione dei personaggi. Un metodo alternativo è
+quello di permettere l'equivalenza di un superpotere con un livello di
+Forza pari a una determinata scala (Superforza). questo livello può variare
+da 4 (Cinque volte più forte di un normale essere umano) a 13 (200 volte
+più forte) se non oltre, a seconda delle situazioni. Successivamente, un
+personaggio alza o abbassa il suo livello di forza per vedere quanto è più
+o meno forte rispetto al supereroe medio.
+
+Esempio: Il Master impone che un Potere Supernormale implica anche Forza
+a Scala 10 (50 volte la norma). Ogni personaggio che acquista questo
+Potere Supernormale ha Forza Discreta a Scala 10 come base. La forza
+stessa può essere portata a Buono, Scala 10 al costo di un Livello di
+Attributo.
+
+Il Master può anche permettere la presenza di Massa e Forza in scale
+separate per i supereroi, o perfino per le razze diverse da quella umana.
+Ad esempio, il supereroe citato nella sezione 3.31 con Forza a Scala 10 e
+Massa a Scala 2, dovrebbe pagare solo per due Doni e dieci livelli
+Attributo. Oppure, se il Master è particolarmente generoso, un solo Potere
+Supernormale potrebbe coprire l'intero costo.
+
+Altri Poteri Supernormali possono essere definiti a livelli. Esempi di
+questi includono: la telecinesi, la telepatia, il controllo dei venti, e
+così via.
+
+In questi casi, ogni livello può essere acquistato come un Potere
+Supernormale, il che è molto costoso, oppure si può impiegare questa
+opzione: un Potere Supernormale consente l'acquisto di un dato superpotere
+ad un dato livello di base, e la semplice spesa di un Punto Attributo (se
+non addirittura di un Punto Abilità) alza o abbassa il Potere Supernormale
+scelto dal suo punto di partenza.
+
+Per scale sotto l norma umana, ogni livello negativo della Scala per quanto
+riguarda la Massa equivale al Difetto di Feribile Facilmente, e il Master
+può concedere che si tenga conto di questo difetto durante la fase di
+creazione del personaggio.
+
+### Bonus e Penalità Razziali
+
+Raramente vi è bisogno di usare la Scala per Tratti Caratteriali diversi da
+Forza, Massa e Velocità. E' facile immaginare qualcuno che voglia
+impersonare una razza un poco più intelligente di quella umana, ma una
+razza dieci volte più intelligente di quell umana è talmente aliena che
+sarebbe impossibile da rendere in termini di gioco. Questo è vero anche per
+la maggior parte dei Tratti Caratteriali - non si riescono ad immaginare
+differenze dalla norma così estreme dal nostro punto di vista.
+
+Il Master dovrebbe usare dei Bonus (o delle Penalità) specifiche per i
+Tratti Caratteriali diversi da Forza, Massa e Velocità. Se il Master
+immagina che gli halflings siano particolarmente resistenti, può dare loro
+un +1 di bonus alla Costituzione. Questo significa che un Halfling con
+Costituzione Discreta in realtà ha il livello equivalente a Buono. Come
+altro esempio, potremmo avere una razza aliena (i Cludds) che hanno una
+penalità di -2 nell'Intelligenza.
+
+E' meglio usare un Tratto Caratteriale posto a un livello relativo alla
+media umana, sebbene sia possibile mettere il livello effettivo rispetto
+alla media razziale tra parentesi. Così, Grakesh, esponente dei Cludd,
+avrebbe la sua intelligenza così descritta: "Intelligenza Scarsa (Cludd:
+Discreta)". Tuttavia, si elenchi sempre la forza nel valore relativo alla
+razza di appartenenza, con la scala appropriata se diversa da 0, cosicchè
+la Massa assumerà il valore corretto. Vedasi il personaggio d'esempio
+(Brogo l'Halfling) nella sezione 6.311 per un esempio di bonus razziali e
+Scala diversa da quella umana.
+
+I Bonus e le Penalità razziali possono essere usati per ogni tipo di Tratto
+Caratteriale: Attributo, Abilità, Dono, Poteri Supernormali, o Difetti.
+
+Se si usa il Sistema di Creazione Obiettiva, ogni livello di Bonus o
+Penalità razziale è solitamente uguale ad un livello del dato Tratto
+Caratteriale alzato o abbassato secondo le regole normali. Cioè, se come
+bonus razziale si concede un +1 all'Agilità e un +1 alla Percezione, questi
+dovrebbero costare un Punto Attributo. Se una razza ha come bonus il Dono
+del Senso dell'Orientamento Assoluto, questo bonus dovrebbe costare come un
+generico Dono. L'abilità innata di volare dovrebbe costare come un generico
+Potere Supernormale, e così via...
+
+Se una razza ha un -1 nelle Abilità Sociali, questa penalità dovrebbe
+valere un solo Punto Abilità nel caso che lo scenario preveda una singola
+Abilità detta Abilità Sociali. Se invece esistono più Abilità che ricadono
+in questa categoria, una penalità generalizzata di -1 dovrebbe valere
+quantomeno come un Difetto. Se il numero di queste Abilità è molto elevato,
+allora una penalità generalizzata di -1 dovrebbe valere quantomeno come un
+superDifetto. La stessa cosa vale anche per i bonus che influiscono su
+molte Abilità: questo bonus dovrebbe valere come un Potere Supernormale.
+
+## Eroi leggendari
+
+Alcuni generi di gioco permettono ai personaggi umani di svilupparsi oltre
+il regno dell'umanità comune. Tali campagne spesso implicano diversi piani
+di esistenza dove i Personaggi sono chiamati a sostenere sfide sempre più
+grandi.
+
+Questo stile di gioco può essere rappresentato in Fudge introducendo i
+livelli Leggendari. La Sezione 2.2 ha introdotto il concetto di Tratto
+Caratteriale a Leggendario come una meta per i Personaggi. Questa sezione
+espande il concetto all'infinito, oltre il semplice realismo.
+
+Se il Master e i giocatori preferiscono questo stile di gioco, ogni Abilità
+può essere alzata oltre Leggendario. Invece di dare un nome ad ogni nuovo
+livello, si usi un semplice sistema di numerazione : Spadaccino Leggendario
+2^ Livello, e così via. Anche gli Attributi possono essere alzati di
+livello in questo modo, ma (eccezion fatta per la Forza) questo è molto più
+raro.
+
+Ogni livello di Leggendario da un +1 per ogni azione. Il Personaggio Ugo
+Ditosvelto, tanto per fare un esempio, potrebbe avere una Abilità di Arco
+Lungo a Leggendario, 2^ livello. Questo gli darebbe un bonus di +5 (+3
+Superbo, +2 Leggendario 2^ Livello) contro ogni Discreto arciere. Conun
+bonus di +5, Ugo dovrebbe facilmente trionfare.
+
+Il Sistema di Sviluppo Obiettivo, Sezione 5.2, presenta una lista di costi
+in Punti Esperienza per ogni avanzamento di livello, anche per questi
+livelli Oltre Superbo.
+
+Si ricordi infine che questi livelli non esistono automaticamente in ogni
+scenario: essi sono opzionali per scenari molto specifici e con un
+bassissimo grado di realismo. Se il Master dice che questi livelli non
+esistono, non rompetegli le scatole: non esistono e basta!
+
+## Magia
+
+Se il Master desidera includere la magia nel proprio universo, può essere
+più facile per il Master tradurre qualsiasi sistema magico egli conosca e
+trasportarlo dentro Fudge. Se il Master desidera crearsi le proprie regole
+per quanto riguarda la magia, deve considerare che tipo di magia vuole che
+sia presente nel proprio universo.
+
+Le domande da farsi includono: Qual è la sorgente della magia? E' un
+processo naturale , come la manipolazione del Mana? Se usa il mana, è il
+mago a crearlo oppure la quantità di mana dipende dal posto? Oppure il mago
+evoca entità particolari per i suoi scopi? Oppure il mago deve prima
+trovare una sorgente di potere, e incanalarla per i propri fini? Oppure la
+sorgente della magia è qualcosa di diverso da tutto questo?
+
+Chiunque può imparare la magia oppure è un talento innato (ovvero un Potere
+Supernormale) Ci sono diversi livelli di potere disponibili? Se sì, che
+cosa significano questi livelli? E' richiesta anche una Abilità?
+particolare? Ovviamente, oltre alla magia pura e semplice, devono esistere
+anche degli oggetti magici - questi sono molto comuni nelle leggende e
+nelle fiabe.
+
+Se degli esseri magici sono evocati, questi sono buoni, cattivi, neutrali,
+confusi? Come si sentono ad essere controllati da un mago? Possono reagire
+male se il mago fallisce l'incantesimo di evocazione? Se il Potere Magico
+viene incanalato da una sorgente esterna, questa sorgente si trova nel
+nostro piano di realtà o in qualche altro piano? E' contenuta all'interno
+di esseri viventi oppure si trova all'interno di oggetti inanimati come
+forma di energia inerte?
+
+Qual è il processo dell'usare la magia? Implica l'uso di incantesimi
+precedentemente memorizzati? Di componenti fisiche? Meditazione? Rituali
+lunghi e complessi? Quanto ci vuole per lanciare un incantesimo? Questo
+deve essere letto da un libro oppure improvvisato sul momento?
+
+Quanto è affidabile la magia? Vi sono degli svantaggi nell'uso? Vi sono
+discriminazioni sociali contro i maghi? Essi operano alla luce del sole
+oppure sono una casta chiusa, della quale si parla sottovoce?
+
+Una volta che queste domande hanno trovato risposta, ed è stato definito il
+tipo e il grado della magia presente nella campagna, un sistema di magie
+può essere creato usando le meccaniche di Fudge.
+
+Negli Addenda, qui non disponibili, è incluso un sistema come esempio.
+
+## Miracoli
+
+Si assume in Fudge che i miracoli siano promossi da una qualche forma di
+divinità. Alcuni di questi possono avere origine da una spinta di una
+divinità (capriccio del Master, oppure un deus ex machina usato perché la
+trama lo richiede) e alcuni possono essere richiesti dai Personaggi.
+
+I miracoli possono avvenire in maniera chiassosa e visibile, oppure in una
+maniera molto più tranquilla e terra terra. Infatti, molte persone credono
+che i miracoli avvengono giornalmente, ma non ce ne rendiamo conto perchè
+appaiono come semplici coincidenze, quali, ad esempio il cercare
+disperatamente una chiave inglese e trovare un tizio, girato l'angolo della
+strada che ha proprio quella chiave. Questa può essere una semplice
+coincidenza, oppure un piccolo miracolo da parte di qualche divinità.
+
+Se la chiave fosse apparsa dal nulla, allora i dubbi a riguardo sarebbero
+pochi - sarebbe un miracolo vero e proprio!
+
+Il Master può scegliere l'uno o l'altro metodo, o entrambi, e non deve
+sentirsi legato a nessuno dei due.
+
+Il Master deve decidere se i miracoli possono o meno accadere, e se possono
+essere richiesti dai Personaggi. Se così si desidera. altre domande sorgono
+spontanee: Qualsiasi personaggio può chiedere un miracolo oppure possono
+solo pochi eletti? Quanto importante è il comportamento di un Personaggio
+in questa prospettiva? Come si manifesterà un eventuale miracolo? Le
+eventuali richieste come devono essere formulate? Devono essere precise o
+vaghe? Sono richiesti dei rituali specifici o basta una preghiera?
+
+Le risposte varieranno da Master a Master - non esiste un sistema
+"generico".
+
+Negli Addenda, qui non disponibili, è incluso un sistema come esempio.
+
+## Poteri Psi
+
+Anche qui, è forse più facile utilizzare regole già pronte piuttosto che
+creare un sistema per i poteri psi ex novo. Come regola molto semplice,
+ogni Abilità psionica può essere considerata come un Potere Supernormale.
+L'abilità di leggere la mente, di muovere oggetti, e così via, costa come
+un Potere Supernormale (o due Doni). Il Master deve determinare i livelli
+di potere di questi poteri, se presenti. Deve determinare se possono
+esistere Personaggio in grado di sollevare con la mente una portaerei
+oppure che al massimo possono spostare un dado - anche se questi ultimi
+possono fare più soldi, se ben competenti.
+
+Se l'ambientazione ha più di un livello di potere disponibile, allora il
+personaggio deve spendere dei livelli di potere per arrivare ai livelli più
+alti del potere psi. Si veda la sezione 3.34, Costo della Scala.
+
+In generale, alti livelli di potere psi implicano un raggio d'azione più
+vasto, l'abilità di agire su più soggetti alla volta, l'accesso ad un più
+vasto numero di Abilità correlate, (Ad esempio, un basso livello di
+Telepatia permette ad un Personaggio di mandare messaggi telepatici, ma un
+alto livello gli permetterà di leggere le menti , mandare ondate emotive
+che possono essere dolorose, di sentire le emozioni altrui, perfino di
+controllare le menti altrui.), di impiegare meno sforzo fisico, di avere
+meno possibilità di subire un danno mentale per lo sforzo, di richiedere
+meno concentrazione, e così via.
+
+Il Master dovrebbe anche imporre delle Abilità specifiche per il controllo
+di questi poteri. Avere un potere telecinetico permette al Personaggio di
+sollevare un oggetto e di muoverlo in maniera rozza. Un'abilità collegata
+potrebbe permettergli, oltre che a muovere un oggetto, anche di
+manipolarlo.
+
+Negli Addenda, qui non disponibili, è incluso un sistema come esempio.
+
+## Superpoteri
+
+Se l'ambientazione permette la presenza di superpoteri simili a quelli dei
+fumetti, allora vi sarà una grande varietà di superpoteri disponibili. Il
+numero di superpoteri che un singolo personaggio può avere dipende dal
+Master e da come vuole impostare la sua ambientazione. Un modo diffuso di
+gestire i superpoteri implica l'assunzione di Difetti collegati a questi
+poteri. Ad esempio, un supereroe con la capacità di volare potrebbe farlo
+solo in stato di incoscienza o sotto l'influsso di una droga.
+
+Non verrà fornito un elenco di superpoteri, dal momento che questi sono
+troppi! Sfogliare qualche fumetto potrà dare un'idea al Master. Come per le
+Abilità psi, ogni superpotere costa come un Potere Supernormale, e vi
+possono essere dei superpoteri molto ... super che possono costare due
+Poteri Supernormali.
+
+Si noti che la super forza è trattata come una Scala diversa di forza -
+vedasi la sezione 3.3, Non Umani. Eventuali superpoteri divisi in livelli
+sono discussi nella sezione 3.34, Costo della Scala.
+
+## Cibernetica
+
+Arti e organi artificiali e connessioni neurali a computers sono comuni in
+alcune ambientazioni di fantascienza. Se queste attrezzature forniscono
+poteri oltre la norma umana, devono essere acquistate al costo di uno o più
+Poteri Supernormali se si usa il Sistema di Creazione Obiettiva, oppure
+devono essere sottoposti all'approvazione del Master in ogni altro caso.
+
+Se un implanto fornisce un bonus ad un Attributo, esso costerà come un
+bonus a quell'Attributo, il che non è necessariamente tanto quanto la spesa
+che si deve fare per un Potere Supernormale. Dal momento che un arto
+artificiale può guastarsi ogni tanto, il Master può compensare questo costo
+regalando un livello di Abilità gratuito da spendere dove si vuole.
+
+
+# Risoluzione delle azioni
+
+Questo capitolo parla di come il personaggio può riuscire o meno nel
+compire una azione. Nei capitoli precedenti, i vari Tratti Caratteriali
+sono stati definiti in termini di Superbo, Ottimo, Buono, etc...Questo
+capitolo spiega come questi livelli influiscono sulle possibilità di
+successo di un personaggio, sia che stia combattendo un gigante, o che stia
+seguendo una traccia. A volte un risultato Discreto è sufficiente per
+completare una azione, mentre altre volte un risultato di Buono - o meglio!
+è richiesto. Migliori sono i livelli di Abilità del personaggio, migliori
+sono le sue possibilità di riuscire nell'azione.
+
+## Glossario di base
+
+Dado: Ogni giocatore (Master compreso) ha bisogno di una coppia di dadi a
+sei facce (2d6).
+
+Azione Semplice: tutte le Azioni compiute da un personaggio che non
+implichino l'opporsi contro qualcosa o qualcuno o che non siano
+influenzate da fattori esterni (nemici, etc.) vengono definite Azioni
+Semplici. Esempi di Azioni Semplici includono il saltare un burrone, lo
+scalare un albero, tentare un esperimento di chimica, etc.
+
+Grado di riuscita: Questo termine si riferisce al grado generale di
+riuscita di una azione, ovvero quanto bravo è stato il personaggio in
+quella particolare Azione Semplice . Se ad esempio un personaggio ha
+come livello di Abilità nello scalare Buono ma il tirando i dadi
+ottiene un risultato Ottimo, allora il suo GdR è Ottimo.
+
+Difficoltà: Il Master dovrà definire un livello di Difficoltà quando un
+personaggio tenta una Azione. Di solito la Difficoltà di base sarà
+definita come Discreto, ma altre Azioni possono essere più facili o più
+difficili a seconda dei casi. Ad esempio, lo scalare una parete
+verticale, perfino una con molti appigli, è una impresa moderatamente
+difficile (Difficoltà Discreta) mentre per una parete con pochissimi
+appigli a difficoltà potrebbe essere ancora maggiore (Ottimo o più).
+Una difficoltà maggiore implica che il personaggio dovrà fare un tiro
+molto buono per riuscire nell'intento.
+
+Confronto: I Confronti sono Azioni dove elementi esterni (animali, persone,
+mostro, robots) possono influire sull'esito dell'azione. In questo
+caso, ogni parte in causa tira i dadi, e i risultati sono confrontati
+per determinare l'esito del Confronto. Esempi di Confronto includono
+tutti i tipi di combattimento, il tiro alla fune, un duello mentale,
+una sfida a chi regge meglio la birra, etc...
+
+Grado di Confronto: questo termine è una misura di quanto un personaggio ha
+fatto meglio (o peggio ) di un altro in un Confronto. A differenza di
+un Grado di Riuscita, un Grado di Confronto ò espresso come un numero
+di livelli di differenza. Se, ad esempio, un personaggio in
+combattimento ottiene un risultato di Buono e il suo nemico ottiene un
+risultato Mediocre, il personaggio ha battuto il suo nemico di due
+livelli - il Grado di Confronto è +2 dal suo punto di vista, -2 da
+quello del suo nemico.
+
+Tiro di Situazione: Ogni tanto si renderanno necessari dei tiri che non
+sono basati sui Tratti Caratteriali di un qualche personaggio o PNG, ma
+sulla situazione ad un dato momento, determinata da circostanze
+esterne. Il Tiro di Situazione è semplicemente un normale tiro di dadi,
+ma non basato su alcun Tratto Caratteriale . Quindi, un risultato di 0
+implica un valore di Discreto, un risultato di 1 Buono, un risultato di
+-1 Mediocre, e così via. Questo meccanismo di gioco viene usato
+soprattutto per i tiri di Reazione e nella determinazione dei Danni, ma
+può essere usato in un sacco di altre situazioni. Ad esempio, i
+giocatori chiedono al Master se ci sono dei passanti in strada al
+momento - forse i loro personaggi vogliono tentare qualcosa di
+illecito. Il Master potrebbe decidere che non vi sono passanti se un
+Tiro di Situazione dà come risultato Buono o meglio. Tuttavia, se il
+Master ritiene che un qualsiasi avvenimento ha all'incirca il 50% di
+probabilità che accada, può tranquillamente fregarsene delle regole di
+Fudge e tirare semplicemente il suo dado preferito (d6, d10, d20,
+d100).
+
+Oltre Superbo: E' possibile arrivare ad un Grado di Riuscita che superi il
+livello di Superbo. E' possibile ottenere risultati che vanno da
+Superbo +1 a Superbo +4. Questi livelli sono raggiungibili soltanto in
+rarissime occasioni dai normali esseri umani. Nessun Tratto
+Caratteriale può essere portato ad un livello superiore a Superbo, a
+meno che il Master non dia la possibilità di raggiungere il livello
+Leggendario, equivalente a Superbo +1. In questo caso si veda la
+sezione 5.2, Sviluppo Soggettivo del Personaggio. Ad esempio, il
+giocatore di Baseball Willie Mays era un esterno Superbo. La sua presa
+più famosa, spesso mostrata in televisione, può essere considerata un
+Grado di Riuscita +4. Non è possibile, tuttavia, per un normale essere
+umano avere quel livello di eccellenza come routine: perfino Willie
+Mays era "solo" un esterno Superbo, capace, alcune volte, di fare
+ancora meglio. Un Master può decidere di fissare il livello di
+difficoltà di una Azione o di un Confronto oltre Superbo, ma deve fare
+ciò solo nel caso di Azioni quasi impossibili da compiere.
+
+Sotto Disastroso: E' anche possibile ottenere un Grado di Riuscita che vada
+da Disastroso -1 a Disastroso -4. Nessun livello di difficoltà dovrebbe
+essere posto così in basso, dal momento che qualsiasi azione che abbia
+Difficoltà a Disastroso dovrebbe essere quasi automatica da compiere
+per la maggior parte dei personaggi. In altre parole, non vi è bisogno
+di tirare il dado in queste situazioni! (o quasi...)
+
+## Tirare il dado
+
+Non vi è bisogno di alcun tiro di dado quando il personaggio compie una
+azione talmente facile da essere considerata quasi come automatica. Allo
+stesso modo, una azione talmente difficile che non offre alcuna possibilità
+di riuscita ai giocatori non richiede alcun tiro di dado - è così difficile
+che, molto semplicemente, nessun personaggio può compierla. Il tiro del
+dado è richiesto nei casi centrali, quando il risultato di una azione offre
+un certo grado di incertezza.
+
+Si consiglia al Master di tirare il dadi il meno possibile. Si eviti nel
+modo più assoluto di far tirare i dadi ai giocatori quando i loro
+personaggi compiono azioni di routine quali camminare, far da mangiare,
+raccogliere qualcosa da terra. Non è una cattiva idea l'estendere questa
+filosofia: si può evitare di far tirare i dadi ai personaggi nel caso
+questi debbano scalare una parete, a meno che la parete da scalare sia
+verticale e/o con pochi appigli. Anche in questo caso, uno scalatore
+Superbo non dovrebbe aver bisogno di tirare i dadi: egli dovrebbe riuscire
+automaticamente a meno che la parete da scalare non sia veramente molto
+difficile, o non intervengano fattori esterni quali maltempo, vento,
+nemici, etc...
+
+Per ogni azione che il personaggio desidera compiere, il Master deve
+determinare quale Tratto Caratteriale viene messo alla prova (di solito una
+Abilità oppure un Attributo). Se l'azione è una Azione Semplice, il Master
+deve determinare anche il suo livello di Difficoltà (di solito Discreto).
+Si veda la sezione 4.5, Azioni
+
+### Leggere i dadi
+
+Delle tre tecniche di lettura del dado qui presentate, questa è quella
+raccomandata. Fornisce risultati in un campo che va da +4 a -4 facilmente e
+rapidamente, senza interferire nello svolgimento della trama e senza
+richiedere complesse operazioni matematiche.
+
+Ogni giocatore, Master compreso, ha bisogno di 2d6, e ogni giocatore
+dovrebbe avere ogni dado di colore diverso dall'altro. Uno dei due dadi
+dovrebbe essere contrassegnato come "positivo", mentre l'altro dovrebbe
+essere designato come "negativo". In una situazione ideale, tutti i
+giocatori avranno le loro coppie di dadi con il dado di colore positivo col
+colore uguale per tutti i giocatori, e così il dado di colore negativo (ad
+esempio, un dado rosso per tutti e un dado bianco per tutti).
+
+Quando si deve tirare i dadi, il giocatore tira i suoi due dadi e esamina
+il risultato. Se i due dadi danno un risultato uguale (es. 5 e 5, 3 e 3; 6
+e 6; e così via) il risultato è pari al valore del Tratto Caratteriale
+messo alla prova. Se i due dadi danno risultati differenti, il giocatore
+deve togliere dal tavolo il dado che ha il valore più alto, lasciando sul
+tavolo quello col risultato minore. Il numero di quel dado rappresenta il
+valore assoluto del risultato, e il segno del risultato è dato dal colore
+del dado. Ad esempio, se il dado lasciato sul tavolo è il dado designato
+come negativo, e il numero sulla faccia è 4, il risultato ottenuto è -4.,
+ovvero quattro livelli sotto il livello di definizione del Tratto
+Caratteriale in esame (pessimo risultato). Se il dado lasciato sul tavolo
+fosse stato quello "positivo", il risultato sarebbe stato +4 livelli sopra
+il livello di definizione del Tratto Caratteriale in esame (ottimo
+risultato).
+
+Ci sono due eccezioni a questa regola, ovvero il caso che il risultato del
+dado rimanente sia di +5 o -5. Questi risultati sono troppo estremi per il
+sistema di gioco di Fudge; per questo motivo, questi risultati vengono
+considerati equivalenti a 0. Il personaggio, in questi casi, ha quindi
+ottenuto un risultato pari al livello di definizione del suo Tratto
+Caratteriale.
+
+Cercare di leggere un risultato diverso da zero con entrambi i dadi
+presenti sul tavolo può generare confusione, così è meglio togliere
+fisicamente dal tavolo il dado più alto dei due lanciati. Questo
+procedimento facilita la lettura dei risultati, ergo velocizza il gioco e
+mantiene l'attenzione sul gioco di ruolo vero e proprio, e non sul lanciare
+i dadi.
+
+I livelli sono sempre quelli:
+
+|||
+|-|-|
+|	+3  | Superbo     |
+|	+2  | Ottimo      |
+|	+1  | Buono       |
+|	0   | Discreto    |
+|	-1  | Mediocre    |
+|	-2  | Scarso      |
+|	-3  | Disastroso  |
+
+
+
+
+Anche se i numeri sono opzionali, potrebbe essere utile includerli nella
+scheda dei personaggi. Essi spesso facilitano la determinazione del
+risultato finale. Ad esempio, se il livello di Abilità di un personaggio è
+Buono (+1) e ottiene un -3 come risultato tirando i dadi, può essere piu
+facile calcolare 1-3 = -2 che Buono - 3 = Scarso. Oppure, se si ha la
+tabella sottomano, potrebbe essere ancora più facile contare a dito tre
+livelli più in basso (sono analfabeti forte codesti yankees, ndt).
+
+Ad esempio, Nathaniel, che ha una Abilità come Arciere pari a Buono, sta
+gareggiando in una gara di tiro con l'arco. Egli tira due dadi, seguendo la
+procedura descritta sopra. Se ottiene 0, il suo risultato è pari al suo
+livello di Abilità, ovvero Buono. Se ottiene +1, il suo risultato è pari a
+Ottimo, dal momento che Ottimo è un livello superiore a Buono, e Buono è il
+suo livello corrente di tiro con l'arco. Se tuttavia il suo tiro è -3,
+allora il povero Nathaniel ha fatto un tiro a livello Scarso.
+
+Si noti che non sempre è necessario calcolare il grado esatto di riuscita
+in una Azione. Se il Master ha solo bisogno di sapere se il personaggio
+taldeitali è riuscito a fare quello che voleva fare, è sufficiente che il
+giocatore dichiarare il proprio livello di definizione del Tratto
+Caratteriale in esame e il risultato del dado. In questa maniera il gioco è
+notevolmente più scorrevole. Ad esempio, un giocatore desidera che il suo
+personaggio, il Capitano Wallop della Pattuglia Spaziale, riesca a passare
+in mezzo a due asteroidi senza schiantarsi con la sua navicella spaziale.
+Il Master dichiara che il livello di difficoltà da applicare su un tiro di
+Pilotaggio è Ottimo, e chiede al giocatore di tirare i dadi. Il giocatore
+osserva le statistiche di Capitan Wallop e nota che la sua Abilità di
+Pilota è definita come Ottimo, e tira un risultato di +2. Il giocatore
+quindi annuncia: "Ottimo, +2" come risultato. Questa risposta è sufficiente
+ai fini del gioco: il Master non solo sa che Capitan Wallop è riuscito nel
+suo intento, ma sa anche che la sua nave non ha nemmeno sfiorato uno dei
+due asteroidi. In casi come questi, non c'è bisogno di ricavare il livello
+esatto di Ottimo +2, e solo se il risultato finale fosse stato vicino al
+Livello di Difficoltà sarebbe stato necessario determinare in maniera
+esatta il risultato finale.
+
+Ovviamente, ci sono delle volte dove si vuole sapere quanto è stato bravo
+un personaggio, anche se non si è nemmeno avvicinato al livello di
+difficoltà richiesto dalle circostanze. Se il personaggio sta scrivendo un
+poema, e la sua Abilità come Poeta è Discreta, allora il giocatore che
+controlla quel personaggio vorrà sapere che cosa significa, tanto per fare
+un esempio, "Discreto +2": questo risultato significa che il personaggio ha
+scritto un Ottimo poema! Vi sono inoltre molti altri casi dove la
+conoscenza del Grado di Riuscita è più importante del conoscere se l'azione
+è riuscita o meno.
+
+### Altre tecniche di lancio del dado
+
+Per quelli a cui non piace la tecnica di lancio del dado presentata, ecco
+altre due tecniche che, sebbene diverse, non alterano la distribuzione di
+probabilità determinata dalla tecnica precedente.
+
+Si tirino 2d6 e, come sopra, si designi un dado come positivo e l'altro
+come negativo. Si faccia poi la somma algebrica dei due dadi. Si ottiene un
+risultato compreso tra +5 e -5. Nel caso si ottenga +5 o -5, come in
+precedenza si considerino questi risultati come 0.
+
+Si tirino 2d6, si sommino i risultati e si sottragga 7 dal risultato
+finale. Anche in questo caso si ottiene un risultato compreso tra +5 e -5.
+Nel caso si ottenga +5 o -5, come in precedenza si considerino questi
+risultati come 0. Il vantaggio di questo sistema è che non occorre
+designare il "segno" dei dadi.
+
+### Probabilità di successo.
+
+Questa tabella fornisce le probabilità di successo corrispondenti a
+qualunque livello di Abilità cosicchè i giocatori possano valutare meglio
+le loro possibilità reali.
+
+|||
+|-|-|
+|+4 o meglio |      6%    |
+|+3 o meglio |      14%   |
+|+2 o meglio |      25%   |
+|+1 o meglio |      39%   |
+|0 o meglio  |      61%   |
+|-1 o meglio |      75%   |
+|-2 o meglio |      86%   |
+|-3 o meglio |      94%   |
+|-4 o meglio |      100%  |
+
+
+Così, se il livello del Tratto Caratteriale in esame è Discreto, e il
+Master richiede un risultato di Buono o meglio, occorrerà un risultato di
++1 per fare bene. Dalla tabella si ricava che le probabilità di ottenere +1
+sono quasi due su cinque.
+
+## Modificatori dell'azione
+
+Ogni Azione può richiedere dei modificatori, che influiscono sulle
+probabilità di riuscita dell'azione stessa.
+
+Un modificatore di -1 indica che il livello del Tratto Caratteriale è
+ridotto di -1 per quanto riguarda l'azione specifica. Questa modifica non è
+da considerarsi permanente. Allo stesso modo, vi possono essere anche dei
+modificatori positivi.
+
+Ad esempio, Joe (Spadaccino a Buono) è Ferito (-1 in tutte le azioni). A
+causa di questo, il suo livello di Abilità con la spada ora è solamente
+Discreto, finchè non si è ripreso dalle ferite subite.
+
+Jill, che normalmente ha una Abilità di Scassinatrice pari a Discreto, può
+godere di un modificatore di +1 se si trova ad usare un set di
+passepartouts eccezionalmente buoni, cosicchè il suo livello temporaneo di
+Abilità è Buono.
+
+Se un personaggio ha un Tratto Caratteriale secondario che può essere
+importante nella riuscita di una azione, il Master può concedere un bonus
+di +1 se il Tratto Caratteriale in questione è a livello Buono o superiore.
+
+Esempio: Verne è in libreria, e sta facendo delle ricerche su un oscuro
+rituale degli Indios sudamericani. Egli usa la sua Abilità di Ricerca
+(Buono) ma ha anche l'abilità di Antropologia a Buono. Il Master decide che
+questo è sufficiente per concedere a Verne un bonus di +1 nella sua ricerca
+per quanto riguarda questo caso particolare. Se Verne avesse avuto
+Antropologia a Superbo, il Master avrebbe potuto semplicemente concedere a
+Verne di usare quella Abilità invece che Ricerca. Di solito, non si arriva
+ad essere dei luminari in Antropologia senza aver fatto un mucchio di
+ricerca nel settore!
+
+Altre condizioni possono portare un modificatore di +/-1 per un determinato
+Tratto Caratteriale. +/-2 è considerato un grosso modificatore, in Fudge, e
++/-3 dovrebbe essere concesso solo in casi realmente estremi.
+
+## Azioni Semplici
+
+Per ogni Azione Semplice, il Master determina il livello di difficoltà di
+questa (Discreto nella maggioranza dei casi) e annuncia quale Tratto
+Caratteriale del giocatore deve essere messo alla prova.
+
+Se non esiste nessuna Abilità inerente all'azione da compiere, allora
+occorre tenere conto di un Attributo.
+
+Se esiste l'abilità in questione, ma il personaggio non la possiede, ovvero
+non è stato addestrato in quella specifica Abilità, si usi allora il valore
+base di quest'ultima, generalmente Scarso.
+
+Se un Attributo con un valore alto potrebbe, in quella determinata Azione,
+essere di aiuto nel caso che il giocatore debba usare una Abilità per la
+quale non è stato addestrato, allora il valore base da Scarso passa a
+Mediocre. Ad esempio, un personaggio desidera imboscarsi alcune monete
+sennza essere visto. Il Master decide che, in questo caso l'abilità Mano
+Lesta dovrebbe essere usata, ma il personaggio non ha questa Abilità. Il
+giocatore fa però notare che la Destrezza del personaggio in questione ha
+valore Superbo, così il Master concede che il personaggio possa tentare
+l'azione con un livello pari a Mediocre.
+
+Il giocatore successivamente tira contro il livello di definizione del
+Tratto Caratteriale preso in esame, e cerca di eguagliare o sorpassare la
+Difficoltà dell'Azione definita dal Master. Nel caso vi siano possibilità
+di successo, migliore è il tiro, meglio ha fatto il personaggio. Allo
+stesso modo, peggiore è il tiro, peggio ha fatto il personaggio.
+
+Nell'impostare la Difficoltà di una Azione, il Master dovrebbe ricordare
+che Scarso è il livello base per la maggior parte delle Abilità. lo
+scalatore allenato medio può scalare una parete Discreta la maggior parte
+delle volte, ma lo scalatore non allenato il più delle volte otterrà un
+risultato scarso, se non peggio. Nell'esempio 4.2, ovvero la gara di tiro
+con l'arco, se il bersaglio fosse stato grande e vicino, anche un tiratore
+Mediocre avrebbe potuto fare centro (Difficoltà Mediocre). Se invece il
+bersaglio fosse stato molto più piccolo e lontano, allora la difficoltà
+sarebbe stata posta ad Ottimo, dal momento che solo un Ottimo arciere
+avrebbe avuto qualche possibilità di fare centro.
+
+Ecco un esempio di impostzione del livello di Difficoltà: due personaggi
+(Mickey e Arnold) e una guida Personaggio Non Giocante (Parri) arrivano
+ai piedi di una parete che devono per forza scalare. il Master annuncia
+che la parete è difficile ma non impossibile, e pone il livello di
+Difficoltà a Buono. Parri a Ottimo nell'abilità di Scalatore, e Mickey è
+Buono. Arnold non ha Scalatore, così il suo livello di Abilità è quello
+base: Scarso.
+
+Parri e Mickey decidono di salire, e di lanciare una corda ad Arnold che
+intanto attende.
+
+Parri ottiene +1 nel tiro, il che equivale a Superbo: egli scala la
+parete senza troppe difficoltà e velocemente. Mickey ottiene -1, il che
+equivale a Discreto. Dal momento che questo livello è inferiore al
+livello di difficoltà dell'Azione, allora questo risultato è indice di
+problemi per Mickey. Se egli avesse ottenuto un risultato di Mediocre o
+Scarso le cose si sarebbero messe davvero male per lui. Egli forse
+sarebbe caduto o non sarebbe neanche riuscito ad iniziare la scalata. Dal
+momento che ha tirato un -1, tuttavia, il Master decide che è
+semplicemente rimasto incastrato con le corde a metà strada, e non riesce
+ad andare avanti. Parri lega una corda ad un albero trovato sulla cima, e
+la butta a Mickey. Il Master decide ora che il livello di difficoltà
+dell'azione è Scarso, e Mickey questa volta riesce a scalare agevolmente
+la parete.
+
+Anche Arnold avrebbe avuto bisogno di ottenere Scarso per scalare la
+parete in questo modo, ma dal momento che la sua Abilità di Scalatore è a
+Scarso, decide di non rischiare e di attendere che Parri e Arnold gli
+leghino una corda e lo tirino su. Nessun tiro di dado è richiesto in
+questo caso, a meno che i personaggi non vengano attaccati quando Arnold
+si trova a metà strada della scalata...
+
+Occasionalmente, il Master dovrà tirare i dadi in segreto, dal momento che
+anche un tiro fallito darebbe al giocatore una conoscenza riguardante un
+dato punto del gioco che altrimenti non avrebbe. Ad esempio, se il Master
+chiede al giocatore di fare un tiro contro l'Attributo Percezione (o
+l'Abilità Trovare Oggetti Nascosti), e il giocatore fallisce, il giocatore
+non nota niente fuori dall'ordinario. Ma il giocatore in questo caso sa che
+vi è qualcosa fuori dall'ordinario nella stanza che il suo personaggio non
+ha visto o percepito...E' meglio che il Master esegua questi tiri di dado
+in segreto, e ne faccia menzione solo in caso di un risultato positivo.
+
+## Confronti
+
+Per risolvere un Confronto tra due personaggi, ogni parte tira i dadi
+contro il Tratto Caratteriale più appropriato e annuncia i risultati. I
+Tratti Caratteriali contro i quali si tira i dadi non devono
+necessariamente essere gli stessi per ambo le parti: ad esempio, un
+tentativo di seduzione da parte di una fascinosa spia nei confronti di un
+personaggio si risolverebbe prendendo l'Abilità di Seduzione per la parte
+attiva, e l'Attributo di Volontà per la parte passiva. Anche qui possono
+intervenire dei modificatori: un personaggio con un Voto di Castità o
+Misogino potrebbe ricevere dei bonus al tiro per rsistere all'azione
+seduttiva, mentre qualcuno con lo svantaggio di Cascamorto potrebbe
+ricevere delle penalità - o non potrebbe neanche tentare di resistere!
+
+Il Master successivamente compara il Grado di Riuscita di ogni azione per
+determinare il Grado di Confronto generale. Ad esempio, se Lisa cerca di
+ingannare Joe facendogli credere che è dell'FBI, e ottiene un risultato
+Ottimo al tiro, questo non significa che il suo tentativo sia
+automaticamente riuscito. Se Joe tira e ottiene anch'egli Ottimo, facendo
+leva su un suo Tratto Caratteriale (Conoscenza delle Procedure della
+Polizia, Intelligenza, ecc.) allora il Grado di Confronto è 0, e lo status
+quo è mantenuto. In questo caso, Joe non è convinto che Lisa stia dicendo
+la verità. Se Joe avesse ottenuto un risultato Superbo, allora il Grado di
+Confronto sarebbe stato di -1: in questo caso Joe non sarebbe stato
+ingannato e anzi avrebbe potuto reagire in maniera aggressiva alla cosa.
+
+Il meccanismo del Confronto può essere usato per risolvere quasi ogni tipo
+di conflitto tra due personaggi. Se due persone si stanno litigando un
+oggetto ed entrambe lo hanno afferrato, questo è un Confronto basato su un
+qualche tipo di Destrezza - chi vince si becca l'oggetto. Se, durante una
+fase di lotta, un personaggio sta tentando di mettere a terra l'altro,
+questo è un Confronto basato su Forza contro Forza (oppure con una qualche
+Abilità tipo Lottare). Qualcuno si vuole nascondere in modo da non essere
+trovato da una squadra di ricerca? il Confronto avverrà allora tra
+Percezione (o Trovare Oggetti Nascosti) contro Nascondersi (o Destrezza).
+Peppone vuole cercare di vincere la gara a bicchierini di Vodka contro il
+generale dell'Armata Rossa per proteggere Don Camillo? In questo caso il
+Confronto si ha tra Costituzione e Costituzione. Questi sono solo alcuni
+esempi di Confronti e di come possono essere gestiti.
+
+Alcuni Confronti richiedono un livello minimo oltre il quale il Confronto
+può avere una possibilità di successo. Ad esempio, tentare di controllare
+la mente di un Personaggio Non Giocante usando Telepatia potrebbe
+richiedere che il personaggio telepate ottenga come minimo un risultato di
+Discreto. Se il telepate ottiene Mediocre, non importa se la vittima
+ottiene Scarso nel tiro per resistere: il tentativo di controllare la mente
+è da considerarsi fallito. La maggior parte dei Confronti di Combattimento
+ricade in questa categoria - si veda la sezione successiva a riguardo.
+
+Come esempio di Confronto dove sono implicati più di due personaggi, si
+veda la sezione 4.64, Combattere con più di un avversario.
+
+Una alternativa semplice per risolvere i Confronti è questa: il Master tira
+1d6 pr un Personaggio Non Giocante. Se il risultato è compreso tra 2 e 5 il
+Personaggio Non Giocante è riuscito a fare un tiro equivalente al livello
+del suo Tratto Caratteriale di riferimento per l'azione. Se il risultato è
+1 il Personaggio Non Giocante ha fatto peggio e se il risultato è 6 il
+Personaggio Non Giocante ha fatto meglio. (Quanto meglio o peggio sta al
+Master deciderlo: se si desidera tirare i dadi, allora si può usare questo
+metodo: : 1,2,3=+/-1; 4,5=+/-2; 6=+/-3). Questo metodo presume che il
+Personaggio Non Giocante di solito otterrà risultati pari al suo livello di
+Tratto Caratteriale. Anche se questo metodo non è propriamente accurato,
+evidenzia le eventuali prestazioni dei Personaggi Giocanti e riduce le
+possibilità che sia un tiro fortunato di un oscuro Personaggio Non Giocante
+a decidere le sorti della partita.
+
+## Combattimento
+
+Il Combattimento è un Confronto in Fudge, a meno che uno dei partecipanti
+non si accorga dell'attacco portato nei suoi confronti o decida di ignorare
+questo attacco. Il Master può gestire il Combattimento in maniera molto
+libera e veloce, usando il Sistema di Combattimento Soggettivo o in maniera
+più realistica ed elaborata, usando il Sistema di Combattimento Obiettivo.
+
+I Combattimenti a Corpo a Corpo avvengono in rounds simultanei: di solito
+ogni combattente tenta di sconfiggere l'altro nello stesso tempo in cui
+l'altro tenta di fare la stessa cosa. I Combattimenti a raggio (con armi
+tipo archi, frecce, lance, balestre, pistole, fucili, cannoni ad onde
+moventi) possono essere gestiti come Confronti. Alternativamente, il Master
+può determinare la famigerata Iniziativa (usando un dado modificato da un
+Attributo Iniziativa) e fare in modo che i combattenti si sparino addosso
+ognuno nel loro segmento di tempo. Si veda, in questo caso, la sezione
+###, Combattimento a raggio.
+
+### Sistema di Combattimento Soggettivo
+
+In Fudge, il Combattimento può essere gestito in maniera molto soggettiva.
+Il Master dovrebbe descrivere la situazione nella maniera più dettagliata
+possibile, e chiedere ai giocatori quali sono le intenzioni dei loro
+personaggi. Ogni giocatore dovrebbe descrivere, anch'egli in maniera molto
+accurata, che cosa intente far fare al proprio personaggio. Migliore è la
+descrizione, migliore sarà l'idea che si farà il Master della situazione
+generale. Questo può essere molto importante se il Master ha qualcosa di
+nascosto che non può essere rivelato se non nel bel mezzo della battaglia!
+
+Una volta che il Master ha deciso quali Tratti Caratteriali sono in gioco,
+assegna ai loro valori un modificatore che può variare da -3 a +3, a
+seconda delle situazioni. Zero dovrebbe essere il modificatore più comune.
+La valutazione del modificatore da assegnare si basa soprattutto sulla
+valutazione di un eventuale piano dei Personaggi Giocanti, sulla loro
+conoscenza dei piani dei Personaggi Non Giocanti, e parzialmente su altri
+modificatori di situazione: fatica, luce, condizione fisica del nemico,
+posizione, effetto sorpresa, e così via...
+
+I giocatori devono poi tirare tre volte contro un Tratto Caratteriale
+appropriato per il contesto, e fare la media dei risultati, approssimando
+all'intero più vicino. Ad esempio, un personaggio ha una Abilità di
+Combattimento pari a Buono. Tirando egli ottiene +2, -1 e +1. Facendo la
+media si ottiene 0.66, che viene arrotondato a 1. In questo caso il
+Personaggio ha ottenuto un risultato pari a Ottimo (Buono +1). Questo
+risultato indica come il Personaggio Giocante si è comportato durante il
+Combattimento, o almeno durante la sua fase iniziale.
+
+Il Master può dividere la fase di Combattimento in diversi segmenti, oppure
+considerare l'intera fase come compresa in un segmento unico. Questo
+dipende in massima parte dallo stile del Master, dall'importanza della
+battaglia, dal numero dei partecipanti, e da molti altri fattori. Ogni
+segmento dovrebbe coincidere con un particolare momento della fase di
+Combattimento. Ad esempio, i Personaggi potrebbero trovarsi davanti al
+portone del castello difeso da una guarnigione di guardie, mentre
+all'interno del maniero il capo dei cattivi (sic) è lì lì per attivare la
+Macchina Infernale (sic!). In questo caso, l'intera situazione potrebbe
+essere suddivisa in due segmenti: il combattimento con le guardie e lo
+scontro finale col capo dei cattivi. Qualunque sia il numero dei segmenti,
+è molto meglio, ai fini del gioco, descrivere la situazione della battaglia
+nella maniera più completa possibile, senza limitarsi alle crude
+statistiche.
+
+Esempio: Gunner, separato dagli altri Personaggi, scopre cinque membri di
+una banda rivale in un garage. Il giocatore annuncia che Gunner entrerà
+urlando cercando di spaventare i cinque nemici con la sua mitragliatrice -
+essi non sanno che è inceppata. La sua speranza è che essi scappino via
+impauriti, o che si buttino a terra o che rimangano bloccati dalla paura.
+Successivamente egli userà la sua mitragliatrice come un bastone, iniziando
+dal lato sinistro della fila dei nemici. La sua intenzione è anche quella
+di farsi scudo del gangster col quale si trova impegnato al momento facendo
+in modo che quest'ultimo si trovi come posizione tra lui e il resto della
+banda. In questo modo spera di riuscire a massacrarli tutti di botte.
+
+Il Master fa un tiro di situazione per valutare la reazione del gruppo:
+Mediocre. Essi non si rendono conto abbastanza velocemente di quello che
+sta succedendo, così Gunner riceve un bonus di +1 nella sua Abilità di
+Rissa portando da Buono a Ottimo il suo valore di Abilità per questa fase.
+Il Master decide anche che uno dei gangsters scapperà, e che i rimanenti
+quattro non estrarranno le loro armi finchè Gunner non inizierà a picchiare
+sonoramente. Gunner ha anche un valore di Corsa pari a Ottimo, e questo gli
+da un ulteriore bonus di +1, dal momento che egli è in grado di correre
+velocemente e quindi di coprire una distanza notevole in breve tempo. In
+totale Gunner ha un bonus di +2 per questa azione, e in questo modo il
+livello di Rissa viene portato a Superbo per questo combattimento.
+
+Gunner tira, e ottiene 0, -3 e 1, per un totale di -2. La media dà -0.66,
+arrotondato a -1, che equivale ad un risultato di Ottimo. il Master decide
+che con questo risultato due dei cinque gangster sono stati atterrati, e
+descrive la scena con dovizia di dettagli. Dal momento che un gangster è
+fuggito, ora Gunner deve fronteggiare i rimanenti due, che hanno estratto
+le loro pistole e potrebbero crivellarlo di colpi prima che egli possa
+colpirli con la mitragliatrice. A questo punto il Master chiede: "E ora che
+cosa fa Gunner?"
+
+Il giocatore, pensando velocemente, decide che Gunner cercherà di colpire
+in faccia un gangster con la mitragliatrice, e tenterà di colpire il
+secondo con un calcio basso, sperando anche di evitare le pallottole. Il
+Master richiede a questo punto un tiro contro Lanciare per vedere se
+l'azione di colpire il primo gangster riesce: Gunner tira e ottiene
+Discreto, abbastanza per colpire il gangster ma non abbastanza per metterlo
+fuori combattimento. Il livello di Acrobatica per quanto riguarda Gunner è
+solamente Discreto, ma dal momento che egli vuole combattere dopo la
+schivata, il Master concede al giocatore di usare l'Abilità Rissa (Buono)
+per l'azione combinata di schivare e calciare. Il Master richiede quindi
+tre tiri per vedere se l'azione di Gunner riesce. I risultati sono +2, 0,
++1, che equivalgono ad una media di 1: un risultato Ottimo. Gunner riesce
+quindi a schivare e a colpire col calcio, mettendo a terra l'avversario, i
+cui colpi sono tutti andati a vuoto.
+
+A questo punto, la fortuna di Gunner finisce: il Master dichiara che uno
+dei gangster colpiti dal calcio della mitragliatrice si rialza, e punta la
+pistola alla testa di Gunner mentre sta massacrando di botte un altro
+avversario. Saggiamente, Gunner decide di arrendersi, sperando nell'arrivo
+e nel soccorso dei suoi compagni...
+
+### Sistema di Combattimento Obiettivo - Arma Bianca
+
+Il Sistema di Combattimento Obiettivo consiste in un serie di Confronti,
+con ognuno di essi che si svolge in un singolo "round". In Fudge, un Round
+equivale ad un quanto di tempo determinato a piacere dal Master - per
+alcuni 3 secondi possono essere la quantità giusta, per altri possono
+rappresentare una scala molto grezza di misurazione dei turni di
+combattimento e per altri ancora possono essere un tempo troppo breve per
+un singolo turno di combattimento. Un Round di Combattimento combina le
+azioni di Offesa e Difesa in un singolo Confronto, dove ogni partecipante
+tira i propri dadi, e alla fine compara i risultati con la controparte. In
+un Round di Combattimento ci può essere un vincitore netto, così come si
+può risolvere in un nulla di fatto tra le due parti. (si veda la sezione
+successiva per un sistema di combattimento nel quale entrambe le parti
+possono essere colpite nello stesso Round. )
+
+Con Arma Bianca si indica qualsiasi Combattimento nel quale ogni opponente
+può colpire l'avversario senza lasciare la propria arma impugnata.
+
+Il Master determina quali Tratti Caratteriali devono essere usati dai
+Personaggi. Questo dipende in massima parte se stanno usando o meno
+un'arma, e se sì, quale tipo di arma stanno usando. Ogni combattente tira i
+dadi per un Confronto, come visto sopra. Un Grado di Confronto di zero
+indica che il Round di Combattimento si è concluso con un nulla di fatto -
+o i combattenti si sono studiati senza attaccarsi oppure i loro colpi hanno
+colpito entrambi lo scudo, e così via. In ogni caso, nessuno è stato
+colpito.
+
+L'arma usata (può essere anche un semplice pugno) determina anche il Tratto
+Caratteriale usato da un combattente, ma non influisce sul Confronto a meno
+che un Personaggio non abbia un'arma molto più grande dell'altra. In questo
+caso si vedano gli appositi modificatori, più sotto. Il tipo di arma
+determina anche l'ammontare del danno - si veda la sezione 4.7, Ferite e
+Guarigioni.
+
+Un risultato minimo di Scarso è richiesto per colpire un avversario di
+taglia più o meno simile. Ovvero, un Personaggio umano deve fare un tiro,
+ottenere Scarso o meglio e vincere anche il Confronto per colpire un altro
+umano. Se entrambi i contendenti ottengono meno di Scarso, il risultato è
+un nulla di fatto. Se un combattente è molto più grande del suo avversario,
+allora deve fare Mediocre o meglio per avere una possibilità di colpire.
+Nel caso che l'avversario sia estremamente minuscolo, allora il livello
+richiesto potrebbe crescere a Discreto, Buono o addirittura a Ottimo nel
+caso di un personaggio tipo Wendy di Peter Pan.
+
+Se il Grado di Confronto è diverso da zero, e il livello minimo per colpire
+è stato sorpassato, allora il vincitore controlla per vedere se ha colpito
+abbastanza duramente da poter danneggiare il nemico. In generale, migliore
+è il colpo (ovvero più alto è il Grado di Confronto) e più alta è la
+probabilità di infliggere danni.
+
+Molte volte, un Combattimento durerà più di un Round. I personaggi non sono
+limitati al Combattimento propriamente detto - essi possono, in quel Round,
+tentare di scappare, negoziare, schivare in maniera acrobatica, oppure
+tentare qualsiasi cosa ritenuta utile ai fini del combattimento. Se un
+combattente è impossibilitato a combattere, vuoi perchè non ha individuato
+l'attaccante, vuoi perchè ha subito un colpo critico (vedi sezione 4.8 -
+Risultati Critici), il Combattimento può costituire una Azione Semplice per
+la parte attiva, e di solito definita con una Difficoltà pari a Scarso. Se
+un personaggio può difendersi in qualche modo, come usare lo scudo, allora
+l'azione viene ancora considerata come un Confronto, ma chi difende non può
+colpire l'avversario nemmeno nel caso che vinca il Round di Combattimento.
+
+Alcune situazioni richiedono che il livello del Tratto Caratteriale di una
+delle parti in causa venga modificato. Ecco alcuni esempi:
+
+Un combattente che è Ferito ha una penalità di -1, e se è Ferito Grave la
+penalità sale a -2.
+
+Se un combattente ha un vantaggio di posizione vi è una penalità per il
+Personaggio che si trova nella posizione più svantaggiata (di solito -1).
+Come esempi si possono prendere la luce negli occhi, una posizione più
+bassa, combattere in ginocchio, etc.
+
+Per le armi bianche, si confrontino le dimensioni delle armi e degli
+scudi (Vedasi sezione 4.72, Sistema di Valutazione Danni Obiettivo). Se
+una delle armi di un combattente è +2 (o più) grande rispetto all'arma
+dell'avversario, il combattente con l'arma più grande ha un bonus di +1
+nella sua Abilità di combattimento. Ad esempio: un guerriero ha una spada
+a due mani che ha un +4 al danno. Il suo avversario ha uno scudo medio e
+un coltello: +1 per il danno, +1 per lo scudo, sommati danno +2. In
+questo caso, chi regge la spada a due mani ha un bonus di +1 nell'abilità
+appropriata, dal momento che i modificatori delle sue armi superano di +2
+quelli del coltello del suo avversario.
+
+Mirare ad una definita parte del corpo (come un occhio o una mano) non
+solo richiede un risultato minimo di Buono o Ottimo per colpire, ma
+comporta anche una penalità di -1 al livello del Tratto Caratteriale
+richiesto per l'azione. Se un risultato di Ottimo è richiesto, e chi
+colpisce ottiene un risultato di Buono ma vince lo stesso il Confronto,
+egli sì colpisce, ma non dove aveva mirato.
+
+Un guerriero può essere benedetto (+1 o meglio) o maledetto (-1 o
+peggio).
+
+Un attacco totale, di tipo berserk, comporta un bonus di +1 nel colpire.
+Tuttavia , se l'attaccante pareggia o perde il Confronto, l'altro
+combattente non solo vince, ma ottiene un +2 al danno. (Da applicarsi
+solo nel caso delle armi bianche)
+
+Una posizione di di difesa totale comporta un bonus di +2, ma in questo
+caso chi difende non può fare danno al proprio avversario a meno che
+questi non ottenga un risultato negativo critico.
+
+Come regola opzionale, una azione di Difesa Totale e un tiro riuscito su
+Percezione o Tattica possono comportare un bonus per quanto riguarda il
+Round successivo. In questo caso, il combattente si concede alcuni
+secondi di tempo per valutare la situazione e manovrare per sfruttare un
+eventuale vantaggio datogli dal terreno o dalle condizioni circostanti.
+Simili sottigliezze sono possibili e incoraggiate - resistere un Round in
+una posizione di Difesa Totale può permettere al difensore di tentare una
+manovra acrobatica durante il Round successivo senza rischiare di essere
+colpito, ad esempio.
+
+### Tattiche Offensive e Difensive.
+
+Questa regola opzionale aggiunge un poco di tattica al Combattimento,
+aumentando solo di poco la complessità generale. Questa opzione rimpiazza
+la Difesa Totale e l'Attacco Totale visti prima, e introduce il fatto che
+due combattenti possono essere feriti nello stesso Round di Combattimento.
+
+Prima di ogni Round, un combattente può scegliere di impostare la sua
+postura come offensiva o come difensiva. Tale posizione accrescerà il
+valore dell'abilitò di Combattimento associata di una certa quantità e solo
+in un aspetto del combattimento (difesa o attacco), e diminuirà allo stesso
+modo il valore dello stesso Tratto Caratteriale per quanto riguarda l'altro
+aspetto del Combattimento. Ci sono cinque posizioni di base:
+
+|||||
+|-|-|-|-|
+|+2 |  Attacco  |  -2  |   Difesa  |
+|+1 |  Attacco  |  -1  |   Difesa  |
+|0  |  Attacco  |   0  |   Difesa  |
+|-1 |  Attacco  |   +1 |   Difesa  |
+|-2 |  Attacco  |   +2 |   Difesa  |
+
+
+In ogni Round di Combattimento, un giocatore sceglie segretamente una
+posizione scegliendo un dado negativo posizionato a 1 o 2 (posizione
+difensiva) o un dado positivo posizionato a 1 o 2 (posizione offensiva)
+oppure entrambi i dadi (posizione normale). Entrambe le parti rivelano le
+loro scelte alla controparte scoprendo simultaneamente i dadi.
+
+Successivamente, ogni parte esegue un singolo Confronto. Il risultato è
+applicato sia alla difesa che all'attacco, e questo porterà a risultati
+diversi in attacco e difesa se una postura diversa da quella normale è
+stata scelta.
+
+Quindi, l'attacco di ogni combattente è compensato dalla difesa dell'altro.
+
+Ad esempio, un guerriero con una Buona Abilità di Spada sceglie di avere +1
+in attacco e -1 in difesa per un determinato Round di Combattimento. Il
+giocatore ottiene questo mostrando la faccia contrassegnata con 1 del dado
+positivo. Questa scelta significa che il suo attacco con la spada è a
+Ottimo, ma la sua difesa è a Discreto. Il suo avversario, un Ottimo
+spadaccino, sceglie la posizione normale - niente bonus nè penalità. Lo
+spadaccino tira e ottiene -1: un risultato Buono sia per l'attacco che per
+la difesa. Il guerriero ottiene 0: un risultato Ottimo per l'attacco ma
+Discreto per la Difesa.
+
+Il guerriero porta quindi a segno il suo attacco (Ottimo contro Buono), ma,
+dal momento che la sua guardia di attacco aveva lasciato scoperte le sue
+difese, anche lo spadaccino porta a segno un suo attacco! (Buono contro
+Discreto). Entrambe le parti sono state colpite, e controllano quanti danni
+hanno subito. Si veda la Sez. 4.72, Sistema di Determinazione Danni
+Obiettivo.
+
+### Combattere con più di un avversario.
+
+Metodo Realistico: Quando più avversari attaccano un singolo combattente,
+questi godono di un vantaggio dovuto alla posizione, come minimo. Per
+riflettere questa situazione, il combattente solitario ha il suo livello di
+attacco ridotto di -1 per ogni avversario oltre il primo. Il combattente
+solitario tira una volta sola, e il risultato che ottiene viene poi
+confrontato con ogni risultato ottenuto dai suoi avversari. Il combattente
+solitario deve fare meglio di tutti i suoi avversari per avere la
+possibilità di colpire uno solo di essi. Egli - nel caso colpisca - può
+infliggere la ferita a un avversario a scelta, ma riceve danni multipli se
+due o più nemici lo colpiscono.
+
+Metodo "Epico": In questo genere di avventure si trova spesso il
+Personaggio eroico che fronteggia orde di nemici infuriati. Detto questo,
+il Master può decidere di ridurre la penalità a -1 per ogni due nemici da
+fronteggiare, anzichè -1 per nemico. Oppure, il Master può assegnare ad
+ogni componente dell'Orda il livello di Scarso in Abilità di combattimento
+e Scarso per quanto riguarda la Resistenza ai Danni. E' anche possibile
+permettere al personaggio di esibirsi in colpi "a spazzata" che falciano
+più di un avversario. Ovviamente, questo riduce il danno inflitto ad un
+singolo avversario. Nel caso di colpi "a spazzata" il danno inflitto ad un
+singolo avversario viene ridotto di -1.
+
+Entrambi i metodi: il Master può permettere che, un Personaggio che pareggi
+con un avversario, ma che ottenga un punteggio di due livelli migliore di
+un altro avversario, colpisca quest'ultimo e non venga colpito dal primo.
+
+Esempio: Paco sta affrontando tre avversari, che hanno ottenuto un
+risultato di Ottimo, Buono e Mediocre. Paco ottiene un Ottimo
+risultato, e pareggia con il migliore dei tre. Il Master gli permette
+quindi di colpire l'avversario che ha ottenuto Mediocre (dal momento
+che il suo Grado di Confronto è di -3) e di non essere colpito
+dall'avversario che ha ottenuto Ottimo.
+
+Ovviamente, un guerriero ben corazzato che deve affrontare degli avversari
+deboli può scegliere di concentrarsi su di un singolo avversario e lasciare
+che gli altri tentino di trapassare la sua armatura, ovvero non difendersi
+per niente contro gli altri avversari. In questo caso, ogni avversario deve
+ottenere Mediocre o meno contro una Azione Semplice di difficoltà Mediocre
+per colpire il singolo combattente. (A differenza di quanto stabilito nella
+sezione 4.62, Sistema di Combattimento Obiettivo, che stabilisce che il
+livello per questo genere di azioni sia Scarso, e non Mediocre. Si è scelto
+di elevare il livello a Mediocre dal momento che i combattenti possono
+interferire tra di loro quando attaccano un singolo bersaglio. Questo modo
+di procedere è storicamente accurato. Si pensi ai Cavalieri che
+affrontavano orde di contadini in rivolta, ad esempio.)
+
+Vi è un limite al numero di avversari che possono attaccare un singolo
+individuo. Sei è il numero massimo in condizioni pressochè ideali (come i
+lupi che attaccano un singolo avversario armato di lancia), mentre solo tre
+o quattro possono attaccare in contemporanea se vengono usate armi o arti
+marziali. Se il combattente singolo si trova a bloccare l'entrata di una
+porta, solo uno o due avversari possono colpirlo.
+
+Quando molti Personaggi Non Giocanti circondano un Personaggio solitario,
+il Master può scegliere di tirare una volta per tutti i Personaggi Non
+giocanti piuttosto che tirare per ognuno di essi. il Personaggio solitario
+subisce sempre la penalità di -1 al tiro, ma il tiro del Master viene
+spostato di un grado verso lo zero. Ad esempio, se il Master ottiene un
+Grado di Confronto di +4, il risultato effettivo diventa di +3. Uno zero
+rimane e resta zero.
+
+Ad esempio, tre pirati Personaggi Non giocanti, completi con bende,
+tatuaggi, orecchini, cicatrici e pessimi caratteri, stanno attaccando il
+Tucker, un baldo Personaggio. I pirati (rispettivamente John, Mark e Paul)
+hanno rispettivamente Discreto, Buono e Mediocre nelle loro Abilità di
+Combattimento. Tucker è un Superbo Spadaccino, ma h una penalità di -2 dal
+momento che si trova a fronteggiare tre avversari. Ergo, la sua Abilità di
+Spadaccino è ridotta a Buono per questo combattimento. Il Master, per
+velocizzare le cose, vuole tirare una volta sola per i tre pirati, anzichè
+fare tre tiri separati.
+
+Nel primo round il Master ottiene +2, che diventa +1 (si avvicina allo
+zero) e i Pirati hanno ottenuto Buono, Ottimo e Discreto rispettivamente.
+Se Tucker ottiene Ottimo, uguagliando il miglior risultato dei pirati, il
+risultato è un nulla di fatto (nessuno viene ferito da ambo le parti, a
+meno che non si usi la regola opzionale vista nell'esempio con Paco).
+Tuttavia, se Tucker ottiene un risultato Superbo, egli può colpire un
+pirata a scelta rimanendo illeso. Se invece il povero Tucker ottiene un
+Discreto, sia John che Mark lo colpiscono. Questa procedura viene ripetuta
+ogni Round di Combattimento.
+
+In alternativa, il Master potrebbe usare il metodo di 1d6 visto nella
+sezione 4.5, Confronti.
+
+### Combattimento a Raggio - Sistema Obiettivo.
+
+Il Combattimento a Raggio può essere o meno un Confronto.
+
+Se il bersaglio non è a conoscenza dell'assalto, l'attaccante tira come se
+l'attacco fosse una Azione Semplice - il Master fissa la Difficoltà
+basandosi sulla distanza, sulla luce, sulla posizione, etc. Il Master non
+deve modificare direttamente il livello di Abilità d'attacco
+dell'attaccante, ma deve limitarsi ad impostare la Difficoltà. Solo l'uso
+di strumenti tipo mirini laser può modificare il livello di Abilità.
+
+Se chi difende si rende conto dell'attacco, l'azione viene gestita come un
+Confronto: l'Abilità dell'attaccante nell'uso di una determinata arma a
+raggio viene confrontata contro l'Abilità di difesa di chi difende (anche
+qui un livello di Difficoltà basato sulla luce, sulla posizione, etc. viene
+stabilito dal Master, e tale Difficoltà costituisce il tiro minimo per
+colpire). Il tiro di difesa dovrebbe essere effettuato utilizzando come
+Tratto Caratteriale l'Abilità Evitare, oppure l'Attributo Agilità, o
+qualcosa di simile.
+
+Se l'arma a raggio viene lanciata, non vengono applicati modificatori al
+tiro difensivo. Tuttavia, un'arma dotata di un qualche tipo di propulsione,
+tipo arco e freccia, pistole, laser, è molto più difficile da evitare e dà
+luogo ad un modificatore negativo di -2 o -3.
+
+Ovviamente, il difensore può rinunciare ad evitare, ma attaccare a sua
+volta. In questo caso l'azione viene considerata Semplice, e determinare il
+livello di Difficoltà è quanto viene richiesto per colpire. Il Master può
+fare in modo che queste azioni siano simultanee.
+
+Esempio: Nevada Slim e El Paso Hombre si stanno affrontando in un
+duello. Entrambi sono all'aperto, in piena luce del sole e non vi sono
+ripari, quindi non vi sono Difficoltà dovute alla luce o alla
+posizione. Il raggio di Combattimento è uguale per entrambi - il Master
+determina che per colpire occorre un risultato di Discreto o meglio.
+Slim ottiene Scarso, e Hombre ottiene Mediocre. la pallottola di
+quest'ultimo è passata più vicino al bersaglio di quella del rivale, ma
+entrambi hanno mancato il bersaglio dal momento che nessuno ha fatto
+uguale o meglio del livello di Difficoltà richiesto.
+
+Altro esempio: Guglielmo lo Scarlatto lancia una freccia con un arco
+lungo a Riccardo, l'uomo dello Sceriffo, che ha una balestra. Riccardo
+sa che Guglielmo è in zona, perchè l'uomo vicino a lui è stato appena
+colpito da una freccia. Riccardo è in piena luce e all'aperto, così il
+solo aspetto di cui Guglielmo si deve preoccupare è la distanza di
+tiro. Il Master stabilisce che un tiro Mediocre è sufficiente per
+colpire, data la breve distanza. Dal punto di vista di Riccardo, vi è
+il fatto che Guglielmo è parzialmente nascosto dietro una capanna e
+nascosto da dei cespugli, così che anche alla luce è difficile vederlo.
+Per questo, il Master stabilisce che Riccardo deve fare Buono o meglio
+per colpire. Entrambi tirano. Riccardo ottiene Discreto, e manca.
+Guglielmo ottiene Mediocre, e colpisce anche se il suo tiro è stato
+oggettivamente peggiore di quello di Riccardo.
+
+In entrambi gli esempi, i difensori hanno scelto di non difendersi e di
+attaccare a loro volta. Ogni combattente, semplicemente deve ottenere un
+livello pari o superiore alla Difficoltà richiesta. Con queste condizioni
+di base, è possibile che entrambi i contendenti riescano a colpirsi a
+vicenda. Se il tiro di Riccardo avesse avuto successo, ogni parte avrebbe
+colpito l'altra.
+
+Le pistole e tutte le armi che non si basano sulla forza fisica dovrebbero
+essere classificate in base al danno che fanno all'inizio di ogni campagna.
+Nessuna lista viene qui fornita, ma come linea generale si consideri che
+una pistola media ha un bonus di +2/+3, mentre una derringer potrebbe dare
+un bonus di +1 se non 0. Armi a due mani molto potenti (mitra e similari)
+potrebbero dare un +5, mentre i bazookas e le armi anticarro addirittura
++10. Le armi laser della fantascienza potrebbero infliggere lo stesso
+ammontare di danni, oppure potrebbero essere progettate per catturare le
+persone senza far loro del male.
+
+## Danni e Guarigione
+
+Due sistemi di computo dei danni sono presentati ad uso dei Master: il
+Sistema di Valutazione Danni Soggettivo e il Sistema di Valutazione Danni
+Obiettivo. il Sistema di Valutazione Danni Soggettivo è più semplice da
+imparare e da usare, ma è meno definito dell'altro .
+
+In ogni sistema, il danno che un personaggio può subire viene descritto da
+sei gradi di gravità, che sono i seguenti:
+
+Ferita di striscio: nessun effetto sul Personaggio, eccetto quello di
+creargli tensione. Nel Sistema di Valutazione Danni Obiettivo, un grado
+di Ferita Da Striscio seguito da una successiva ferita, può portare il
+personaggio a trovarsi nello stato di Ferito. (questo effetto è
+opzionale nel Sistema di Valutazione Danni Soggettivo).
+
+Ferito: Il Personaggio ha subito abbastanza danni da rallentarlo un poco
+nelle sue azioni: -1 a tutti i suoi Tratti Caratteriali che verrebbero
+logicamente influenzati da una ferita.
+
+Ferito Grave: il Personaggio è ferito gravemente, e ciò causa una penalità
+di -2 in tutti quei Tratti Caratteriali che possono venire influenzati
+da eventuali ferite.
+
+Incapacitato: Il Personaggio è ferito in maniera talmente grave che è
+incapace di fare alcunchè, se si eccettua il trascinarsi per pochi
+metri o il pronunciare rantolando un messaggio importante. Si faccia
+tirare al Personaggio in questione un tiro su un qualche Tratto
+Caratteriale di Costituzione con Difficoltà Discreta per fare in modo
+che questo resti cosciente. Un Master mooolto indulgente potrebbe
+concedere ad un personaggio Incapacitato di compiere azioni elaborate
+del tipo aprire una porta o rubare una gemma....
+
+Vicino alla Morte: il Personaggio non solo non è cosciente, ma morirà in
+meno di un'ora - se non meno - a meno di aiuto medico immediato.
+Nessuno recupera da una condizione di Vicino alla Morte con le proprie
+forze.
+
+Morto: Il Personaggio non ha più nessun motivo per usare le sue cose. Che
+possano servire agli altri personaggi... (Cinico, NdT!)
+
+Ovviamente, il Master può espandere questi gradi, aggiungendo altri livelli
+se vi è bisogno.
+
+Il Master può permettere un tiro su Volontà (o simile) con un livello di
+difficoltà alto per fare in modo che, con un grosso sforzo di volontà, il
+Personaggio riduca o azzeri le penalità ricevute nel caso egli sia Ferito,
+Ferito Grave o addirittura Incapacitato.
+
+Alcuni giocatori traggono piacere nel descrivere le ferite ricevute dai
+personaggi, e spesso le inseriscono nella loro storia personale.
+
+Morte Automatica: A volte non c'è bisogno di tirare il dado: infilare il
+coltello nella gola di un Personaggio indifeso è un buon esempio. Non vi è
+bisogno di tiro di dado per determinare il successo di una azione simile,
+ma il Karma del Master ne soffre.
+
+### Sistema di Valutazione Danni Soggettivo.
+
+Quando si usa il Sistema di Valutazione Danni Soggettivo il Master tiene in
+considerazione tutti i fattori sottostanti, e possibilmente li scrive da
+qualche parte, di modo da averli sempre sott'occhio in caso di valutazioni
+di situazione, e annuncia quanti danni ha subito la parte che difende,
+usando uno dei gradi di valutazione del danno descritti sopra.
+
+1) Il Grado di Confronto dell'attacco riuscito: migliore è questo, più
+alto è probabilmente il danno inflitto. Colpire con un Grado di
+Confronto di +1 significa che l'attaccante ha colpito quasi per
+caso, forse dove il difensore era meglio protetto. Colpire con un
+Grado di Confronto di +3 significa che quasi certamente è stato
+trovato un buco nell'armatura.
+
+2) L'Armatura del difensore: coloro che indossano un armatura tendono
+ad essere feriti in misura minore di chi non indossa armature.
+Queste possono essere definite con dovizia di particolari e
+abbondanza di livelli e sfumature, oppure essere classificate
+semplicemente come Leggere, Medie o Pesanti. Nelle campagne di
+fantascienza possono essere presenti armature ultraleggere che
+offrono fattori di protezione ultra-elevati. Le campagne di stile
+Fantasy spesso includono armature magiche che offrono una protezione
+ancora più grande, in special modo contro certi tipi di danno.
+
+3) La pericolosità dell'arma dell'attaccante: Le armi grandi tendono a
+causare più danni di quelle piccole; le armi affilate rompono i
+tessuti cutanei meglio di quelle poco affilate. Le persone esperte
+in Karate infliggono più danni di quelle poco esperte.
+
+4) La forza del colpo inflitto: Per le armi basate sulla forza umana,
+come le armi bianche, i pugni, l'arco e le freccie, questa è
+determinata dalla Forza dell'attaccante: le persone più forti
+tendono a infliggere danni più pesanti. Nel caso delle pistole, o
+delle armi laser, o similari, la forza del colpo è relativa alla
+natura dell'arma: un .38 di solito causa più danni di una .22.
+
+5) La quantità di danno fisico che una vittima può sopportare
+(Robustezza, Massa o Punti Ferita o similari): I Personaggi grossi,
+robusti e in salute sopportano meglio i danni fisici rispetto ai
+Personaggi magri e scheletrici, in generale. Le cose si possono
+ribaltare se il combattimento avviene tra un combattente grosso ma
+malato e un piccolo - ma sano come un pesce - sfidante.
+
+### Sistema di Valutazione Danni Obiettivo
+
+Questo sistema quantifica i danni subiti in misura più dettagliata rispetto
+all'altro, ed è abbastanza meccanico nella sua struttura. Il Danno nel suo
+insieme viene diviso in tre parti: il Danno Base, il Modificatore di
+Atttacco dell'attaccante e il Modificatore di Difesa del difensore. (Esiste
+un quarto modificatore opzionale, che verrà visto in seguito, detto Tiro
+Danni)
+
+In questo modo si ha :
+
+Danno Totale =  Danno Base + Modificatore di Attacco -
+Modificatore di Difesa dell'avversario  (+ Tiro Danni).
+
+Il Danno Base è il Grado di Confronto inflitto dall'attaccante al perdente.
+Ad esempio, se Lisa ottiene un Ottimo e Joe solo Discreto, Lisa ha colpito
+Joe per due punti di Danno Base.
+
+Il Modificatore di Attacco è basato su una serie di fattori, che includono
+la Forza, la Scala e l'arma usata. Per facilità d'uso, dovrebbe essere
+calcolato per ogni arma prima della creazione dei personaggi e dovrebbe
+essere aggiornato quando necessario. Il Modificatore di Attacco consiste
+nella somma di diversi contributi:
+|||
+|-|-|
+|Per le armi basate sulla forza umana                                                            |-1|
+|nel caso di nessuna arma, o di una Abilità di Arti Marziali a livello Mediocre o meno:          | 0|
+|Piccole armi (coltelli, mazzette, pugni di ferro, etc.)                                         | 0|
+|Arti Marziali a Buono o Discreto, nessuna arma.                                                 |+1|
+|Arti Marziali a Ottimo o Superbo, nessuna arma                                                  |+1|
+|Armi di dimensioni appena sotto la media   (machete, spada corta, mazze, sassi, etc.)           |+2|
+|Armi di dimensione media (la maggior parte delle spade, ascie, lance, mazze da baseball, archi, etc) |+3|
+|Armi grosse (polearm, spada a due mani, ascia da guerra, etc.)                                  |+1|
+|Se l'arma è molto affilata - da aggiungere ai bonus precedenti nel caso di armi da taglio (esempio: coltello +1, spada corta +2, spada normale +3, spada a due mani +4)                                                |+1| 
+
+
+
+Se si desiderano dei combattimenti meno mortali, si sottragga 1 da ogni
+tipo di arma eccetto il bonus dell'arma affilata. Si noti che questa
+modifica allungherà di molto i combattimenti.
+
+* Per la forza del Personaggio:
+
+|||
+|-|-|
+|+3  | Forza Superba |
+|+2  | Ottima |
+|+1  | Buona |
+|0   | Discreta |
+|-1  | Mediocre |
+|-2  | Scarsa |
+|-3  | Disastrosa |
+
+
+* Per la forza dell'Arma:
+
+si aggiungano i bonus relativi alla specifica arma (si veda la sezione
+**Combattimento a Raggio - Sistema Obiettivo** ).
+
+* Per la Scala dell'Attaccante:
+
+si aggiunga la scala dell'attaccante relativa alla forza (vedasi la
+sezione 4.75)
+
+**Nota:** la Scala di Forza dell'attaccante ha rilevanza solo nelle armi
+basate sulla forza fisica e per quelle armi da lancio scalate sulla
+dimensione dell'attaccante, come piccoli bazookas o pistole giganti. Un
+supereroe di Scala 10 che usa una pistola normale (Scala 0) non deve
+contare la sua scala nel computo dei danni.
+
+Esempio di Modificatore di Attacco: Jeb il Nano ha scala 1 (Sebbene
+piccolo è solido come la roccia...), Forza Ottima (+2) e usa un'ascia a
+una mano che infligge +3 di danno. Nella sua scheda Personaggio, Jeb
+avrebbe segnato un Modificatore di Attacco di +6.
+
+Il Modificatore di Difesa è basato sul'armatura e sulla Scala di Massa del
+Personaggio, e dovrebbe essere calcolato nella fase di creazione del
+personaggio e aggiornato quando si cambia l'armatura. Il Modificatore di
+Attacco è composto anch'esso da diversi contributi:
+
+- Per l'armatura:
+
+|||
+|-|-|
+|+1, +2      | Per un buono scudo (da aggiungere ad ogni altro modificatore di armatura)
+|+1          | Per le armature leggere e flessibili,non di metallo
+|+2          | Per le armature rigide non di metallo
+|+2          | Per le armature leggere di metallo
+|+3          | Per le armature mediamente pesanti di metallo
+|+4          | Per le armature pesanti di metallo
+|+5 o più    | Per le armature di tipo fantascientifico.
+
+Si noti che uno scudo +2 è molto grosso e ingombrante da trasportare.
+
+Si noti anche che una armatura magica può avere un ulteriore bonus di +1
+fino al massimo consentito dal Master.
+
+Per la Scala del difensore:
+
+Si aggiunga al Modificatore di Difesa la Scala del difensore. Se questo
+ha una massa diversa da Discreto e un Dono tipo Pelle Dura,bisogna
+tenerne conto.
+
+Esempio di Modificatore di Difesa: Jeb il Nano è di Scala +1, e indossa
+un'armatura pesante non di metallo. (+2), ha uno scudo regolare (+1).
+In questo caso il suo Modificatore di Difesa equivale a +3 senza scudo,
++4 con lo scudo.
+
+##### Tiro Danni Opzionale
+
+Sebbene il Tiro Danni sia opzionale, si raccomanda l'uso per una serie di
+buoni motivi. Il primo fra tutti è quello che permette anche a dei con un
+alto Modificatore di Attacco di fare dei semplici graffi all'avversario,
+cosa che il Sistema di Valutazione Danni Obiettivo non tiene in acconto.
+Inoltre, da la possibilità ai Personaggi mezze cartucce di fare del male ad
+un avversario grande e grosso. Certo, questa possibilità è remota, ma è
+meglio che niente.
+
+Prima di tutto si eseguano i calcoli visti in precedenza; il danno così
+calcolato viene detto Danno Calcolato. L'attaccante successivamente esegue
+un Tiro Situazionale non basato su alcun Tratto Caratteriale. Il risultato
+viene sommato al Danno Calcolato per produrre il Danno Finale. Un Danno
+Finale negativo equivale ad un Danno Finale di 0.
+
+Vi sono tre limitazioni al Tiro Danni:
+
+1. Se il Danno Calcolato è positivo allora il Tiro Danni non può
+eccedere il Danno Calcolato. Ad esempio, se il Danno Calcolato è 2,
+allora il Tiro Danni non deve eccedere 2.
+2. Se il Danno Calcolato è positivo, il Danno Finale non deve essere
+minore di uno.
+3. Se il Danno Calcolato è negativo o zero, il Danno Finale può raggiungere
+il valore di un punto grazie al Tiro Danni.
+
+Primo esempio: il Danno Calcolato è -2 ed è il risultato dell'Armatura
+e della Scala. E' necessario un Tiro Danni di +3 o +4 per infliggere
+una ferita di 1 punto di danni al difensore.
+
+Secondo esempio: Il Danno Calcolato è +2- Un Tiro Danni che vada da +2
+a +4 risulterebbe in un Danno Finale di 4 punti, dal momento che il
+Tiro Danni non deve superare il valore del Danno Calcolato. Un Tiro
+Danni di 1 risulterebbe in un Danno Finale di 3 punti, mentre un Tiro
+Danni di 0 risulterebbe in un Danno Finale di 2 punti. Nel caso che il
+Tiro Danni abbia un valore negativo, il Danno Finale non può scendere
+sotto il valore di 1.
+
+Ovviamente, se al Master sta a cuore la semplicità, può ignorare le
+limitazioni, e permettere al Tiro Danni di assumere qualunque valore i dadi
+indichino, ovvero da -4 a +4....
+
+##### Graffi
+
+Un modo semplice per rappresentare le ferite lievissime (i graffi) in
+Combattimento è quello di stabilire che ogni Danno Base di +1 può fare al
+massimo 1 punto di danno, più il valore della Scala. Ovviamente può anche
+fare 0 punti, a seconda del Modificatore di Difesa dell'avversario. Un
+graffio può ammontare al massimo a due punti più la Scala, se il Master lo
+desidera. Oppure la Scala potrebbe essere dimezzata in questo caso, il che
+significa che la mazzata di un gigante potrebbe sempre fare del male ad un
+normale umano, ma non al punto da renderlo Incapacitato ma, al limite, di
+renderlo solamente Ferito.
+
+##### Registrare le ferite
+
+Una volta che il Danno Finale è stato determinato, questo viene registrato
+nell'apposito spazio nella scheda del Personaggio. La scala Ferito Di
+Striscio... Incapacitato...Vicino alla Morte introdotta nella sezione 4.7,
+Danni e Guarigione, è usata in questi casi. Tuttavia, ogni punto danni non
+significa che il Personaggio ferito perde lo stesso numero di gradi di
+gravità. Invece, i diversi livelli di Resistenza ai Danni equivalgono al
+seguente ammontare di punti ferita:
+
+|||||||
+|-|-|-|-|-|-|
+|            |Striscio| Ferito    |Fer.Grave     | Incapacitato | Vicino alla Morte     |
+|Disastroso  |  1     |   1       |  1           |  1      |  2                         |
+|Scarso      |  2     |   1       |  1           |  2      |  2                         |
+|Mediocre    |  2     |   2       |  1           |  2      |  2                         |
+|Discreto    |  2     |   2       |  2           |  2      |  2                         |
+|Buono       |  3     |   2       |  2           |  3      |  2                         |
+|Ottimo      |  3     |   3       |  2           |  3      |  2                         |
+|Superbo     |  3     |   3       |  3           |  3      |  2                         |
+|Leggendario |  4     |   3       |  3           |  4      |  2                         |
+
+Le ferite sono cumulative. Cioè, i primi 2 punti ferita subiti da un
+Personaggio con Resistenza ai Danni Discreta, contano come Ferite di
+Striscio, e il successivo Punto Ferita aumenterà la gravità delle ferite a
+Ferito. Il quinto Punto Ferita farà scattare il livello Ferito Grave, e
+così via, fino all'11mo punto ferita, che costituirà la morte fisica del
+personaggio.
+
+Il giocatore deve scrivere in un foglio la progressione delle ferite che un
+Personaggio subisce, se si usa il Sistema di Valutazione Danni Obiettivo.
+
+La progressione delle ferite descritta sopra contribuisce nella creazione
+di campagne realistiche. Se si desidera un clima più epico, specialmente
+nel caso di scenari senza magie o cure fantascientifiche, si aggiunga un
+ulteriore punto Ferita nei livelli di Striscio e Ferito. Nel caso di una
+campagna di stile epico, si aggiungano 2 punti ferit nei livelli di
+Striscio e Ferito. Questo significa che le singole ferite, quando si
+accumulano, non degenerano così velocemente in Ferite e Ferite Gravi, che
+rallentano - se non bloccano - il personaggio.
+
+### Soglia del Danno
+
+La Soglia del Danno è il limite massimo di ferite che possono essere
+inflitte ad un singolo Personaggio con un singolo colpo. Questa è una
+regola opzionale, raccomandata per tutte quelle campagne e per tutti quegli
+scenari che prevedono un minimo di epica ed eroismo. La Soglia del Danno
+previene la morte accidentale del Personaggio, la quale, nella maggior
+parte delle campagne, non dovrebbe mai accadere a meno che il Personaggio
+non decida di sacrificarsi coscientemente o assuma comportamenti talmente
+stupidi tali da meritargli la morte. Il concetto di Soglia del Danno può
+essere implementato in diversi modi:
+
+Un metodo è quello di stabilire semplicemente che un Personaggio medio
+non può subire più di tre livelli di gravità di ferita in una botta sola
+durante una fase di combattimento ordinario. Ad esempio, un Personaggio
+non ancora ferito, potrebbe diventare Ferito di Striscio, Ferito o Ferito
+Grave, ma ogni punto extra oltre quei livelli sarebbe considerato perso.
+Un Personaggio Ferito potrebbe passare direttamente, come conseguenza di
+un violento attacco, da Ferito a Vicino alla Morte, ma non essere ucciso
+tutto d'un colpo.
+
+Il Master potrebbe calcolare la Soglia del Danno in base alla Resistenza
+ai Danni dei singoli Personaggi. Ad esempio, i Personaggi con una
+Resistenza ai Danni Ottima o Superba potrebbero subire al massimo due
+Livelli di Ferita alla volta. Allo stesso modo, Personaggi con una Scarsa
+o Disastrosa Resistenza ai Danni potrebbero subire quattro Livelli di
+Ferita alla volta.
+
+Un altro modo di gestire una Soglia del Danno è quello di introdurre la
+regola che un Personaggio non può essere ferito a livello Vicino alla
+Morte se non ha iniziato il Round di Combattimento con il Livello di
+Ferita già a Ferito Grave. Questo tipo di Soglia del Danno potrebbe
+trovarsi tra Incapacitato e Vicino alla Morte...Oppure potrebbe essere
+possibile definire due distinte Soglie del Danno, se così si desidera.
+Questo sistema è piuttosto semplice da gestire, ma non è per niente
+realistico. Comunque, anche il concetto di Soglia del Danno non è
+realistico: esiste solo per fare in modo che i Personaggi siano più
+eroici del normale.
+
+La regola della "Morte Automatica" vista nella sezione 4.7, Danni e
+Guarigione, ha la precedenza rispetto alla Soglia del Danno. Si noti che la
+"Morte Automatica" può essere definita dal Master di modo da includere cose
+tipo essere colpiti dalla mazza di un gigante, il che non entra di certo
+nella categoria "combattimento ordinario". Essere colpiti da una raffica di
+proiettili potrebbe essere considerato combattimento ordinario, ma potrebbe
+essere esentato dalla regola della Soglia del Danno.
+
+Un Master indulgente al quale interessa poco il realismo potrebbe applicare
+la regola della Soglia del Danno ai Personaggi ma non ai Personaggi Non
+giocanti.
+
+Forse il modo migliore per prevenire la morte prematura di un Personaggio è
+quello di permettergli di spendere un Punto Fudge (vedasi sezione 2.36) per
+convertire una ferita mortale in una semplice ferita seria.
+
+### Esempio di Combattimento e uso del Sistema di Valutazione Danni
+Obiettivo
+
+Questo esempio è una dimostrazione del Sistema di Valutazione Danni
+Obiettivo, incluso anche il Tiro Danni.
+
+I due opponenti sono guerrieri medievali, Snorri e Brynhild. Il
+combattimento avviene in una osteria, la quale si è rapidamente svuotata
+quando gli avventori hanno visto che aria tirava. Nessuno ha notato che il
+figlio dell'oste aveva lasciato la sala molto prima, quando il bellicoso
+Snorri aveva iniziato a lanciare insulti all'orgoglioso Brynhild. Entrambi
+i combattenti sono umani (Scale 0), così il fattore Scala in questo caso
+non viene tenuto in considerazione.
+
+**Snorri**
+
+|||
+|-|-|
+Forza         |Buono, +1
+Arma          |Spada Magica (+2 per la dimensione, +1 per il filo e +1 per la magia =+4)
+Resistenza ai Danni      |Buono
+Armatura      |Pesante di Pelle (+2) e nessun scudo
+Modificatore  di Attacco    |+5
+Modificatore di Difesa     |+2
+
+**Brynhild**
+
+|||
+|-|-|
+| Forza                    |  Ottimo, +2                                     |
+| Arma          Ascia      | (+2 per la dimensione, +1 per il filo = +3)     |
+| Resistenza ai Danni      | Discreto                                        |
+| Armatura                 | Pesante di Pelle (+2) e scudo normale (+1)      |
+| Modificatore di Attacco  | +5                                              |
+| Modificatore di Difesa   | +3                                              |
+
+Nel primo Round, Snorri ottiene un Ottimo nella sua Abilità dell'Arma. Dal
+momento che Brynhild ottiene solamente Discreto, Snorri ha un Grado di
+Confronto di 2, che equivale al suo Danno Base per questo Round di
+Combattimento. Successivamente al Danno Base viene sommato il Modificatore
+di Attacco di Snorri, e viene sottratto il Modificatore di Difesa di
+Brynhild. In totale si ha 2+5-3 = 4.
+
+Il Master richiede un Tiro Danni, e Snorri ottiene un -4, ovvero il peggior
+risultato possibile. Questo porterebbe il Danno Finale a 0, ma vi è il
+limite che impone che un Danno Calcolato positivo risulti sempre in un
+Danno Finale almeno pari a uno, come in questo caso. Ergo, Snorri infligge
+1 Punto Ferita.
+
+Dal momento che la Resistenza ai Danni di Brynhild è discreta, egli può
+ricevere due punti ferita ed essere considerato Ferito di Striscio. il
+Master segna un Punto Ferita e passa alla gestione del secondo Round.
+
+Nel secondo Round, entrambi i combattenti ottengono Buono, ovvero un nulla
+di fatto. Il Master descrive la situazione come uno scambio di colpi andati
+a vuoto.
+
+Nel terzo Round, Snorri ottiene un Ottimo e Brynhild solo Buono - Snorri ha
+colpito ancora! il Danno Base è uguale a 1, e il suo Modificatore di
+Attacco di +5 lo porta a +6, mentre il Modificatore di Difesa di Brynhild
+porta il Danno Finale a +3. Il giocatore di Snorri tira il Tiro Danni, e
+ottiene +1: egli infligge 4 punti danno a Brynhild!
+
+Il Master segna quattro punti di danno subiti da Brynhild: uno di questi ha
+usato l'ultima casella di "Ferito di Striscio", due hanno usato entrambi i
+punti di "Ferito" e uno usa un punto di "Ferito Grave". Brynhild è ora
+Ferito Grave, e questo implica una penalità di -2 in tutte le sue Abilità
+collegate al combattimento: Brynhild ora ha la sua Abilità di combattimento
+con ascia a Mediocre.
+
+Nel quarto Round, Snorri decide di farla finita con il malconcio Brynhild
+in un colpo solo. Snorri decide un Attacco Totale, il che gli da un +1 in
+attacco e +1 al danno se riesce a colpire. Brynhild invece decide di
+attendere un vantaggio situazionale: decide di assumere una posizione di
+Difesa Totale, sperando, oltre che a resistere, di individuare un punto
+debole in Snorri e approfittarne nel Round successivo. Brynhild ha un +2 in
+questo turno, ma non può colpire Snorri se vince. Snorri ottiene un
+risultato Ottimo, indipendentemente dal suo bonus di +1, ma anche Brynhild
+ottiene Ottimo! In un caso "normale", Snorri avrebbe perso il Round di
+Combattimento, dal momento che chi sceglie l'Attacco Totale perde in caso
+di parità., ma la posizione di difesa totale di Brynhild significa che
+quest'ultimo ha deciso di difendersi dall'attacco di Snorri senza fare
+nient'altro.
+
+Nel quinto Round, il Master concede a Brynhild un atteso bonus di +1 per
+aver notato una pozzanghera nel pavimento dovuta alla birra rovesciata. Dal
+momento che Brynhild non ha perso il Round precedente, è riuscito a fare in
+modo che Snorri ora si trovi nella pozza: la sua Abilità di Combattimento
+in questo Round è a -1. Snorri decide di combattere alla solita maniera, e
+attacca a Buono, questa volta. Brynhild, ferito e disperato, decide questa
+volta di buttarsi in un Attacco Totale: ha un bonus di +1 all'attacco, il
+che porta la sua Abilità a Discreto dal suo stato attuale di Mediocre.
+Brynhild ottiene Ottimo, mentre Snorri ottiene solo un Buono. Brynhild
+vince questo Round.
+
+Dal momento che Brynhild era nella posizione di Attacco Totale, ottiene un
+bonus di +1 al danno. Il suo Danno Base è di 2. Sommando il Modificatore di
+Attacco di +5 ottiene 7, e sottraendo il Modificatore di Difesa di Snorri
+(+2) ottiene +5. Il Master ottiene, facendo un Tiro Danni, 0 e quindi
+Snorri subisce 5 punti ferita. Dal momento che la sua Resistenza ai Danni è
+Buona, questo vuol dire tre punti calcolati come Ferita di Striscio, e due
+come Ferita. Snorri ora è Ferito, e ha una penalità di -1 nelle sue azioni.
+
+A questo punto il combattimento è interrotto dalle guardie cittadine, che
+sono state allertate dal figlio dell'oste. Snorri e Brynhild vengono
+trasportati in celle separate, probabilmente felici di uscire da quello che
+oramai era diventato un duello mortale...
+
+### Scala Non Umana in Combattimento
+
+In poche parole, la Scala della Forza dell'attaccante viene summata al
+Modificatore di Attacco, mentre la Scala della Massa del difensore viene
+sommata al suo Modificatore di Difesa. Una volta che il Danno Base è stato
+determinato nella solita maniera, ad essi viene sommato il Modificatore di
+Attacco e viene sottratto il Modificatore di Difesa del difensore. Nel caso
+che il Modificatore di Difesa sia negativo, allora la sottrazione diventa
+in realtà una somma.
+
+A parte questo, si seguono le regole normali già viste in precedenza.
+
+Tuttavia, per Personaggio molto piccolo la probabilità di ferire un
+Personaggio molto grosso usando questo sistema è molto bassa. Il Master può
+permettere che almeno un punto o due di danno penetri l'armatura
+dell'avversario grosso se il Personaggio piccolo ottiene un risultato
+notevole (Ottimo o meglio...?) Oppure si possono considerare le frecce o le
+lance intinte nel veleno: il Personaggio piccolo può mirare alle giunture
+dell'armatura e deve solamente colpire la pelle per iniettare il veleno.
+
+Questo sistema considera la Scala come un tipo di armatura, il che non è
+molto accurato. In realtà, un piccolo avversario può sì lavorarsi
+lentamente un grosso combattente, ma, comparata alla Scala, ogni ferita è
+troppo minuscola perché si faccia sentire. Per riflettere questo stato in
+termini di gioco, si consideri ogni ferita come un punto singolo, e per
+ogni tot ferite, dove tot equivale alla Scala dell'avversario, quest'ultimo
+subisce un Punto Ferita.
+
+Vi sono anche armi "Distruttrici di Scala", come gli arpioni per balene e i
+fucili per elefanti. Queste armi non infliggono un danno eccessivo (in
+termini di gioco, ovviamente) ma semplicemente dimezzano la scala oppure la
+ignorano del tutto. Ovviamente, se usate su degli esseri umani, queste armi
+godrebbero di un modificatore danni "esagerato".....
+
+Esempi di Combattimento: nei seguenti esempi, la Forza e la Massa hanno la
+stessa Scala, ovvero non sono classificate su Scale separate e si assume
+che il Master non usi la regola sul Tiro Danni opzionale, che potrebbe
+variare significativamente i danni inflitti in questi tre esempi di
+combattimenti
+
+##### Primo Esempio
+
+Wilbur, un cavaluere umano con una spada, sta attaccando un drago. Il
+Modificatore di Attacco di Wilbur è un rispettabile +6 (Forza +2, Spada
+a 2 mani +4, Scala 0) mentre il Modificatore di Difesa del drago è +8
+(Scala +6, Pelle Dura +2).
+
+Se Wilbur colpisce il drago con un Grado di Confronto di +3, ottiene 9
+punti di danno. Questo sarebbe un colpo molto duro per un umano,
+perfino per un umano che indossasse un'armatura, ma questo non è il
+caso. Il drago subisce solo un Punto Ferita dal momento che il suo
+Modificatore di Difesa è 8 (9-8 = 1). Il Master segna un Punto Ferita
+per il drago, il quale è ora Ferito di Striscio. Dal momento che la
+Resistenza ai Danni del drago è Discreta, il che vuol dire che può
+subire 2 Punti Ferita ed essere solo Ferito Di Striscio, Wilbur dovrà
+infliggere altri due Punti Ferita prima di ferire il drago. Egli potrà
+aver bisogno di aiuto oppure dovrà ricorrere alla sua spada magica!
+
+##### Secondo Esempio
+
+Sheba, una amazzone, ha appena dato una sonora pedata a McMurtree, un
+minuscolo folletto.
+
+Sheba ha un Modificatore di Attacco di +1 (Forza +0, Combattimento a
+Mani Nude Ottimo = +1, Scala 0) mentre McMurtree ha un Modificatore di
+Difesa di -3 (Scala -4, armatura leggera di pelle +1).
+
+Se Sheba vince il primo Round di Combattimento con un Grado di
+Confronto di +1 aggiunge il suo Modificatore di Attacco per un totale
+di +2. Dal momento però che il Modificatore di Difesa di McMurtree è
+negativo, il Danno Totale è 2 - (-3) = 2+3 = 5 Punti Ferita. Dal
+momento che la Resistenza ai Danni di McMurtree è Discreta, egli
+subisce 2 Punti Ferita come Striscio, 2 Punti Ferita come Ferito e 1
+Punto Ferita come Ferito Grave. Le sue Abilità di combattimento sono
+ridotte di -2 ed è in grave pericolo nel caso che Sheba colpisca
+ancora.
+
+##### Terzo Esempio:
+
+L'amico di McMurtree, Fionn, tenta di colpire la caviglia di Sheba con
+il suo Shillelagh (bastone di quercia dei folletti irlandesi).
+
+Il suo Modificatore di Attacco di Fionn è -1 (Forza +1, Shillelagh +2,
+non affilato, e Scala - 4). Il Modificatore di Difesa di Sheba è +2
+(Armatura di pelle +2, Scala 0)
+
+Se Fionn vince di +3,aggiunge il suo Modificatore di Attacco di -1 e
+ottiene un danno totale di +2, il che purtroppo equivale al
+Modificatore di Difesa di Sheba, cosicchè ella non subisce danno alcuno
+da un altresì eccellente colpo.
+
+Fionn dovrà pensare a qualche strategia, velocemente. Fortunatamente
+per lui, egli conosce un poco di magia, e se riuscirà ad evitare il
+successivo calcio di Sheba, ella imparerà nel modo più duro perché è
+meglio non inimicarsi la Gente Piccola...
+
+### Trattenere il pugno e Danno da K.O.
+
+Sia che nel Sistema di Valutazione Danni Obiettivo che nel Sistema di
+Valutazione Danni Soggettivo, un giocatore può fare in modo che il proprio
+Personaggio infligga un danno ridotto nel caso che colpisca in un qualsiasi
+combattimento. Questo avviene nei duelli d'onore, dove di solito vince chi
+sparge il "primo sangue", e uccidere il proprio avversario può comportare
+una condanna per omicidio. Questa procedura viene indicata come "Trattenere
+il pugno", anche se si sta usando una spada.
+
+Per trattenere il pugno, il Personaggio deve annunciare il massimo danno
+che ha intenzione di infliggere quando colpisce. Uno spadaccino può
+dichiarare che desidera infliggere al massimo un danno, ad esempio. In
+questo caso, anche se vince il Confronto di 8, e ha un bonus di +3 nella
+spada, infligge solo un punto di danno.
+
+Allo stesso modo, un giocatore può dichiarare che il suo Personaggio
+desidera mettere fuori combattimento (KO) un avversario anzichè ucciderlo.
+In questo caso i livelli Ferito e Ferito Grave contano come ulteriori
+livelli di Ferita di Striscio. Occorre portare l'avversario ad Incapacitato
+per metterlo al tappeto, ma non vi sono penalità nelle Abilità se
+quest'ultimo si trova come ferite a Ferito e Ferito Grave, dal momento che
+queste vengono considerate come Ferite Di Striscio. Un Personaggio messo KO
+non ha bisogno di cure mediche specifiche per rimettersi in piedi - ha
+bisogno solo di un po' di tempo. Solo un Master molto severo (e molto
+stronzo, NdT!) tirerebbe per verificare la possibilità di un danno
+cerebrale.
+
+Alternativamente, il Master può decidere che un colpo alla testa a livello
+Buono o meglio mandi automaticamente KO qualcuno. In un Confronto, per
+mettere a segno il colpo occorrere anche vincere il Round di Combattimento,
+ovviamente.
+
+### Guarigione
+
+La guarigione di un Personaggio si ottiene attraverso l'uso di Abilità
+mediche appropriate o di un Potere Supernormale appropriato. Una Ferita di
+Striscio è troppo insignificante per richiedere un Tiro di guarigione
+(anche se potrebbe richiedere un bacio per lenire il dolore...). Un
+risultato di Buono in una Abilità medica cura tutte le ferite di livello
+Ferito. Un risultato di Ottimo fa lo stesso con le Ferite Gravi, e un
+risultato di Superbo rimette in piedi un Personaggio incapacitato.
+
+Altrimenti, le ferite guariscono da sole al passo di un Livello di Ferita
+per settimana di riposo. Cioè, dopo una settimana di riposo assoluto un
+Personaggio Incapacitato diventa Ferito Grave, uno Ferito Grave diventa
+Ferito e così via. (per quanto riguarda il tempo di guarigione delle Ferite
+di Striscio, questo è lasciato al Master. Possono sparire a combattimento
+finito oppure possono farsi sentire per un giorno o due..)
+
+Il Master può anche richiedere un tiro contro un Attributo tipo la
+Costituzione: Discreto per le Ferite, Buono per le Ferite Gravi ed Ottimo
+per le ferite Incapacitanti. Fallire questo tiro implica un rallentamento
+del processo di guarigione. Qualcuno che si trovi Vicino alla Morte
+potrebbe aver bisogno di molto tempo per rimettersi, anche se vengono usati
+rimedi magici o ad alta tecnologia.
+
+La guarigione, dal punto di vista del realismo richiede tempo. Il successo
+di un tiro contro una Abilità medica assicura la guarigione del
+Personaggio, ma implica anche che questo si riposi a dovere. Il tempo di
+riposo dipende dal livello tecnologico dell'ambientazione, ed è a
+discrezione del Master. Un livello di ferite per giorno è un tempo
+estremamente veloce, ma può essere appropriato per una campagna di stile
+epico, ad esempio. La possibilità che una vecchia ferita si riapra o meno
+durante una sessione di intensa attività fisica è lasciata al Master...
+
+## Risultati Critici
+
+I Risultati Critici sono una regola opzionale per quei Master che
+apprezzano la cosa. Un tiro naturale di +4 può essere considerato un
+Successo Critico - il Personaggio ha fatto quella cosa eccezionalmente
+bene, e il Master può assegnargli un bonus speciale - mentre un -4 naturale
+è un Fallimento Critico, e il personaggio ha fatto quella cosa nel peggior
+modo possibile in quella data situzione.
+
+Si noti che raggiungere il +/-4 coi modificatori non viene contato come un
+Risultato Critico, anche se, effettivamente, il Personaggio ha fatto quella
+data azione eccezionalmente bene o male. Quando si ottiene un Risultato
+Critico naturale , il Master può ignorare quale risultato si otterrebbe coi
+modificatori, e trattare il risultato come un automatico Oltre Superbo o
+Peggio che Disastroso.
+
+Oppure, se il personaggio ha ottenuto un risultato superiore di quattro
+livelli alla Difficoltà dell'azione, il risultato è un Risultato Critico
+positivo. Nel caso contrario, ovvero quattro livelli sotto, il risultato è
+un Risultato Critico negativo.
+
+Un Risultato Critico negativo in combattimento può significare molte cose:
+un Personaggio inciampa, cade o lascia la sua arma,oppure è stordito,
+etc... Il Master deve essere creativo in questi casi, ma non uccidere il
+Personaggio tutto d'un colpo.
+
+Il Master può anche crearsi una tabella dei suoi Risultati Critici, da
+usarsi quando viene richiesta. Questa è una maniera semplice di aggiungere
+dettaglio al sistema di gioco senza per questo complicarlo.
+
+## Reazioni dei Personaggi Non Giocanti
+
+Alcune volte un Personaggio Non Giocante ha una data reazione verso un
+Personaggio. Forse il Personaggio Non Giocante è nemico del Personaggio in
+questione, oppure è stato da questo salvato e allora gli deve la vita. Ma
+ci sono molti casi dove un Personaggio Non Giocante non ha una reazione ben
+definita verso un Personaggio. Quando ad esempio un Personaggio cerca delle
+informazioni, le cose potrebbero andare liscie oppure potrebbero andare
+male. Negoziare con uno straniero deve essere sempre un'incognita per i
+Giocatori - così come lo deve essere per il anche per il Master!
+
+Quando si trova in dubbio, il Master dovrebbe segretamente fare un tiro
+situazionale. Se un Personaggio ha un Tratto Caratteriale che potrebbe
+influire sulle reazioni del Personaggio Non Giocante, il Master dovrebbe
+imporre un bonus o una penalità appropriata. Esempi di Tratti Caratteriali
+di questo tipo includono la Bellezza, l'Apparenza Fisica, il Carisma, lo
+Status Sociale, o abitudini tipo dita nel naso, linguaggio scurrile, etc...
+Il Tiro di Reazione può essere modificato anche da circostanza quali
+corruzione, la natura dei Personaggi Non Giocanti (amichevole o meno), la
+vicinanza del capo dei Personaggi Non Giocanti, dal comportamento dei
+Personaggi, etc...
+
+Più alto sarà il risultato del tiro di reazione, migliori saranno le
+reazioni dei Personaggi Non Giocanti. Se il risultato sarà Discreto, i
+Personaggi Non Giocanti potranno essere sì d'aiuto, ma non troppo. Un
+risultato di Mediocre non porterà aiuto alcuno, mentre con un Buono (o
+meglio) i Personaggi Non Giocanti reagiranno bene e daranno tutto l'aiuto
+del caso.
+
+Esempio: Nathaniel cerca alcune informazioni sul duca locale, sospettato di
+corruzione. Egli ha notato che la gente è riluttante a parlare del duca
+agli stranieri. Nathaniel decide di tentare con una giovane venditrice di
+verdire al mercato. Nathaniel è di aspetto normale (0) ma ha del carisma:
++1 al tiro come bonus. Egli parla del più e del meno per un poco, e poi
+inizia a parlare del duca. Il Master decide che questa tattica gli frutta
+un ulteriore +1 al tiro come bonus. Tuttavia, la situazione impone una
+penalità di -2 per qualunque discorso riguardante il duca. Questo elimina i
+bonus di Nathaniel. Il Master tira in segreto, e ottiene un Discreto. La
+giovane si fa scappare qualche informazione utile prima di rendersi conto
+di quello che ha detto. A quel punto si zittisce, ma Nathaniel incomincia a
+parlare del tempo, facendo svanire eventuali sospetti. Successivamente egli
+se ne va, per tentare la fortuna da qualche altra parte.
+
+
+# Sviluppo del personaggio
+
+Dopo aver giocato alcune avventure, i giocatori vorranno che i loro
+personaggi progrediscano nelle loro Abilità. A questo punto i limiti
+naturali imposti dal Master possono essere superati dal momento che il
+personaggio "cresce" e sviluppa una sua vita. Vi sono due modi di gestire
+lo sviluppo del personaggio, o la sua "esperienza", come spesso viene
+chiamata.
+
+## Sistema di Sviluppo Soggettivo
+
+Quando il giocatore sente che il personaggio ha fatto abbastanza per
+meritarsi un avanzamento di grado in alcuni Tratti Caratteriali (e sente
+che ha interpretato il personaggio bene) chiede al Master se può innalzare
+il livello di uno o più Tratti Caratteriali. un Tratto Caratteriale può
+essere aumentato solo di un livello alla volta, ad esempio, da Buono a
+Ottimo. Un Tratto Caratteriale deve essere usato molto di più per poter
+portare il suo livello da Buono a Ottimo di quanto debba essere usato per
+portarlo da Discreto a Buono, e così via. Inoltre, le Abilità dovrebbero
+essere molto più facili da migliorare degli Attributi.
+
+Allo stesso modo, il Master può semplicemente ricompensare un giocatore
+migliorando un dato Tratto Caratteriale, in particolare quello che sente
+essere stato sfruttato al meglio durante le passate sessioni di gioco. In
+questi casi non vi è mai la contemporanea riduzione di livello di un altro
+Tratto Caratteriale: questa è la fase dello sviluppo del personaggio, non
+la sua creazione.
+
+## Sistema di Sviluppo Obiettivo
+
+In questo sistema, il Master può assegnare dei Punti Esperienza che possono
+essere usati dal giocatore per comprare i livelli necessari per lo sviluppo
+del suo personaggio. Il "listino prezzi" è definito in questo modo:
+
+|Da                     |A               |Costo|
+|-----------------------|----------------|-----|
+|Sotto Discreto         |Discreto                 |1 Punto Esperienza |
+|Discreto               |Buono                    |2 Punti Esperienza |
+|Buono                  |Ottimo                   |4 Punti Esperienza |
+|Ottimo                 |Superbo                  |8 Punti Esperienza |
+|Superbo                |Leggendario              |16 Punti Esperienza o più  e l'approvazione |del Master |
+|Leggendario            |Leggendario 2° Livello   |30 Punti Esperienza o più  e l'approvazione del Master |
+|Leggendario n° Livello |Leggendario n+1° Livello |50 Punti Esperienza o più e l'approvazione del Master |
+
+&nbsp;
+
+|||
+|-|-|
+|Alzare il livello di un Attributo |  Tre volte il costo di avanzamento di una Abilità per lo stesso livello.|
+|Aggiungere un Dono   |      6 o più Punti Esperienza e l'approvazione del Master  |
+|Aggiungere un superpotere | 12 o più Punti Esperienza e l'approvazione del Master |
+
+
+Tuttavia, il livello di un Tratto Caratteriale può essere solo aumentato di
+un passo alla volta.
+
+Il Master può modificare questa tabella se lo ritiene opportuno, e dovrebbe
+accertarsi che i Tratti Caratteriali che progrediscono effettivamente siano
+quelli che effettivamente sono stati usati di più nell'avventura.
+
+Come linee generali, una buona interpretazione del personaggio dovrebbe
+essere ricompensata con un numero di Punti Esperienza variabile da 1 a 3,
+con un limite massimo di 4 Punti Esperienza per una partita impeccabile. I
+giocatori possono accumulare e risparmiare quanti Punti Esperienza
+desiderano.
+
+Anche gli Attributi possono pesare durante la fase di distribuzione dei
+Punti Esperienza. Per semplicità, tuttavia, si possono ignorare
+tranquillamente i valori degli Attributi durante questa fase. Se si
+desidera aggiungere un tocco di realismo, potrebbe essere interesaante
+includere la seguente opzione.
+
+Nel caso che il personaggio abbia un Attributo con un valore
+eccezionalmente alto, e questo Attributo ha una influenza sull'Abilità il
+cui livello deve essere aumentato, il Master può, basandosi sulla tabella
+precedente, considerare il costo di avanzamento in Punti Esperienza
+equivalente a quello del livello inferiore. Ad esempio, aumentare il
+livello di Giocoliere da Discreto a Buono richiede 2 Punti Esperienza per
+la maggior parte dei personaggi, e 4 Punti Esperienza per portarlo da Buono
+a Ottimo. Se un personaggio ha Destrezza Buona o Ottima, tuttavia, il costo
+sarebbe di 1 Punto Esperienza per portare il livello da Discreto a Buono, e
+2 Punti Esperienza per portarlo da Buono a Ottimo, se si usa questa
+opzione.
+
+Al contrario, se l'Attributo in questione fosse definito a Scarso o
+Disastroso allora si dovrebbe tener conto del livello superiore della
+tabella. Ad esempio, portare il livello di Giocoliere da Discreto a Buono
+occorrerebbe spendere 4 Punti Esperienza se il livello di Destrezza fosse
+Scarso o Disastroso. Si veda Moose il Mago, nel capitolo 6.
+
+Questo sistema è da usare solo per lo sviluppo dei personaggi, e non per la
+loro creazione. Se il Master decide altrimenti, dovrebbe almeno avvisare i
+giocatori cosìcchè possano pianificare i loro personaggi con cura maggiore.
+
+Una maniera più semplice per approssimare questo fatto è quella di
+moltiplicare per 2 o per 1.5 (si arrotondi per eccesso) il costo in Punti
+Esperienza quando un dato livello di Abilità viene portato sopra al livello
+dell'Attributo correlato. Ad esempio, Josco il Giullare ha Destrezza a
+Buono. Il costo in Punti Esperienza per elevare la sua Abilità di
+Giocoliere è normale finchè Josco non raggiunge il livello di Buono come
+Giocoliere. Oltre questo limite, il costo da pagare in Punti Esperienza
+raddoppia: 8 Punti Esperienza (o 6, se si usa il fattore di 1.5) anzichè 4.
+
+Il guaio di questo metodo è che è molto costoso in termini di Punti
+Esperienza, specialmente se il Master è stato parco nell'assegnare i
+livelli per gli Attributi. Non è assolutamente raccomandato per le campagne
+di tipo epico, in special modo quelle dove ci sono personaggi a livello
+Leggendario.
+
+## Sviluppo attraverso l'allenamento
+
+Migliorare le Abilità di un personaggio attraverso i Punti Esperienza non è
+certo il massimo del realismo. Una sessione di gioco potrebbe coprire solo
+poche ore in termini di tempo di gioco. Permettere ad un personaggio di
+migliorare una o due Abilità da Discreto a Buono è, per essere sinceri, una
+solenne sciocchezza. Ma è divertente per i giocatori, e regala anche
+soddisfazioni sul piano psicologico e per questo si raccomanda anche l'uso
+di questo metodo di avanzamento del personaggio.
+
+Come alternativa, o in aggiunta ai metodi descritti prima, il Master può
+permettere che alcuni Tratti Caratteriali vengano migliorati attraverso un
+ammontare appropriato di tempo di studio/allenamento. Questo implica il
+trovarsi un insegnante, lo spendere i soldi per il corso, e così via. E'
+possibile anche l'autoistruzione, ma il tempo impiegato dovrebbe essere
+almeno doppio. Se si usa il Sistema di Sviluppo Soggettivo, il Master può
+richiedere che i Punti Esperienza vengano spesi solo in questo modo, ovvero
+si impone il limite che non si possano spendere dei Punti Esperienza a meno
+che non si trascorra un po' di tempo (determinato dal Master) sotto
+allenamento o istruzione.
+
+Il Master dovrà determinare tempi e costi del periodo di addestramento, e
+anche la difficoltà nel trovare un maestro. Egli deve possedere almeno due
+Abilità: Insegnare e l'Abilità per la quale è Insegnante. Il Master può
+anche richiedere un certo numero di tiri di dado per vedere quanto il
+personaggio si applica nello studio e l'Attributo da prendere in esame
+dovrebbe essere la Volontà, lo Zelo, la Saggezza, e simili...
+
+Se il giocatore fornisce al Master una valida motivazione per il
+personaggio, il Master può assegnare fino a +2 di bonus nel Tratto
+Caratteriale messo in esame. Non tutti i tiri devono superare la difficoltà
+fissata dal Master, ma almeno la metà di questi dovrebbero superarla.
+
+Esempio: Billy Blaster, il cadetto spaziale, è di ritorno all'Accademia
+dopo il suo primo turno di guardia. Egli si rende conto che il suo
+Usare Pistola Laser (Discreto) non è così buono come vorrebbe, per
+questo decide di seguire un corso di dieci settimane di Pistola Laser,
+con un insegnante che ha Ottimo in questa Abilità e Superbo in
+insegnare. Il Master decide che Billy deve tirare cinque volte contro
+il suo Attributo di Volontà per vedere quanto si dedica nella cosa.
+
+Se la maggior parte dei tiri sono Mediocri o meglio, Billy può alzare di un
+livello la sua Abilità, vista la lunghezza del corso e la qualità
+dell'insegnamento. Se il corso fosse stato più corto, o l'insegnante
+peggiore, avrebbe dovuto ottenere Discreto o Buono nei tiri contro la
+volontà per aumentare la sua competenza in quell'abilità.
+
+Se si usa questo sistema, si ricordi che è molto più facile migliorare una
+Abilità da Scarso a Mediocre che da Ottimo a Superbo. Per migliorare il
+livello di una Abilità già buona, ci vuole molto più tempo e volontà che
+migliorare una Abilità livello scarso.
+
+
+# Suggerimenti ed esempi
+
+
+## Suggerimenti per la conversione da altri sistemi
+
+Si ricordi sempre che lo scopo principale del gioco è divertirsi, non
+dannarsi la vita...Il Master dovrebbe tradurre almeno uno dei suoi
+Personaggio preferiti in Fudge partendo da un qualsiasi sistema di gioco.
+Questo gli darà una idea di quali Tratti Caratteriali è meglio scegliere e
+quanti. Si noti inoltre che Fudge è estremamente flessibile, ed è
+possibile, con un poco di pratica, fare in modo che il personaggio che si
+ottiene sia veramente il Personaggio desiderato.
+
+Suggerimenti per la conversione: Non è pratico dare delle linee guida per
+convertire un personaggio da un sistema a Fudge e viceversa, ma vi sono due
+sistemi di misura dei Tratti Caratteriali che sono di uso comune nella
+grande maggioranza dei sistemi di gioco: la scala 3- 18 (3d6) e la scala
+percentuale. Una (di base) traduzione dei vari livelli di Fudge in queste
+scale è qui presentata:
+
+TABELLA DI CONVERSIONE
+
+|FUDGE                    |SCALA 3D6              |SCALA %   |
+|-------------------------|-----------------------|----------|
+|Superbo                  |   18+                 |98-100    |
+|Ottimo                   |   16-17               |91-97     |
+|Buono                    |   13-15               |71-90     |
+|Discreto                 |   9-12                |31-70     |
+|Mediocre                 |   6-8                 |11-30     |
+|Scarso                   |   4-5                 |4-10      |
+|Disastroso               |   3                   |1-3       |
+
+## Esempio di scheda personaggio
+
+Una scheda Personaggio può essere ricavata da ogni foglio di carta a
+disposizione, ovviamente. Tuttavia, è comodo poter includere nella scheda
+la progressione dei Tratti Caratteriali, i limiti imposti dal Master, se
+esistono, e così via...
+
+[La scheda si trova in un file separato...]
+
+Nota bene: le tabelle sono state pensate tenendo conto del Sistema di
+Sviluppo Obiettivo. Se si usa il Sistema Soggettivo, allora si possono
+trascurare le tabelle sui Punti Esperienza.
+
+## Personaggi di esempio
+
+I seguenti Personaggi sono stati disegnati da Master diversi, per dare
+alcuni esempi delle molte possibilità di gioco. Ogni Personaggio include
+anche le linee guida usate dal Master nella sua fase di creazione. Tutti
+questi sono stati creati usando il Sistema di Creazione Obiettivo, sebbene
+tutti siano anche compatibili con il Sistema Soggettivo.
+
+Le Abilità che come valore base hanno Non Esistente e richiedono un punto
+livello per essere portate a Disastroso sonosegnate come Telepatia (MD)
+dove MD sta per Molto Difficile (da imparare e/o perfezionare)
+
+I numeri fra parentesi indicano quali sono i costi di ogni Livello di
+Tratto Caratteriale, e sono opzionali su ogni scheda personaggio. Alcuni
+personaggi hanno un Attributo di Resistenza ai Danni distinto, mentre altri
+personaggi usano al suo posto Attributi come Salute, Corpo, Costituzione,
+etc.
+
+Gran parte dei Doni e dei Difetti sono stati scelti con un occhio verso la
+varietà. Ovviamente, se questi Personaggio vengono riciclati durante il
+gioco, siate liberi di modificare qualsiasi Tratto Caratteriale riteniate
+più opportuno.
+
+### Personaggi Fantasy
+
+Brogo e Moose hanno alcune Abilità magiche, e queste vengono
+rappresentate usando il sistema di esempio trovato nelle Addenda (quivi
+non incluse ma disponibili in inglese). Brogo è solo un dilettante
+nella magia e Moose è appena meglio. Solo Floranna è una maga completa.
+
+Si noti che Brogo ha abbassato quattro Abilità utili a Disastroso per
+portare la somma dei soui punti Abilità a 50 - egli avrebbe 54 punti
+Abilità, altrimenti.
+
+##### Brogo lo Scout, Halfling
+
+Limiti del Master: 8 Attributi e 4 livelli Attributo; 50 livelli
+Abilità, col massimo di 1 Superbo e 3 Ottimi. 2 Doni, magia
+disponibile, Scala -2, Bonus Razziale: Resistenza ai Danni +1, Salute
++1. Nota: Lanciare Incantesimi equivale a Freddezza -2 in questo gioco,
+con un massimo di Discreto. Non vi è bisogno di comprare alcuna Abilità
+di Lancio Incantesimi. Inoltre, il Potenziale Magico non è limitato in
+campi specifici: Brogo può tentare qualsiasi cosa, a meno che non
+confligga con un suo Difetto.
+
+- Attributi (4 punti disponibili, 10 usati bilanciati da 3 difetti)
+
+Freddezza (1) Buono; Resistenza ai Danni (1) Buono; Destrezza; (2)
+Ottimo; Empatia; (1) Buono; Salute (0) Buono, (Halfling: Discreto);
+Intelligenza (1) Buono; Percezione (3) Superbo; Forza (1) Buono, Scala
+-2
+
+- Abilità (50 punti disponibili, 50 usati)
+
+Conoscenza dell'Area (2) Buono; Arco (3) Buono; Scalare (3) Buono;
+Elfico (difficile) (2) Mediocre; Valutare beni (1) Discreto; Compagnia
+; (4) Ottimo; Trovare passaggi segreti; (-1) Scarso; Pronto Soccorso;
+(3) Buono; Rissa; (3) Buono; Interrogare; (-1) Disastroso; Conoscenza
+delle leggende antiche; (2) discreto; Scassinare; (-1) Disastroso;
+Imitare i rumori degli animali (difficile); (4) Ottimo; Muoversi in
+silenzio; (5) Superbo; Orchesco ; (2) Discreto; Borseggiare; (-1)
+Disastroso; Cavalcare Ponty; (2) Discreto; Uso Bastone; (3) Buono;
+Raccontare Storie; (3) Buono; Sopravvivenza; (3) Buono; Seguire tracce;
+(3) Buono; Vita animale; (4) Ottimo
+
+- Doni (2 a piacere, 4 usati, bilanciati dai Difetti)
+
+Direzione Assolita; Empatia animale; Fortuna; Visione notturna
+
+- Difetti
+
+Può lanciare solo incantesimi banali; Curioso; Ghiottone; Umanitario
+(aiuta il bisognoso senza farsi pagare); Pacifista; Superdifetto:
+Halfling;
+
+- Poteri Supernormali (1 preso, equilibrato da un Superdifetto)
+
+Potenziale magico, 1 livello;
+
+##### Moose il mago, Mago umano da battaglia
+
+Note del Master: 6 Attributi (3 Livelli), 30 Livelli di Abilità, con un
+massimo di 1 Superbo, 3 Ottimo; 2 Doni e magia disponibile. Le abilità
+di lancio degli incantesimi gli costano doppio a causa della sua bassa
+intelligenza. Anche il costo per elevare queste abilità è doppio.
+
+- Attributi (3 Livelli, 4 Usati, compensati da un difetto)
+
+Carisma (-2) Scarso; Destrezza (2) Ottimo; Spinta (1) Buono; Salute (2)
+Ottimo; Intelligenza (-1) Mediocre; Forza (2) Ottimo;
+
+- Abilità (30 Livelli, 36 usati compensati da un difetto)
+
+Armatura: Buono(3); Artigianato (2) Discreto; Cantare (-1) Disastroso;
+Cavalcare (3) Buono; Conoscenza delle leggende (-1) Disastroso;
+Corteggiare (-1) Disastroso; Irrompere (-1) Disastroso; Lanciare (4)
+Ottimo; Lanciare incantesimi (Molto Difficile, 6) Mediocre; Lavorare il
+legno (1) Mediocre; Mercanteggiare (1) Mediocre; Raccontare storie (-1)
+Disastroso; Rissa (4)Ottimo; Scalare (2) Discreto; Scudo (4) Ottimo;
+Spada (5) Superbo; Tattica (3) Buono;
+
+- Doni (2 Doni, 2 Usati)
+
+Riflessi in combattimento; Benessere materiale (Equipaggiamento buono)
+
+- Poteri Supernormali (2 Usati, equilibrati dai difetti)
+
+Potenziale magico; 2 livelli di incantesimi da combattimento
+
+- Difetti
+
+Rozzo e senza tatto; Paura del buio; Pieno di sè per nascondere i suoi
+sentimenti di inadeguatezza; Perde subito le staffe coi ladri e con gli
+sciocchi; Le abilità magiche gli costano doppio a causa della sua
+intelligenza; Giuramento - distruggere la banda di briganti che ha
+ucciso il padre.
+
+##### Tarag Mezzorco
+
+Note del Master: 3 Attributi (3 Livelli) 10 Livelli di Abilità, con un
+massimo di 1 Superbo, 2 Ottimo; 3 doni disponibili, magia disponibile.
+I Mezzorchi sono a scala 3.
+
+- Attributi: (3 Livelli, 2 usati, 1 livello scambiato per 3 Livelli di
+Abilità);
+
+Corpo: Buono, Scala 3 (1); Mente: Mediocre; (Discreto per i mezzorchi);
+Psiche: Buono (1)
+
+- Abilità: (10 livelli disponibili, 13 usati, equilibrati da livelli di
+Attributo bassi)
+
+Abilità Animali: Discreto (2); Abilità Artistiche: Disastroso (-1);
+Abilità di Equilibrio : Buono (2); Abilità Mediche: Disastroso (-1);
+Armi bianche: Superbo (5); Abilità Mercantili: Disastroso (-1); Abilità
+di sopravvivenza all'aperto: Buono (2); Armi a raggio: Buono (2);
+Abilità Tecniche: Disastroso (-1); Abilità da ladro: Disastroso (-1);
+Combattimento senz'armi: Buono (2);
+
+- Doni:  (3 Doni, 3 usati)
+
+Riflessi veloci; Visione periferica - niente penalità nel caso affronti
+due nemici ala volta; Pelle dura (-1 al danno).
+
+- Poteri Supernormali (1,5 usati, equilibrati da dei difetti)
+
+Corpo di Mezzorco (Scala 3, Mente -1); Aura antimagia - Qualsiasi
+incantesimo scagliato su di lui - inclusi quelli benefici - viene
+contato a -1)
+
+##### Floranna, Maga elfa
+
+Note del Master: 2 Attributi (1 Livello); 50 Livelli per le Abilità,
+con un massimo di 1 a Superbo e 3 a Ottimo. 4 Doni, magia disponibile
+
+Questo personaggio usa il sistema magico descritto nelle Addenda di
+Fudge, ma il Master ha acconsentito di avere una Abilità di Lanciare
+Incantesimi ad un livello superiore di Discreto - al costo di un Dono.
+Tuttavia, il Master ha imposto anche che Lanciare Incantresimi sia
+diviso in due Abilità. Dal momento che un Dono = 6 Livelli Abilità,
+occorrono 4 Livelli per portare Lanciare Incantesimi su Altri a
+Discreto, e altri 6 Livelli per portarlo a Buono, il massimo
+consentito.
+
+- Attributi (1 Livello, 1 Usato)
+
+Materiale: Mediocre (-1); Spirituale: Ottimo (2);
+
+- Abilità: (50 Livelli, 32 usati, il resto scambiato per 3 doni)
+
+Abilità di combattimento: Scarso (0); Acrobatica/Atletica: Mediocre
+(1); Cameratismo: Mediocre (1); Conoscenza della Natura e dei boschi:
+Ottimo (4); Conoscenza Scientifica: Mediocre (1); Cultura: Buono (3);
+Furto: Disastroso (-1); Lanciare incantesimi su altri (Molto
+difficile): Buono (10); Lanciare incantesimi su se stessi (Molto
+difficile): Discreto (4); Maniere Cortesi: Scarso (0); Manipolare le
+persone: Scarso (0); Medicina di base: Ottimo (4); Muoversi in silenzio
+/ Con grazia: Discreto (2);
+
+- Doni: (4, nessuno usato)
+
+- Poteri Supernormali: (6 presi, equilibrati da difetti, doni ridotti e
+meno livelli di abilità)
+
+Elfa: Vita lunga, gli animali reagiscono bene alla sua presenza, +1
+nell'Attributo Materiale nei casi di Percezione; Potenziale Magico: 5
+Livelli di magia bianca;
+
+- Difetti:
+
+Distratta; Cuore d'oro - qualsiasi bugiardo di mezza tacca può ottenere
+da lei comprensione e aiuto; Malinconica; Comportamento Zelante - cerca
+di dissuadere gli altri dall'uso della violenza.
+
+### Ambientazioni storiche
+
+##### Arian O' Gwent, Arciera gallese, 1190
+
+Un conquistatore normanno assassinò la famiglia di Arian con l'inganno,
+spacciandosi per una persona innocua. Quando Arian lo uccise per
+vendetta, ella venne bandita dal Galles. In fuga verso nord, Arian sta
+per unirsi alla banda di fuorilegge sassoni di Robin Hood, e con sè
+porta in Inghilterra una nuova invenzione gallese, l'arco lungo...
+
+Note del Master: 6 Attributi (4 Livelli), 45 Livelli di Abilità, con
+un massimo di 1 Superbo, 2 Ottimo, 2 Doni; Niente Poteri Supernormali;
+Deve assumere due svantaggi: Fuorilegge e Leale verso i propri
+compagni, i quali non vengono conteggiati nei calcoli degli altri
+Tratti Caratteriali.
+
+- Attributi: (4 Livelli, 4 usati)
+
+Calma: Mediocre (-1); Costituzione: Discreto (0); Destrezza: Ottimo
+(2); Forza: Discreto (0); Ragionamento: Buono (1); Sensi: Ottimo (2);
+
+- Abilità (30 Livelli, 36 usati, equilibrati da 1 Difetto).
+
+Acrobatica: Buono (3); Camuffarsi: Buono (3); Cavalcare: Buono (3);
+Costruire Frecce: Buono (3); Evitare: Buono (3); Lavorare il legno:
+Buono (3); Manutenzione Arco: Ottimo (4); Muoversi in silenzio: Ottimo
+(4); Scalare: Buono (3); Tattica: Discreto (2); Tirare con l'arco:
+Superbo (5);
+
+- Doni (2 doni, 3 usati, equilibrati da un Difetto)
+
+Alfabeta - nel 1190 essere alfabeti è una cosa abbastanza rara da
+essere considerata un dono; Attraente; +3 alla Calma quando tira con
+l'arco.
+
+- Difetti:
+
+Fuorilegge; Leale verso i compagni; Parla Inglese con un forte accento
+gallese; Odia i Normanni - deve tirare sulla Calma per evitare di
+trattarli rudemente.
+
+##### Henri le Rouge, Moschettiere del Re Luigi XIII, 1627.
+
+Note del Master: dal momento che questo personaggio viene da una
+campagna senza magia o medicine fantascientifiche, il Master ha fissato
+dei limiti più alti: 9 Attributi (8 Livelli), 60 livelli per le
+abilità, col massimo di 2 Superbi, 5 Ottimi e 3 Doni, con i Poteri
+Supernormali non disponibili.
+
+- Attributi (8 Livelli, 12 usati, equilibrati dai difetti)
+
+Charme: Ottimo (2); Destrezza: Ottimo (2); Forza: Discreto (0);
+Freddezza: Superbo (3); Grinta: Ottimo (2); Percezione: Discreto (0);
+Resistenza ai danni: Ottimo (2); Salute: Buono (1); Volontà: Discreto
+(0);
+
+- Abilità: (60 livelli, 72 usati, equilibrati da due difetti)
+
+Acrobatica: Superbo (5); Battuta pronta: Ottimo (4); Camuffarsi: Buono
+(3); Cavalcare: Ottimo (4); Conoscenza della politica: Discreto (2);
+Conoscenza Europa: Mediocre (1); Conoscenza Francia: Buono (3);
+Conoscenza Parigi: Buono (3); Conoscenza Pianeta: Disastroso (-1);
+Estrazione svelta della spada (facile): Buono (2); Evitare: Buono (3);
+FLirtare: Buono (3); Guidare barca a remi: Disastroso (-1); Ingegneria:
+Disastroso (-1); Meccanica: Disastroso (-1); Muoversi in silenzio:
+Buono (3); Nascondersi nelle ombre: Discreto (2); Nuotare: Disastroso
+(-1); Oratoria: Mediocre (1); Pistola: Buono (3); Pronto Soccorso:
+Buono (3); Recitare: Buono (3); Rissa: Buono (3); Savoir faire: Buono
+(3); Scalare: Ottimo (4); Scassinare: Disastroso (-1); Scherma: Superbo
+(5); Spassarsela: Buono (3); Tattica: Buono (3); Usare mano sinistra:
+Ottimo (4); Usare moschetto: Buono (3);
+
+- Doni (3 doni, 5 usati, equilibrati da dei difetti);
+
+Riflessi di combattimento; Bello; Patrono: capitano dei moschettieri;
+Guarigione rapida; Status: gentiluomo.
+
+- Difetti:
+
+Codice d'onore; Vuole sempre fare casino; Disgustato da cibo non di
+classe; Estremamente leale vero i compagni; Intollerante verso i
+protestanti; Coda di paglia - si offende molto facilmente.
+
+##### Scruffy Sanders, guidatore di diligenze nel West, circa 1870
+
+Note del Master: 5 Attributi (3 Livelli), 30 Livelli Abilità, con un
+massimo di 1 Superbo e 2 Ottimo; 2 doni; niente Poteri Supernormali;
+Almeno un difetto non barattabile con altre caratteristiche. Scruffy ha
+scambiato una Abilità a Superbo con due a Ottimo, così egli può avere
+quattro Abilità a Ottimo ma nessuna a Superbo.
+
+- Attributi (3 Livelli, 3 usati)
+
+Agilità : Mediocre (-1); Buon Senso: Ottimo (2); Forza: Discreto (0);
+Percezione: Buono (1); Salute: Buono (1);
+
+- Abilità (35 Livelli, 53 usati, equilibrati da 3 difetti)
+
+Bluffare: Ottimo (4); Cacciare: Buono (3); Cantare: Buono (3);
+Cavalcare: Buono (3); Conoscenza area (West): Buono (3); Evitare: Buono
+(3); Lavoro di squadra: Ottimo (4); Lupara: Ottimo (4); Meccanica delle
+diligenze: Buono (3); Muoversi in silenzio: Buono (3); Pistole:
+Discreto (2); Pronto soccorso: Buono (3); Raccontare storie: Buono (3);
+Reggere l'alcool: Buono (3); Rissa: Discreto (2); Suonare armonica:
+Buono (3); Insulti "grintosi": Ottimo (4);
+
+- Doni (2 doni, 2 usati);
+
+Non dimentica mai una faccia; Empatia: sente che tipo di persona ha
+davanti.
+
+- Difetti:
+
+Troppo loquace; Abitudine disgustosa - sputare tabacco masticato;
+Pigro; Vecchio, con tutto ciò che implica....
+
+### Ambientazioni moderne
+
+##### Dolores Ramirez, giornalista e detective, circa 1990
+
+Limiti del Master: 10 Attributi (5 Livelli); 50 Livelli di Abilità, con
+un massimo di 1 Superbo, 2 Ottimo; 2 doni; poteri psi limitati.
+
+Nota: Il giocatore ha dimenticato una Abilità molto importante per
+Dolores, Ricerca. Ci si è resi conto di questo durante il gioco, e dal
+momento che Dolores, per l'attività che fa, avrebbe avuto diritto a
+quella Abilità, il giocatore ha chiesto al Master di permettere che
+Ricerca fosse considerato un Tratto Caratteriale libero (vedi cap.2).
+Il Master fu d'accordo, e Ricerca a Buono venne aggiunto nella scheda
+personaggio di Dolores. Dal momento che Dolores ha già 1 Abilità a
+Superbo e 4 a Ottimo, Buono è stato il massimo livello da lei
+ottenibilein questo caso. Questo non implica spendere dei punti
+livello, dal momento che i Tratto Caratteriale liberi sono extra.
+
+- Attributi (5 Livelli, 7 usati, equilibrati da un difetto)
+
+Apparenza: Buono (1); Costituzione: Buono (1); Destrezza: Discreto (0);
+Fortuna: Buono (1); Forza: Scarso (-2); Freddezza: Buono (1);
+Intelligenza: Ottimo (2); Resistenza ai danni: Buono (1); Sanità
+mentale: Ottimo (4); Volontà: Discreto (0);
+
+- Abilità (50 livelli, 56 usati, equilibrati da un difetto);
+
+Acrobatica: Discreto (2); Camuffarsi: Ottimo (4); Contatti misteriosi:
+Buono (3); Criminologia: Mediocre (1); Cucina messicana: Mediocre (1);
+Fotografia: Buono (3); Guidare: Buono (3); Intervistare: Buono (3);
+Irrompere: Buono (3); Karate (Difficile) Discreto (3); Muoversi in
+silenzio: Buono (3); Nascondersi nelle ombre: Ottimo (4); Nuotare:
+Discreto (2); Occultismo: Buono (3); Recitare: Ottimo (4); Scalare:
+Discreto (2); Scrivere: Superbo (5); Usare Computer: Buono (3);
+
+- Doni (2 Doni,  4 Usati, equilibrati dai difetti)
+
+Ambidestra; Bella voce; Senso del pericolo; Non dimentica mai un nome.
+
+- Difetti
+
+Troppo sicura di sè; Ambiziosa; Ostinata; Orgogliosa.
+
+##### Sherman Foley, senza fissa dimora e scanner, giorni nostri
+
+Personaggio creato da Bernard Hsiung
+
+Note del Master: nessun Attributo specificato, livelli a disposizione =
+½ gli attributi scelti; 50 livelli di Abilità, con un massimo di 1 a
+Superbo e 4 a Ottimo, 2 Doni, semilimitate capacità psi.
+
+Il giocatore di Sherman ha scelto di usare solo 4 attributi quando il
+Master gli ha chiesto di scegliere quali attributi riteneva necessari.
+Ciò significa che Sherman ha qualsiasi attributo non specificato nella
+lista - ma ritenuto fondamentale dal Master - considerato come
+Discreto.
+
+- Attributi: (4 attributi scelti, 2 livelli a disposizione, 2 usati)
+
+Percezione: Ottimo (2); Resistenza ai danni: Mediocre (-1); Salute:
+Mediocre (-1); Volontà: Ottimo (2);
+
+- Abilità: (50 livelli, 44 usati, 6 usati per equilibrare 1 Dono)
+
+Andare per fogne: Mediocre (1); Bere alcoolici: Buono (3); Camuffarsi
+nell'ambiente urbano: Discreto (2); Chiedere l'elemosina: Discreto (2);
+Coltello: Mediocre (1); Conoscenza Area, centro città (facile): Ottimo
+(3); Conoscenza area, Terra: Mediocre (1); Conoscenza delle fobie
+(Difficile): Buono (4); Guidare: Disastroso (-1); Meditazione: Buono
+(3); Pettegolezzi di strada: Buono (3); Procurarsi del cibo: Buono (3);
+Sopravvivenza urbana: Ottimo (4); Usare il Controllo Mentale (molto
+Difficile) : Ottimo (6); Usare Telecinesi (molto Difficile): Buono (5);
+Usare Telepatia (molto Difficile): Buono (5); Doni (2 disponibili,
+nessuno usato)
+
+- Poteri supernormali: (3 usati, equilibrati da difetti, doni ridotti e
+abilità ridotte)
+
+Controllo mentale, Telepatia, Telecinesi
+
+- Difetti:
+
+L'uso dei poteri psi richiede immobilità e concentrazione; povero;
+sfortunato.
+
+### Ambientazioni Fantascientifiche
+
+##### Capitan Wallop della Pattuglia Spaziale
+
+Note del Master: Questo personaggio è stato creato pensando ad una
+campagna spaziale molto "hollywoodiana". Limiti del Master: 4 Attributi
+(4 Livelli), 50 Livelli con un massimo di 1 a Superbo, 3 a Ottimo, 8 a
+Buono; 2 doni; un Potere Supernormale, soggetto all'approvazione del
+Master.
+
+- Attributi (4 Livelli, 6 usati, compensati da un difetto)
+
+Corpo: Buono (1); Percezione/Reazione: Superbo (3);
+Ragionamento/Meccanica: Ottimo (2); Volontà: Discreto (0);
+
+- Abilità (50 livelli, 56 usati, equilibrati da un difetto)
+
+Acrobatica: Buono (3); Buonsenso da bar: Buono (3); Cannoni: Ottimo
+(4); Cavillare: Discreto (2); Combattimento senz'armi: Discreto (2);
+Elettronica: Buono (3); Familiarità con i maggiori sistemi planetari:
+Buono (3); Imitare: Mediocre (1); Imparare lingue: Discreto (2);
+Muoversi a G-Zero: Buono (3); Muoversi in silenzio: Ottimo (4);
+Navigazione: Buono (3); Pilotare: Ottimo (4); Recitare/Camuffarsi:
+Ottimo (4); Riparare sistemi di esplorazione: Buono (3); Scienze
+teoriche: Discreto (2); Usare Blaster: Superbo (5); Usare Computer:
+Discreto (2);
+
+- Doni: (2 , 4 usati, equilibrati dai difetti)
+
+Bello, Reputazione da Eroe, Mai disorientato nello spazio, Capitano
+della Pattuglia Spaziale
+
+- Poteri Supernormali: (1, 1 preso)
+
+Capace di "sintonizzarsi" con una mente qualsiasi in un raggio di 1.5
+km e di seguire la traccia lasciata da questa mente previo Tiro
+Situazionale su Buono ogni 15 minuti.
+
+- Difetti:
+
+Farfallone, Coraggioso al limite della follia, Patriota fanatico, Deve
+obbedire ai superiori.
+
+##### Seihook, Alieno di Alebaran.
+
+Gli Aldebaraniti (il loro nome è impossibile da pronunciare per gli
+umani) sono una razza non umanoide. Essi hanno l'aspetto di un insieme
+di roccia e liane animate, e digeriscono un muschio che sembra
+corroderli e digerirli. Essi possono usare queste "liane" per bere i
+liquidi, e l'alcool ha su di loro la stessa influenza che ha sugli
+umani. Essi non posseggono mani, ma hanno dei forti poteri psi che
+permettono loro di manipolare l'ambiente circostante e perfino di
+viaggiare nello spazio. Essi sono amichevoli con gli umani - "aure
+mooolto interessanti", dicono. In generale, sono sconvolti dalla nostra
+burocrazia, odiano la guerra, valutano la famiglia sopra ogni altra
+cosa e amano il comfort, ma non cercano il benessere estremo. La loro
+Resistenza Ai Danni è determinata dalla loro Taglia; la Percezione è
+determinata dalla loro Empatia, che - dicono - si estende anche agli
+oggetti inanimati. I poteri psi usati come Attributi indicano la forza
+di questi poteri a grandi linee; le Abilità psi indicano la capacità di
+usare questa forza.
+
+Gli Aldebaraniti sono ermafroditi (si "intrecciano" fra di loro per
+procreare) , così Seihook può essere considerato sia maschio che
+femmina.
+
+Note del Master: 8 Attributi (5 Livelli); 40 Livelli di abilità con 1
+Superbo, 2 a Ottimo; 2 Doni; i Poteri Supernormali vengono considerati
+come attributi, e non vengono calcolati nei costi.
+
+- Attributi: (5 Livelli, 7 usati, equilibrati da un difetto)
+
+Empatia: Discreto (0); Levitazione: Buono (1); Ragionamento: Ottimo
+(2); Reazione: Discreto (0); Taglia: Buono (1); Telecinesi: Ottimo (2);
+Telepatia: Buono (1); Volontà: Discreto (0);
+
+- Abilità (40 Livelli, 40 usati)
+
+Abilità Empatiche: Ottimo (4); Abilità mediche: Buono (3); Abilità
+telecinetiche: Buono (3); Barattare: Ottimo (4); Conoscenza degli usi
+delle razze aliene: Buono (3); Etichetta da bar: Discreto (2);
+Folklore: Discreto (2); Levitare altri: Discreto (2); Levitare sé
+stessi: Superbo (5); Psicologia: Ottimo (4); Scienze: Mediocre (1);
+Storia: Discreto (2); Telepatia - leggere la mente: Discreto (2);
+Telepatia - maschera pensieri: Scarso (0); Telepatia - proiezione del
+pensiero: Buono (3);
+
+- Doni (2 disponibili, 4 usati, equilibrati da dei difetti)
+
+Non sente dolore; Gli animali eseguono i suoi ordini su un tiro di
+Attributo Empatia di Ottimo o superiore; Tollerante; Benestante (per un
+aldebaranita)
+
+- Difetti:
+
+Burlone - ama parlare usando dei pessimi accenti usando il suo potere
+di proiezione mentale; Pettegolo; Codardo (teme la morte)
+
+##### Screamer (Frederick Grant), Navigatore del ciberspazio
+
+Personaggio Cyberpunk creato da Stephan Szabo
+
+Note del Master: 7 Attributi (3 Livelli), 30 livelli di abilità, con un
+massimo di 1 a Superbo e 4 a Ottimo. 2 Doni; Gli implanti cibernetici
+contano come Doni, e non come Poteri Supernormali.
+
+- Attributi (3 Livelli, 5 usati, equilibrati da dei difetti)
+
+Carisma: Scarso (-2); Corpo: Buono (1); Forza: Discreto (0);
+Intelligenza: Superbo (3); Reazione: Ottimo (2); Volontà: Discreto (0);
+
+- Abilità: (30 livelli, 30 usati)
+
+Armi da fuoco: Ottimo (4); Combattimento senz'armi: Discreto (2);
+Computer - costruire e riparare: Ottimo (4); Computer - programmare:
+Superbo (5); Computer - Teoria ed algoritmi: Ottimo (4); Elettronica:
+Ottimo (4); Etichetta della Rete: Buono (3); Etichetta della Strada:
+Discreto (2); Motociclismo: Discreto (2);
+
+- Doni: (2 doni, 6 usati, equilibrati da dei difetti)
+
+Implanti: (Datajack, Multitasking di processi cognitivi, Vista
+termografica, Compensazione in caso di luce intensa, Vista
+telescopica); Fortunato
+
+- Difetti:
+
+Sanguinario; Incurante della morte; Maniaco e depresso; Personalità
+multipla; Troppo sicuro di sè.
+
+### Personaggi vari
+
+##### Fan Yin Wong, Fantasma
+
+Fan Yin Wong viene da una campagna dove i personaggi sono fantasmi con
+un basso livello di karma. Essi devono compiere un certo numero di
+buone azioni prima di rinascere, ma la loro abilità di influire sul
+mondo materiale è molto limitata.
+
+Note del Master: 12 Attributi (6 livelli), 25 Livelli di Abilità, con
+un massimo di 1 a Superbo e 2 a Ottimo; nessun dono, ma 6 Poteri
+Supernormali con dei limiti al numero di volte che è possibile usarli
+per singolo giorno; 2 Difetti inerenti alla personalità del personaggio
+richiesti, e non trattabili con altri Tratti Caratteriali.
+
+I Poteri Supernormali, in questo caso sono descritti in termini di
+"volte per giorno" e livelli di Abilità. Il livello di partenza è
+Scarso. Per innalzare questo livello sopra Scarso il prezzo da pagare è
+pari a quello di un Dono.
+
+- Attributi: (6 Livelli, 4 presi, 2 livelli scambiati con 6
+livelli-abilità)
+
+Attitudine alla meccanica: Scarso (-2); Bellezza: Ottimo (2); Carisma:
+Discreto (0); Destrezza: Buono (1); Forma: Buono (1); Forza: Discreto
+(0); Mente: Discreto (0); Percezione: Superbo (3); Riflessi: Buono (1);
+Saggezza: Mediocre (-1); Sanità mentale: Mediocre (-1); Volontà:
+Discreto (0);
+
+- Abilità: (25 Livelli, 31 presi, con 2 punti attributo spesi)
+
+Accudire animali: Buono (3); Atletica: Scarso (0); Conoscenza area
+(Facile) : Buono (2); Conoscenza dei giornali femminili: Superbo (5);
+Conoscenza dei serial polizieschi: Ottimo (4); Contrattare: Buono (3);
+Folklore: Discreto (2); Gestione economica: Buono (3); Guidare:
+Discreto (2); Mentire: Discreto (2); Muoversi in silenzio: Mediocre
+(1); Scienze: Mediocre (1); Usare computer: Discreto (2); Vita
+all'aperto: Mediocre (1);
+
+- Doni (0 doni, 2 presi, equilibrati da dei difetti)
+
+Pollice Verde; Ostinata;
+
+- Poteri Supernormali (6 a disposizione, 5 presi, 1 usato con 2 difetti
+per aumentare il livello di potere di alcuni di questi).
+
+Controllare animali (3/gg): Scarso; Influenzare i sogni (1/gg): Scarso;
+Leggere la mente (4/gg): Mediocre; Paralizzare esseri viventi: (3/gg):
+Mediocre; Passare attraverso i muri (6 al giorno): Discreto;
+
+- Difetti:
+
+Paura dei ragni (anche come fantasma); Indecisa sino all'ultimo, e si
+decide solo se messa davanti ad eventuali opportunità mancate.
+
+##### Cassandra Pine, Vampira e Investigatrice Privata
+
+Creata da Deird'Re Brooks
+
+Note del Master: 10 Attributi (5 Livelli), 60 Livelli di abilità, con
+un massimo di 1 Superbo, 4 Ottimi; 2 Doni; 3 Poteri Supernormali:
+
+- Attributi (5 Livelli, 7 Usati, bilanciati da un difetto)
+
+Bellezza: Discreto (0); Carisma: Discreto (0); Destrezza: Ottimo (2);
+Forza: Discreto (0), Scala 3; Grinta: Buono (1); Intelligenza: Buono
+(1); Percezione: Ottimo (2); Stamina: Buono (1); Umanità: Mediocre
+(-1); Volontà: Buono (1);
+
+- Abilità: (60 Livelli, 60 usati)
+
+Armi da fuoco: Buono (3); Atletica: Discreto (2); Coltello: Discreto
+(2); Computer: Discreto (2); Conoscenza della sua città natale
+(Facile): Buono (2); Controllo mentale (Molto difficile): Discreto (4);
+Evitare: Buono (3); Guidare: Buono (3); Intimidire: Buono (3);
+Investigare: Superbo (5); Lavorare con Animali: Mediocre (1); Muoversi
+in silenzio: Buono (3); Procedure di polizia (difficile): Discreto (3);
+Psicometria (Molto Difficile): Discreto (4); Ricerca: Ottimo (4);
+Sicurezza elettronica: Ottimo (4); Sotterfugi: Buono (3); Spagnolo:
+Mediocre (1); Tae Kwon Do (difficile): Buono (4); Vita da strada:
+Ottimo (4);
+
+- Doni (2 Doni, 2 Usati);
+
+Contatti nella polizia, Vista notturna
+
+- Poteri Supernormali: (3 a disposizione, 8 usati, equilibrati da dei
+Difetti);
+
+Velocità Straordinaria; Trasformazione in nebbia o in lupo; Controllo
+mentale; Immobilizzabile solo con un paletto di frassino nel cuore;
+Psicometria; Rigenerazione Scala 3 (istantanea e invisibile)
+
+- Difetti
+
+Le bruciature si rimarginano lentamente; Povera; Il controllo mentale
+necessita di un contatto visivo; Deve dormire durante il giorno;
+Violenta quando si arrabbia;
+
+- Superdifetti:
+
+La luce solare la brucia; Deve bere sangue per vivere; Ha un segreto
+terribile - se viene rivelato è distrutta per sempre.
+
+## Esempi di Creature e animali
+
+Per definire i Tratti Caratteriali degli animali, non c'è bisogno di usare
+lo stesso schema di creazione dei personaggi. Si definiscano solo i Tratti
+Caratteriali essenziali e basta. Per quanto riguarda la scala della Forza,
+si faccia riferimento alla sezione 3.3.
+
+Leone
+
+Percezione: Ottimo; Corpo a Corpo: Ottimo; Seguire preda: Ottimo;
+Evitare: Discreto; forza (Scala 2): da Discreto a Ottimo; Resistenza ai
+danni: da Discreto a Superbo
+
+Difetti: Pigro
+
+Orso Grizzly:
+
+Attributi: Percezione: Buono; Corpo a Corpo: Ottimo; Evitare: Discreto;
+Forza (Scala 3): da Discreto a Ottimo; Resistenza ai Danni: da Discreto
+a Ottimo;
+
+Difetti: Furia Omicida:
+
+Puzzola:
+
+Attributi: Corpo a Corpo: Scarso; Combattimento a raggio: Buono;
+Evitare: Scarso; Resistenza ai danni: Disastrosa;
+
+Potere Supernormale: Fluido puzzolente che acceca e rende incapaci di
+compiere alcunchè.
+
+Ragno Gigante:
+
+Attributi: Corpo a Corpo: Buono; Evitare: Scarso; Resistenza ai danni:
+Buono;
+
+Poteri Supernormali: Veleno paralizzante; Tela (si rompe con un tiro di
+Forza di difficoltà Buono)
+
+Drago (da modificare a piacere)
+
+Attributi: Corpo a Corpo: da Buono a Ottimo; Combattimento a raggio:
+Buono; Evitare: Mediocre; Resistenza ai danni: da Discreto a Ottimo;
+Forza (Scala da 3 a 9): da Discreto a Ottimo;
+
+Poteri Supernormali: Fuoco; Volo; Pelle dura (-1..-3); Ipnosi con lo
+sguardo; Potenziale magico (non tutti)
+
+Difetti: Avido
+
+## Equipaggiamento
+
+E' possibile definire qualunque tipo di equipaggiamento usando i livelli di
+Fudge. Non è strettamente necessario fare ciò, ma è possibile farlo se
+desiderato. Qualsiasi tipo di equipaggiamento, da un'ascia primitiva ad una
+sofisticata astronave può essere descritto in questa maniera usando tanti
+Tratti Caratteriali quanti se ne rendono necessari.
+
+Ad esempio, una spada vecchia e rugginosa trovata in un umido sotterraneo
+potrebbe essere descritta in questo modo:
+
+**Filo**: Disastroso; **Resistenza**: Scarso; **Aspetto**: Scarso;
+
+Tale arma viene considerata come un bastone, anzichè una spada, per via
+della sua scarsa affilatura. Il Master potrebbe addirittura richiedere un
+Tiro Situazionale ogni tot Rounds: La spada si rompe se, parando, il Master
+ottiene Mediocre o peggio.
+
+Quando quest'arma era nuova, le sue caratteristiche potevano essere:
+
+**Filo**: Buono; **Resistenza**: Ottimo; **Aspetto**: Ottimo;
+
+In questo caso, un'arma simile molto probabilmente meriterebbe certamente
+il bonus di +1 per l'affilatura, e ben difficilmente si romperebbe in
+circostanze normali, e il suo aspetto favorirebbe reazioni positive da
+parte delle altre persone.
+
+Una spada magica ingioiellata trovata nella tana di un drago potrebbe
+essere così definita:
+
+Apparenza: Superba;
+
+Doni: +3 contro i Trolls, le ferite inflitte non si rimargineranno
+mai.
+
+Difetti: Scopo (Cerca di dominare il possessore e costringerlo a
+cacciare i Trolls)
+
+Abilità: Dominare possessore: Discreto (Azione da opporsi contro un
+attributo di Volontà)
+
+Una spada magica diversa potrebbe essere descritta così:
+
+Poteri Supernormali : Creazione di fiamme.
+
+Difetti: La spada genera fiamme solo con un Tiro Situazionale di
+Buono o meglio
+
+Abilità: Sparare Fiamme: Ottimo (in un raggio di 3 metri)
+
+Ovviamente, se non si riesce a farle sparare le fiamme, una spada simile
+può essere usata normalmente, quindi non è poi così senza valore...anche se
+non lancia il fuoco.
+
+Come esempio finale, si consideri una navetta spaziale a due posti:
+
+Attributi: Accelerazione: Ottimo; Maneggevolezza: Superbo;
+Velocità: Buono, Scala 15; Dimensioni: Discreta, Scala 8;
+
+Abilità: Navigazione: Buono; Bersaglio: Superbo; Autopilota:
+Discreto; Distrazioni: Mediocre; Preparazione Cibo: Scarso;
+
+Doni: Laser su torrette, Iperspazio, può essere usata
+nell'atmosfera, capsule di salvataggio.
+
+Difetti: Parti non standard (ricambi costosi), Brutta a vedersi,
+scomoda, il portellone ha un cigolìo fastidioso.
+
+
